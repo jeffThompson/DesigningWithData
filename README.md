@@ -32,7 +32,7 @@ May change, so be sure to check Canvas and the Github page regularly!
 Introductions and syllabus, ideation session, VLE access
 
 **Homework**  
-[Drawings of Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week01_DrawingData.md)
+[Drawings of Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week01_DrawingData.md), be sure you have access to Adobe Illustrator (see the assignment for details)
 
 \- \- \-
 
@@ -40,7 +40,7 @@ Introductions and syllabus, ideation session, VLE access
 Illustrator basics, setting up a document, drawing basic shapes, RGB color, text, citing sources, printing
 
 **Homework**  
-[Time Data](), check for VLE access (non-majors only)
+[Time Data]()
 
 \- \- \-
 
