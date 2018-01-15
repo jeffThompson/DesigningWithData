@@ -8,7 +8,7 @@ DATA VISUALIZATION
     Meeting times   Wednesdays 9.00am–12.50pm
     Location        Morton 324 (Richardson Room)
 
-What happens when you correlate income data with areas prone to the effects of climate change?  What do 100 years of weather look like?  This course is designed to introduce methodologies and tools for looking at data and using the tools of design to turn it into useful and interesting visual representations. Data visualization is different from statistics, data science, or even simply understanding scientific data: we’re not so interested in proving things as we are in mining stories to tell within data and finding appropriate, exciting ways of communicating them. Throughout the semester, we’ll be doing data visualization, not data visualization.
+What happens when you correlate income data with areas prone to the effects of climate change?  What do 100 years of weather look like?  This course is designed to introduce methodologies and tools for looking at data and using the tools of design to turn it into useful and interesting visual representations. Data visualization is different from statistics, data science, or even simply understanding scientific data: we’re not so interested in proving things as we are in mining stories to tell within data and finding appropriate, exciting ways of communicating them. Throughout the semester, we’ll be doing data *visualization*, not *data* visualization.
 
 >"90% of the data in the world today has been created in the last two years." – IBM report on big data
 
@@ -21,7 +21,7 @@ This semester will begin by considering data with only analog technology: pencil
 You will create several shorter projects followed by the development of a large final project of your own devising. While much of our work will be print-based, you will be welcome to consider non-traditional output formats such as videos, websites, installations, sculpture, and sonification, too. Along the way, we’ll also talk about the influence of data on our daily life and society, look at examples of artists and designers working with data in interesting ways, dig for data online (the data equivalent of dumpster diving), and make lots of stuff.
 
 For information about 
-Homework, grades, etc, please see CoursePolicies.md.
+Homework, grades, etc, please see `CoursePolicies.md`.
 
 ---
 
