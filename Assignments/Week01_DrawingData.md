@@ -8,17 +8,27 @@ DRAWING DATA
 Soon we'll be thinking about scientific and social data, and learn to use computers for parsing large datasets and making complex visualizations. But for our first assignment, we'll start a little more simple: your assignment this week is to collect data about your daily life and find a way of displaying that information visually.
 
 **DATA**  
-Think about what data you can capture: things that describe the mundane, personal, and usual activities that make up your day. (We'll do an ideation session together in class to get this process started.) Once you've decided what to record, think about how:
+Think about what data you can capture: things that describe the mundane, personal, and usual activities that make up your day. (We'll do an ideation session together in class to get this process started.) Data visualization is all about asking questions and telling stories – think about what kinds of questions you can ask about your daily life and record the result!
+
+Once you've decided what to record, think about how:
 
 * Where should you record your data? Your phone in a note file? Notebook? Scrap of paper in your pocket? Camera?  
 * What kind of information does your data require you capture? Do you need special notation?  
 * What time range should you record? (You'll want a lot of data to show – more is better!)  
+
+Georgia Lupi and Stefani Posavec of the *Dear Data* project have [some additional suggestions](http://fivethirtyeight.com/features/dear-data-and-fivethirtyeight-want-you-to-visualize-your-podcast-habits/):
+
+* Record your data in realtime (more accurate and less likely to be forgotten).  
+* Collect everything! Little details may be important later.  
+* Be honest! No cheating or fudging the data.  
 
 It may be helpful to record a few different things to be sure you get enough, or to combine into a more interesting story.
 
 **VISUALIZATION**  
 With your data recorded (or even while it's being captured), consider how you'll display it. Your visualization doesn't need to be useful or even easy to read, but consider:
 
+* Look for patterns, categories, and anomalies – find ways to highlight or show them.  
+* A simple first step may be just counting things!  
 * What design elements (shape, size, color, composition, etc) and materials you can use?  
 * How do they communicate something about your data?  
 * How can you label and otherwise explain your visualization, without over-explaining?  
@@ -40,9 +50,11 @@ See the links below, and the images in this week's `Images` folder.
 
 * Nicholas Felton's wonderfully-design and -printed [*Annual Reports*](http://feltron.com/index.html), capturing a range of personal data throughout the year (facilitated, in part, by a custom iOS app he built)  
 * Georgia Lupi and Stefanie Posavec's amazing [*Dear Data* project](http://www.dear-data.com/all/). Georgia and Stefanie recorded data of their daily lives each week for a year, then sent hand-drawn visualizations to each other as postcards. Read/listen to [more about the project here](http://www.dear-data.com/theproject/).  
+* Artist [Danica Phelps](https://www.brennangriffin.com/exhibitions/danica-phelps-stretch#exhibition-images-) creates drawings that combine personal financial data and drawings of her surroundings and family  
 * The [*Bicycle Seismograph*](http://katihyyppa.com/bicycle-seismographs), a more mechanical approach developed by Kati Hyyppä  
-* Output as text rather than image, George Perec's [*Attempt at Exhausting a Place in Paris*](https://en.wikipedia.org/wiki/An_Attempt_at_Exhausting_a_Place_in_Paris) (an excerpt is in the `Readings` folder) and Kenneth Goldsmith's [*Fidget*](http://epc.buffalo.edu/authors/goldsmith/perloff_goldsmith.html) attempt to capture as much as possible about a place  
+* From 1452–1519, Leonardo DaVinci made over 13,000 drawings and notes, including the gems in this week's `Images` folder – drawing and images are still useful ways to understand complex systems  
+* Output as text rather than image, George Perec's [*Attempt at Exhausting a Place in Paris*](https://en.wikipedia.org/wiki/An_Attempt_at_Exhausting_a_Place_in_Paris) (from 1975, an excerpt is in the `Readings` folder) and Kenneth Goldsmith's [*Fidget*](http://epc.buffalo.edu/authors/goldsmith/perloff_goldsmith.html) (1997) attempt to capture as much as possible about a place  
 * Less graphical, Hasan Elahi's [*Tracking Transience*](http://elahi.umd.edu/track/) and Wafa Bilal's [*3rdi*](http://wafaabilal.com/thirdi) use cameras and the web to explore surveillance and race  
 
-*Above: A visualization of data about getting dressed, from Georgia Lupi and Stefanie Posavec's "Dear Data" project*
+*Above: A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project*
 
