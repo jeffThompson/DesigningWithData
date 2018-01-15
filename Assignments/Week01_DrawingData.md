@@ -29,6 +29,7 @@ Your finished project should include the following:
 
 * Finished drawing, at least `8.5x11"`, with a legend showing how to read your visualization  
 * Please include your name, either on the front (in a way that fits with the drawing) or on the back  
+* Take a photo of your drawing with your phone and upload to Canvas  
 
 Remember that craft counts! Your drawings should be clean, free of wrinkles or creases, and look finished. Take time and care in your work. Bring your finished drawing to class – we'll have a short critique of everyone's projects.
 
@@ -39,7 +40,7 @@ Remember that craft counts! Your drawings should be clean, free of wrinkles or c
 * Georgia Lupi and Stefanie Posavec's amazing [*Dear Data* project](http://www.dear-data.com/all/). Georgia and Stefanie recorded data of their daily lives each week for a year, then sent hand-drawn visualizations to each other as postcards  
 * The [*Bicycle Seismograph*](http://katihyyppa.com/bicycle-seismographs), a more mechanical approach developed by Kati Hyyppä  
 * Output as text rather than image, George Perec's [*Attempt at Exhausting a Place in Paris*](https://en.wikipedia.org/wiki/An_Attempt_at_Exhausting_a_Place_in_Paris) (an excerpt is in the `Readings` folder) and Kenneth Goldsmith's [*Fidget*](http://epc.buffalo.edu/authors/goldsmith/perloff_goldsmith.html) attempt to capture as much as possible about a place  
-* Less graphical, Hasan Elahi's [*Tracking Transience*](http://elahi.umd.edu/track/) and Wafa Bilal's [*3rdi*](http://wafaabilal.com/thirdi) cameras and the web to explore surveillance and race  
+* Less graphical, Hasan Elahi's [*Tracking Transience*](http://elahi.umd.edu/track/) and Wafa Bilal's [*3rdi*](http://wafaabilal.com/thirdi) use cameras and the web to explore surveillance and race  
 
 *Above: A visualization of data about getting dressed, from Georgia Lupi and Stefanie Posavec's "Dear Data" project*
 
