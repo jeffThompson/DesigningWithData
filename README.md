@@ -32,7 +32,7 @@ May change, so be sure to check Canvas and the Github page regularly!
 Introductions and syllabus, ideation session, VLE access
 
 **Homework**  
-[Drawings of Data]()
+[Drawings of Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week01_DrawingData.md)
 
 \- \- \-
 
