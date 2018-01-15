@@ -1,4 +1,4 @@
-![A visualization of data about getting dressed, from Georgia Lupi and Stefanie Posavec's "Dear Data" project](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week01_DrawingData/GettingDressed_DearData35_StephaniPosavec-front.jpg)
+![A visualization of data about getting dressed, from Georgia Lupi and Stefanie Posavec's "Dear Data" project](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week01_DrawingData/DearData_Composite.jpg)
 
 DRAWING DATA
 ====
@@ -33,11 +33,13 @@ Your finished project should include the following:
 
 Remember that craft counts! Your drawings should be clean, free of wrinkles or creases, and look finished. Take time and care in your work. Bring your finished drawing to class – we'll have a short critique of everyone's projects.
 
-**If you're not an art major, please be check if you have access to Adobe Illustrator using the [VLE](http://www.stevens.edu/vle)! You can also purchase access to [Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html), if you prefer. If you are a major and haven't installed the Adobe software, please see me after class.** 
+**If you're not an art major, please be check if you have access to Adobe Illustrator using the [VLE](http://www.stevens.edu/vle)! If you can't get on, you'll need to contact IT and get it sorted before class next week. You can also purchase access to [Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html), if you prefer. If you are a major and haven't installed the Adobe software, please see me after class.** 
 
 ### PROJECTS SHOWN  
+See the links below, and the images in this week's `Images` folder.
+
 * Nicholas Felton's wonderfully-design and -printed [*Annual Reports*](http://feltron.com/index.html), capturing a range of personal data throughout the year (facilitated, in part, by a custom iOS app he built)  
-* Georgia Lupi and Stefanie Posavec's amazing [*Dear Data* project](http://www.dear-data.com/all/). Georgia and Stefanie recorded data of their daily lives each week for a year, then sent hand-drawn visualizations to each other as postcards  
+* Georgia Lupi and Stefanie Posavec's amazing [*Dear Data* project](http://www.dear-data.com/all/). Georgia and Stefanie recorded data of their daily lives each week for a year, then sent hand-drawn visualizations to each other as postcards. Read/listen to [more about the project here](http://www.dear-data.com/theproject/).  
 * The [*Bicycle Seismograph*](http://katihyyppa.com/bicycle-seismographs), a more mechanical approach developed by Kati Hyyppä  
 * Output as text rather than image, George Perec's [*Attempt at Exhausting a Place in Paris*](https://en.wikipedia.org/wiki/An_Attempt_at_Exhausting_a_Place_in_Paris) (an excerpt is in the `Readings` folder) and Kenneth Goldsmith's [*Fidget*](http://epc.buffalo.edu/authors/goldsmith/perloff_goldsmith.html) attempt to capture as much as possible about a place  
 * Less graphical, Hasan Elahi's [*Tracking Transience*](http://elahi.umd.edu/track/) and Wafa Bilal's [*3rdi*](http://wafaabilal.com/thirdi) use cameras and the web to explore surveillance and race  
