@@ -56,5 +56,15 @@ See the links below, and the images in this week's `Images` folder.
 * Output as text rather than image, George Perec's [*Attempt at Exhausting a Place in Paris*](https://en.wikipedia.org/wiki/An_Attempt_at_Exhausting_a_Place_in_Paris) (from 1975, an excerpt is in the `Readings` folder) and Kenneth Goldsmith's [*Fidget*](http://epc.buffalo.edu/authors/goldsmith/perloff_goldsmith.html) (1997) attempt to capture as much as possible about a place  
 * Less graphical, Hasan Elahi's [*Tracking Transience*](http://elahi.umd.edu/track/) and Wafa Bilal's [*3rdi*](http://wafaabilal.com/thirdi) use cameras and the web to explore surveillance and race  
 
+### DATA ARTICLES  
+The articles shown at the start of class about the proliferation and impact of data:
+
+* [IBM report on data stats](https://www.ibm.com/blogs/insights-on-business/consumer-products/2-5-quintillion-bytes-of-data-created-every-day-how-does-cpg-retail-manage-it/) (90% of data has been created in the last two years, 2.5 quintillion bytes of data is created every day)  
+* [New Yorker piece on the Flatiron Institute](https://www.newyorker.com/magazine/2017/12/18/jim-simons-the-numbers-king), whose mission is to deal with the tremendous influx of scientific data that is never looked at  
+* Target famously knew a [teen girl was pregnant before her father did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#3d3594616668)  
+* Google's image-recognition software would [often mistake black people as gorillas](https://www.wnyc.org/story/deep-problem-deep-learning/) (their fix was to [disable the "gorilla" label](https://www.theverge.com/2018/1/12/16882408/google-racist-gorillas-photo-recognition-algorithm-ai))  
+* Google's "art selfies" [aren't available in Illinois because of biometric laws](http://www.chicagotribune.com/business/ct-biz-google-art-selfies-20180116-story.html)  
+* Machine-learning algorithms, fueled by piles of data, are [used to sentence people convicted of crimes](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)  
+
 *Above: A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project*
 
