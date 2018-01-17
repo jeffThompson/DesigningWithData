@@ -63,6 +63,8 @@ The articles shown at the start of class about the proliferation and impact of d
 * [New Yorker piece on the Flatiron Institute](https://www.newyorker.com/magazine/2017/12/18/jim-simons-the-numbers-king), whose mission is to deal with the tremendous influx of scientific data that is never looked at  
 * Target famously knew a [teen girl was pregnant before her father did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#3d3594616668)  
 * Google's image-recognition software would [often mistake black people as gorillas](https://www.wnyc.org/story/deep-problem-deep-learning/) (their fix was to [disable the "gorilla" label](https://www.theverge.com/2018/1/12/16882408/google-racist-gorillas-photo-recognition-algorithm-ai))  
+* E-ZPass readers are all over the NY area and [detect your car even when you're not paying a toll](https://hackaday.com/2013/09/16/modified-e-zpass-detects-reads-far-from-toll-booths/)  
+* Metadata (or data *about* data) has been [used in phone surveillance in the US for years](https://www.theverge.com/2017/5/3/15527882/nsa-collecting-phone-records-us-citizen-metadata)  
 * Google's "art selfies" [aren't available in Illinois because of biometric laws](http://www.chicagotribune.com/business/ct-biz-google-art-selfies-20180116-story.html)  
 * Machine-learning algorithms, fueled by piles of data, are [used to sentence people convicted of crimes](https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html)  
 
