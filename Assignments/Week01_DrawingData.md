@@ -8,7 +8,7 @@ DRAWING DATA
 Soon we'll be thinking about scientific and social data, and learn to use computers for parsing large datasets and making complex visualizations. But for our first assignment, we'll start a little more simple: your assignment this week is to collect data about your daily life and find a way of displaying that information visually.
 
 **DATA**  
-Think about what data you can capture: things that describe the mundane, personal, and usual activities that make up your day. (We'll do an ideation session together in class to get this process started.) Data visualization is all about asking questions and telling stories – think about what kinds of questions you can ask about your daily life and record the result!
+Think about what data you can capture: things that describe the mundane, personal, and usual activities that make up your day. (We'll do an ideation session together in class to get this process started.) Data visualization is all about asking questions and telling stories – think about what kinds of questions you can ask about your daily life and record the result! (You can find images of our ideation session Post-Its in the `Resources` folder.)
 
 Once you've decided what to record, think about how:
 
