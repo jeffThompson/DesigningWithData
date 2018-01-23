@@ -39,17 +39,19 @@ Your finished project should include the following:
 ### RESOURCES  
 
 * If you need help with Illustrator this week (or this semester), these [video tutorials from Adobe](https://helpx.adobe.com/illustrator/tutorials.html) may be helpful  
-* The [Graphic Design section of Stack Exchange](https://graphicdesign.stackexchange.com/) may also be a good place to ask Illustrator questions    
+* The [Graphic Design section of Stack Exchange](https://graphicdesign.stackexchange.com/) may also be a good place to ask Illustrator questions  
+* A [nice list of 11 ways to show time data](https://flowingdata.com/2010/01/07/11-ways-to-visualize-changes-over-time-a-guide/) from Flowing Data  
 
 ### PROJECTS SHOWN  
-
+* An interesting set of line charts from [the New York Times on NFL touchdown passes](https://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html) (interesting even if you don't care about sports)  
+* Another from the New York Times, showing a [model of how people vote based on the year they were born](https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html) – especially interesting how all the data is shown at once, but is highlighted for specific data streams  
+* [Google NGram viewer](https://books.google.com/ngrams), which lets you search for trends in word use over time  
 * Some early visualizations:
   * [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens), showing life expectancy data from [Graunt's life table](https://en.wikipedia.org/wiki/Life_table) (1669)  
   * [Robert Plot's](https://en.wikipedia.org/wiki/Robert_Plot) graph of barometric pressure in Oxford (1685)  
   * [Nicolaas Kruik's](https://en.wikipedia.org/wiki/Nicolaas_Kruik) diagram showing the distance of planets to Earth (1732)  
   * [Joseph Priestley's](https://en.wikipedia.org/wiki/Joseph_Priestley) chart of the lifespans of 2000 famous people from 1200BC–1750AD, and a similar chart of "revolutions of empire" (1765)
   * [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) created the first time-series line graph with labeled axes, grid lines, title, annotations, and color to indicate categories – here showing imports and exports to and from Denmark and Norway (1786)  
-* [Google NGram viewer](https://books.google.com/ngrams), which lets you search for trends in word use over time  
 * A parody line chart by [William Addison Dwiggins](https://en.wikipedia.org/wiki/William_Addison_Dwiggins), showing how breaking convention (and the visualization) can tell more than the data itself (1919)  
 
 *Top: Joseph Priestley's "A Specimen of a Chart of Biography" from 1765*
