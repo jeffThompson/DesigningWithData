@@ -11,7 +11,7 @@ The most common way of showing time series data is a [line chart](https://en.wik
 
 ![Line chart showing world population from 1300–2000](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/WorldPopulation_1300-2000.jpg)
 
-This shows one thing very clearly: a steady rise in population from 1300 until about 1900, then an explosive growth into the year 2000. The scale we use changes how we see our data, but we can also recontextualize our numbers to tell a different story. Here's the same population data, but converted into the amount of time it takes for the world population to double:
+This chart shows one thing very clearly: a steady rise in population from 1300 until about 1900, then an explosive growth into the year 2000. The scale we use changes how we see our data, but we can also recontextualize our numbers to tell a different story. Here's the same population data, but converted into the amount of time it takes for the world population to double:
 
 ![Line chart showing the amount of time it takes for the world population to double](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/WorldPopulationDoublingTime_1500-2100.jpg)
 
@@ -27,8 +27,6 @@ You don't have to show all the data given, and in fact it will probably be bett
 
 **VISUALIZATION**  
 With your research done and data selected, think about how you'll present it. What shapes, colors, and overall visual style best presents the data? Do you want to show a change over time? What labeling does your visualization need? Presenting the data is your main task, but feel free to explore visually and try things out – no need to replicate boring Excel diagrams!
-
-*Above: Joseph Priestley's "A Specimen of a Chart of Biography" from 1765*
 
 ### DELIVERABLES  
 Your finished project should include the following:
@@ -46,11 +44,13 @@ Your finished project should include the following:
 ### PROJECTS SHOWN  
 
 * Some early visualizations:
-  * Christiaan Hygens, showing life expectancy data from Graunt's life table (1669)  
-  * Robert Plot's graph of barometric pressure in Oxford (1685)  
-  * Nicolaas Kruik's diagram showing the distance of planets to Earth (1732)  
-  * Joseph Priestley's chart of the lifespans of 2000 famous people from 1200BC–1750AD, and a similar chart of "revolutions of empire" (1765)
-  * William Playfair created the first time-series line graph with labeled axes, grid lines, title, annotations, and color to indicate categories – here showing imports and exports to and from Denmark and Norway (1786)  
-* Google NGram viewer, which lets you search for trends in word use over time  
-* A parody line chart by William Addison Dwiggins, showing how breaking convention (and the visualization) can tell more than the data itself (1919)  
+  * [Christiaan Huygens](https://en.wikipedia.org/wiki/Christiaan_Huygens), showing life expectancy data from [Graunt's life table](https://en.wikipedia.org/wiki/Life_table) (1669)  
+  * [Robert Plot's](https://en.wikipedia.org/wiki/Robert_Plot) graph of barometric pressure in Oxford (1685)  
+  * [Nicolaas Kruik's](https://en.wikipedia.org/wiki/Nicolaas_Kruik) diagram showing the distance of planets to Earth (1732)  
+  * [Joseph Priestley's](https://en.wikipedia.org/wiki/Joseph_Priestley) chart of the lifespans of 2000 famous people from 1200BC–1750AD, and a similar chart of "revolutions of empire" (1765)
+  * [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) created the first time-series line graph with labeled axes, grid lines, title, annotations, and color to indicate categories – here showing imports and exports to and from Denmark and Norway (1786)  
+* [Google NGram viewer](https://books.google.com/ngrams), which lets you search for trends in word use over time  
+* A parody line chart by [William Addison Dwiggins](https://en.wikipedia.org/wiki/William_Addison_Dwiggins), showing how breaking convention (and the visualization) can tell more than the data itself (1919)  
+
+*Top: Joseph Priestley's "A Specimen of a Chart of Biography" from 1765*
 
