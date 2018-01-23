@@ -1,4 +1,4 @@
-![Joseph Priestley's "A Specimen of a Chart of Biography"](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/AChartOfBiography_JosephPriestley_1765.jpg)
+![Joseph Priestley's "A Specimen of a Chart of Biography"](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/AChartOfBiography_JosephPriestley_1765.png)
 
 TIME DATA
 ====
