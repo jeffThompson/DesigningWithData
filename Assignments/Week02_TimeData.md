@@ -7,13 +7,11 @@ TIME DATA
 
 In our last assignment, you had a chance to think about data and ways to present it visually. For this project, we'll start using "real data" (ie numerical, stored in tables and data files), exploring how we can visualize data that changes over time. 
 
-The most common way of showing time series data is a [line chart](https://en.wikipedia.org/wiki/Line_chart). You've probably seen lots of these, showing things like stock prices or population change:
+The most common way of showing time series data is a [line chart](https://en.wikipedia.org/wiki/Line_chart). You've probably seen lots of these, showing things like stock prices or population change, like in the image on the left:
 
-![Line chart showing world population from 1300–2000](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/WorldPopulation_1300-2000.jpg)
+![Line chart showing world population from 1300–2000](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/WorldPopulationTimeSeries-2up.jpg)
 
-This chart shows one thing very clearly: a steady rise in population from 1300 until about 1900, then an explosive growth into the year 2000. The scale we use changes how we see our data, but we can also recontextualize our numbers to tell a different story. Here's the same population data, but converted into the amount of time it takes for the world population to double:
-
-![Line chart showing the amount of time it takes for the world population to double](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week02_TimeData/WorldPopulationDoublingTime_1500-2100.jpg)
+This chart shows one thing very clearly: a steady rise in population from 1300 until about 1900, then an explosive growth into the year 2000. The scale we use changes how we see our data, but we can also recontextualize our numbers to tell a different story. Above on the left is the same population data, but converted into the amount of time it takes for the world population to double. How does this chart read differently than the one on the right?
 
 There are a ton of other variations and additional elements that would tell us more about the data ([box plots](https://en.wikipedia.org/wiki/Box_plot), [candlestick charts](https://en.wikipedia.org/wiki/Candlestick_chart), [violin plots](https://en.wikipedia.org/wiki/Violin_plot), [error bars](https://en.wikipedia.org/wiki/Error_bar), etc), but for this week we'll keep things simple and focus on showing the change in one or two data streams over time.
 
@@ -34,8 +32,8 @@ Your finished project should include the following:
 * Visualization of a selection of the data, including:  
   * At least one set of data from the file provided, showing a change over time  
   * Within the design of the visualization, include a citation of the data's source (which is listed in the data file)  
-* Final version should be laser-printed on 8x5x11" paper, either at the Fab Lab or off-campus  
-* Upload a PDF of your project to Canvas (`File > Save As...` and select PDF from the dropdown)  
+* Final version should be laser-printed on `8x5x11"` paper, either at the Fab Lab or off-campus  
+* Upload a PDF of your project to Canvas (`File > Save As...` and select `PDF` from the dropdown)  
 
 ### RESOURCES  
 
@@ -44,6 +42,8 @@ Your finished project should include the following:
 * A [nice list of 11 ways to show time data](https://flowingdata.com/2010/01/07/11-ways-to-visualize-changes-over-time-a-guide/) from Flowing Data  
 
 ### PROJECTS SHOWN  
+All images are in this week's `Images` folder, if you want to take a look again.
+
 * An interesting set of line charts from [the New York Times on NFL touchdown passes](https://www.nytimes.com/interactive/2014/10/19/upshot/peyton-manning-breaks-touchdown-passing-record.html) (interesting even if you don't care about sports)  
 * Another from the New York Times, showing a [model of how people vote based on the year they were born](https://www.nytimes.com/interactive/2014/07/08/upshot/how-the-year-you-were-born-influences-your-politics.html) – especially interesting how all the data is shown at once, but is highlighted for specific data streams  
 * [Google NGram viewer](https://books.google.com/ngrams), which lets you search for trends in word use over time  
