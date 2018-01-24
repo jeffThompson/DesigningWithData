@@ -35,6 +35,7 @@ Your finished project should include the following:
   * At least one set of data from the file provided, showing a change over time  
   * Within the design of the visualization, include a citation of the data's source (which is listed in the data file)  
 * Final version should be laser-printed on 8x5x11" paper, either at the Fab Lab or off-campus  
+* Upload a PDF of your project to Canvas (`File > Save As...` and select PDF from the dropdown)  
 
 ### RESOURCES  
 
