@@ -5,22 +5,20 @@ PROPORTION DATA
 
 ### DUE: WEDNESDAY, FEBRUARY 7  
 
-Having worked with data that changes over time, your next project deals with data that represents proportions of a whole. Typically, this is shown using a [pie chart](https://en.wikipedia.org/wiki/Pie_chart), a form developed by William Playfair in 1801. The layout of a pie chart can make it difficult for people to accurately compare proportions, but many other alternatives exist, include [bar charts](https://en.wikipedia.org/wiki/Bar_chart), [treemaps](https://en.wikipedia.org/wiki/Treemapping), and [proportional area chart](https://datavizcatalogue.com/methods/area_chart.html) (lots more suggests [here](https://datavizcatalogue.com/search/proportions.html)).
+Having worked with data that changes over time, your next project deals with data that represents proportions of a whole. Typically, this is shown using a [pie chart](https://en.wikipedia.org/wiki/Pie_chart), a form developed by William Playfair in 1801. While the piechart is most common, the layout can make it difficult for people to accurately compare proportions – many alternatives exist, such as [bar charts](https://en.wikipedia.org/wiki/Bar_chart), [treemaps](https://en.wikipedia.org/wiki/Treemapping), and [proportional area charts](https://datavizcatalogue.com/methods/area_chart.html) (lots more suggests [here](https://datavizcatalogue.com/search/proportions.html)).
 
-This week, our data comes from the US Bureau of Labor Statistics' data on occupations, which is culled from the US census. Write-in answers on the census are translated to 23 major groups, such as `Manufacturing` and further refined to 539 occupations like `Cement, concrete, lime, and gypsum product manufacturing`. To contextualize this data, you'll want to read [this page from the US Census Bureau's site](hhttps://www.census.gov/topics/employment/industry-occupation/about/occupation.html). As before, I've included a cleaned-up version of the data, as well as the original if you want to dig through it.
+This week, our dataset comes from the US Bureau of Labor Statistics' data on occupations, which is culled from the US census. Write-in answers on the census are translated to 23 major groups, such as `Manufacturing` and further refined to 539 occupations like `Cement, concrete, lime, and gypsum product manufacturing`. Each of these has a total, showing how many people work in that occupation. To contextualize this data, you'll want to read [this page from the US Census Bureau's site](https://www.census.gov/topics/employment/industry-occupation/about/occupation.html). Like last week, I've included a cleaned-up version of the data, as well as the original if you want to dig through it.
 
-This data has been collected by the Census Bureau since 1850, and provides a rich portrait of the United States in the form of a dataset. As you look through the data, think about a *story* you want to tell through it. What interesting things can we learn about the American work force from this data? What surprises are there? What things might you have intuitively guessed are confirmed in the data? **You do not need to show everything (and in fact shouldn't!) so try to find parts that resonate with you and can be woven into a story.**
+Occupation data has been collected by the Census Bureau since 1850, and provides a rich portrait of the United States in the form of a dataset. As you look through the data, think about a *story* you want to tell through it. What interesting things can we learn about the American work force from this data? What surprises are there? What things might you have intuitively guessed are confirmed in the data? **You do not need to show everything (and in fact shouldn't!) so try to find parts that resonate with you and can be woven into a story.**
 
-Your final visualization should show proportions within this data set, whether that be as a pie chart (or a series of them), a stacked graph, or some other format.
+Your final visualization, created in Illustrator, should show how different occupations or categories of jobs compare with each other – proportions of a whole. The form of your visualization could be as a pie chart (or a series of them), a stacked graph, some other format common format, or one of your own creation.
 
 **CALCULATING PROPORTIONS**  
-While pie charts look simpler than time series charts, they require more math to get the data into a usable format – we have to convert arbitrary numbers into percentages, angles, or otherwise evenly scaled in some way.
+While pie charts look simpler than time series charts, they require more math to get the data into a usable format – we have to convert arbitrary numbers into percentages, angles, or otherwise evenly-scaled values of some kind.
 
 * Percent: `(Total number of things / number of particular thing) * 100` will give a number between 0–100%  
 * Angle: `(Total number of things / number of particular thing) * 360` will give an angle between 0–360, which you can use for pie chart sections  
 * Arbitrary value: use the same idea above, but multiply by the max value you want, useful for making circles of varying diameter, etc  
-
-*Above: portion of a visualization showing how writers spend their day. Each row is a day (midnight to midnight), and activities are color-coded letting us quickly compare writers' activities.*
 
 ### DELIVERABLES  
 Your finished project should include the following:
@@ -44,7 +42,8 @@ Your finished project should include the following:
 
 ### PROJECTS SHOWN  
 
-* William Playfair's
+* William Playfair's early examples of the pie chart, showing imports and exports in his 1801 publication *Statistical Breviary*  
 * Florence Nightingale's ground-breaking visualization in 1857 of the cause of death during the Crimean War, showing that more deaths could be attributed to poor hospital conditions than battlefield wounds  
 * A pie chart alternative is the [treemap](https://en.wikipedia.org/wiki/Treemapping), including a very nice version by Charles Louis de Fourcroy from 1872 and a newer one from the [Harvard-MIT Observatory for Economic Complexity](https://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/nor/all/show/2016/)  
 
+*Top: portion of a visualization showing how writers spend their day. Each row is a day (midnight to midnight), and activities are color-coded letting us quickly compare writers' activities.*
