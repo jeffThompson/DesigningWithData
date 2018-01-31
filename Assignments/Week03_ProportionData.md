@@ -34,7 +34,7 @@ Your finished project should include the following:
 ### RESOURCES  
 
 * More about the [US Census' different "industry" categorizations](https://www.bls.gov/cps/lfcharacteristics.htm#occind) (this page also includes lots more related data, if you want to go digging around, as well as some [interesting charts](https://www.bls.gov/opub/ted/2012/ted_20121026.htm))  
-* If you want to read all 31,293 responses (including people who listed their occupation as vulcanizer, wagon person, motor rewinder, cow tender, and malariologist), see the [census 2016 occupations list](https://www.census.gov/topics/employment/industry-occupation/guidance/indexes.html)  
+* If you want to read all 31,293 responses (including people who listed their occupation as vulcanizer, wagon person, motor rewinder, cow tender, and malariologist), see the [census 2016 occupations list](https://www.census.gov/topics/employment/industry-occupation/guidance/indexes.html) (also in this week's `Data` folder)  
 * More info from the US Census Bureau on [how this data is collected and categorized, and some of the history behind its collection](https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/overview2010.pdf)  
 * The [Data Viz Catalogue](https://datavizcatalogue.com/search/proportions.html) includes lots of other formats for showing proportion data  
 * [Flowing Data has a nice breakdown of nine of these](http://flowingdata.com/2009/11/25/9-ways-to-visualize-proportions-a-guide/), with links to examples  
