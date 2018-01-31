@@ -38,7 +38,7 @@ Your finished project should include the following:
 * More info from the US Census Bureau on [how this data is collected and categorized, and some of the history behind its collection](https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/overview2010.pdf)  
 * The [Data Viz Catalogue](https://datavizcatalogue.com/search/proportions.html) includes lots of other formats for showing proportion data  
 * [Flowing Data has a nice breakdown of nine of these](http://flowingdata.com/2009/11/25/9-ways-to-visualize-proportions-a-guide/), with links to examples  
-* Illustrator tools we covered this week are: transformation commands, rotate tool, join command, and the scissors and pen tools. Want to practice? Try the online [pen game](http://bezier.method.ac/)    
+* Illustrator tools we covered this week are: transformation commands, rotate tool, join command, and the scissors and pen tools. Want to practice? Try the online [pen game](http://bezier.method.ac/).    
 
 ### PROJECTS SHOWN  
 
