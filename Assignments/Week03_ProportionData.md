@@ -16,8 +16,8 @@ Your final visualization, created in Illustrator, should show how different occu
 **CALCULATING PROPORTIONS**  
 While pie charts look simpler than time series charts, they require more math to get the data into a usable format – we have to convert arbitrary numbers into percentages, angles, or otherwise evenly-scaled values of some kind.
 
-* Percent: `(Total number of things / number of particular thing) * 100` will give a number between 0–100%  
-* Angle: `(Total number of things / number of particular thing) * 360` will give an angle between 0–360, which you can use for pie chart sections  
+* Percent: `(Number of particular thing / total number of things) * 100` will give a number between 0–100%  
+* Angle: `(Number of particular thing / total number of things) * 360` will give an angle between 0–360, which you can use for pie chart sections  
 * Arbitrary value: use the same idea above, but multiply by the max value you want, useful for making circles of varying diameter, etc  
 
 ### DELIVERABLES  
