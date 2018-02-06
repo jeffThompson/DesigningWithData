@@ -5,7 +5,7 @@ INFOGRAPHICS: THE TITANIC
 
 ### DUE: WEDNESDAY, FEBRUARY 28  
 
-So far this semester, we've looked at basic types of data and thought about strategies for displaying them. For the next project, we'll use those ideas to build a more complex narrative, weaving together several pieces of data into a cohesive presentation. This way of working can take many forms, but when presented as a singular whole, especially as a poster, we generally call this an *infographic*. (Different from a *visualization* in that it usually focuses more on storytelling with data than on analysis.)
+So far this semester, we've looked at basic types of data and thought about strategies for displaying them. For the next project, we'll use those ideas to build a more complex narrative, weaving together several pieces of data into a cohesive presentation. This way of working can take many forms, but when presented as a singular whole, especially as a poster, we generally call this an *infographic*. (Different from a singular *visualization* in that it usually focuses more on storytelling with data than on analysis.)
 
 We'll use as a source the story of the [RMS Titanic](https://en.wikipedia.org/wiki/RMS_Titanic), a luxury ocean liner that famously sunk after hitting an iceberg. Your job is to create a poster that shows at least three datasets related to the Titanic, it's voyage, the sinking, and/or any subsequent history. You'll research the ship, find and parse data, create the infographic poster in Illustrator, and print it on our large-format inkjet printer.
 
@@ -25,7 +25,7 @@ Your finished project should include the following:
 \* We charge $3 per square foot for printing on our large-format printer (about what it costs in ink and paper). At `18x24"`, your print is `2x1.5 square feet` and will cost `$9.00`. Be sure you have Duckbills activated so you can pay for printing, and check the Fab Lab hours.
 
 ### FOR WEDNESDAY, FEBRUARY 14  
-For next week, your task is to research and gather data. This is generally the first step in any data-vis project, but this should be especially interesting and rich.
+For next week, your task is to research and gather data. This is generally the first step in any data-vis project, but this topic should be especially interesting and rich.
 
 Some areas you might look at are:  
 * The building of the ship (what it contained, how much it cost compared to other ships, etc)  
@@ -48,6 +48,8 @@ Finally, please also read [this essay by Jer Thorp](https://hackernoon.com/you-s
 Your assignment over the next two weeks is to finish your poster and print it. Using the feedback you got this week, work towards a poster design that tells a story through your data and creates a cohesive whole. Printing can be done in the Fab Lab during open hours (see the details above in `Deliverables`).
 
 Bring your printed poster to class (again, please remember that presentation and craft are part of your grade, so keep it clean and tidy), and upload a PDF to Canvas.
+
+**Please also install an FTP client for our data dig in two weeks. I suggest [Filezilla](https://filezilla-project.org/), which is bare-bones but free. If you're willing to spend a little money, [Transmit](https://panic.com/transmit/#download) is excellent and well maintained (there is a free trial for 7 days, which might get you through this project).**
 
 ### RESOURCES  
 
