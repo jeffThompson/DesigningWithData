@@ -45,7 +45,9 @@ Finally, please also read [this essay by Jer Thorp](https://hackernoon.com/you-s
 ### FOR WEDNESDAY, FEBRUARY 28  
 **Note! Wednesday the 21st is a Monday schedule, so we won't be meeting. Your assignment over the next two weeks is to finish this project.**
 
-Details TBD, coming soon.
+Your assignment over the next two weeks is to finish your poster and print it. Using the feedback you got this week, work towards a poster design that tells a story through your data and creates a cohesive whole. Printing can be done in the Fab Lab during open hours (see the details above in `Deliverables`).
+
+Bring your printed poster to class (again, please remember that presentation and craft are part of your grade, so keep it clean and tidy), and upload a PDF to Canvas.
 
 ### RESOURCES  
 
@@ -56,12 +58,8 @@ Details TBD, coming soon.
 * A nice piece in Smithsonian Magazine on [why we're still fascinated with the story of the Titanic](https://www.smithsonianmag.com/history/why-the-titanic-still-fascinates-us-98137822/) so many years later (and [another in the New Yorker](https://www.newyorker.com/magazine/2012/04/16/unsinkable-3))  
 * You could, of course, [watch the movie](https://thepiratebay.org/torrent/7108477/Titanic_(1997)_720p_HDTV_x264-_1.07GB_-YIFY) (no one will judge you... ok, maybe we will [a little](https://giphy.com/gifs/titanic-wine-76IGroXQrfTQk/fullscreen))  
 
-
 ### PROJECTS SHOWN  
 
-* Lots of examples of infographics, found in this week's `Images` folder  
-* Jer Thorp's [wonderful solution to how to present all the names of the victims at the 9/11 Memorial](http://blog.blprnt.com/blog/blprnt/all-the-names) in NYC  
-
-
-
+* Lots of examples of infographics, found in this week's `Images` folder. Includes work by Pop Chart Lab, Washington Post, and others.  
+* Jer Thorp's [wonderful solution to how to present all the names of the victims at the 9/11 Memorial](http://blog.blprnt.com/blog/blprnt/all-the-names) in NYC.  
 
