@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week04_InfographicsAndStorytelling/TitanicInCobhHarbour_1912.jpg)
 
-INFOGRAPHICS: THE TITANIC
+INFOGRAPHICS AND STORIES: THE TITANIC
 ====
 
 ### DUE: WEDNESDAY, FEBRUARY 28  
@@ -54,6 +54,7 @@ Bring your printed poster to class (again, please remember that presentation and
 ### RESOURCES  
 
 * Lots of info (and probably a good data source) at the [Encyclopedia Titanica](https://www.encyclopedia-titanica.org/)  
+* A [cleaned version of the passenger data](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) (in CSV format)  
 * A small, but [interesting selection of info from the BBC](http://www.bbc.co.uk/history/titanic), including a [section on the iceberg](http://www.bbc.co.uk/history/topics/iceberg_sank_titanic)  
 * A [video from the New York Times](https://www.nytimes.com/video/movies/100000004393441/titanic-a-legend-born-in-belfast.html?rref=collection%2Ftimestopic%2FTitanic) on the Belfast shipyard that built the Titanic  
 * A [two-hour, real-time animation](https://www.youtube.com/watch?v=rs9w5bgtJC8) showing the sinking  
