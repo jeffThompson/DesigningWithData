@@ -63,6 +63,7 @@ Bring your printed poster to class (again, please remember that presentation and
 
 ### PROJECTS SHOWN  
 
-* Lots of examples of infographics, found in this week's `Images` folder. Includes work by Pop Chart Lab, Washington Post, and others.  
+* A great [visualization of the Titanic's timeline](https://discovernorthernireland.com/things-to-do/attractions/titanic/titanic-sailing-route-map/) (which also includes links to other Titanic info) and another showing [Titanic-related showing facts and numbers](https://www.behance.net/gallery/56303391/The-Titanic-Facts-and-numbers), both via Shannon McConnell (thanks!)  
+* Lots of other examples of infographics, found in this week's `Images` folder. Includes work by Pop Chart Lab, Washington Post, and others.  
 * Jer Thorp's [wonderful solution to how to present all the names of the victims at the 9/11 Memorial](http://blog.blprnt.com/blog/blprnt/all-the-names) in NYC.  
 
