@@ -22,7 +22,7 @@ Your finished project should include the following:
   * Include a citation for your data within your poster's design  
 * PDF of your poster uploaded to Canvas  
 
-\* We charge $3 per square foot for printing on our large-format printer (about what it costs in ink and paper). At `18x24"`, your print is `2x1.5 square feet` and will cost `$9.00`. Be sure you have Duckbills activated so you can pay for printing, and check the Fab Lab hours.
+\* We charge $3 per square foot for printing on our large-format printer (about what it costs in ink and paper). At `18x24"`, your print is `2x1.5 square feet` and will cost `$9.00`. Be sure you have Duckbills activated so you can pay for printing, and check the Fab Lab hours!
 
 ### FOR WEDNESDAY, FEBRUARY 14  
 For next week, your task is to research and gather data. This is generally the first step in any data-vis project, but this topic should be especially interesting and rich.
