@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week06_SolarSynopticMap_2015-07-07.jpg)
+![](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week06_DataDig/SolarSynopticMap_2015-07-07.jpg)
 
 DATA DIG
 ====
