@@ -40,7 +40,7 @@ Once logged in, you can navigate the directories and look inside. To download a 
 ### DELIVERABLES  
 Your finished project should include the following:
 
-* At least one dataset found on the NOAA server    
+* At least one dataset found on a US government agency server    
 * A finished visualization, in any format (print, sound, sculpture, etc) that tells a story from your data  
 * A citation of your data's source, either embedded in the piece or accompanying it
 
