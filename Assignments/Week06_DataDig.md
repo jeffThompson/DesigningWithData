@@ -58,3 +58,6 @@ Finish your project, details TBD. (Note that March 14 is spring break, so no cla
 
 * More info on the US government's [Open Data Policy](https://project-open-data.cio.gov/)  
 * For info on accessing the servers listed above, see the `Resources` folder for screenshots.  
+
+*Top: a hand-drawn map of the sun, a task that has been carried out by NOAA employees since 1956, [even today](https://www.swpc.noaa.gov/products/solar-synoptic-map)! If you want to see all of them animated, [check out this video I made](https://vimeo.com/134541936) with images pulled from the NOAA server.*
+
