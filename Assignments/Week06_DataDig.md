@@ -30,7 +30,8 @@ Servers:
 * Environmental Protection Agency: `ftp.epa.gov`  
 * Federal Elections Commission: `ftp.fcc.gov`  
 * NASA: `neoftp.sci.gsfc.nasa.gov` and `cdaweb.gsfc.nasa.gov`  
-* You could also look at [this list of US government agencies](https://www.usa.gov/federal-agencies/a) and see if you can find FTP access for them  
+* Treasury: `ofacftp.treas.gov`  
+* You could also look at [this list of US government agencies](https://en.wikipedia.org/wiki/List_of_federal_agencies_in_the_United_States) and see if you can find FTP access for them – if you do find one, please let me know!  
 
 See the `Resources` folder for screenshots of where to put this info in Filezilla and Transmit.
 
@@ -55,4 +56,5 @@ Finish your project, details TBD. (Note that March 14 is spring break, so no cla
 
 ### RESOURCES  
 
-* For info on accessing the NOAA server, see the `Resources` folder.  
+* More info on the US government's [Open Data Policy](https://project-open-data.cio.gov/)  
+* For info on accessing the servers listed above, see the `Resources` folder for screenshots.  
