@@ -47,12 +47,25 @@ Your finished project should include the following:
 ### FOR WEDNESDAY, MARCH 7  
 For next week, please continue to dig for data like we did in class, with the goal of at least one dataset to work with. You may find data in a common format (like the `csv` we've looked at), but it might also be in `txt` files, inside a compressed `zip` or `gz` archive, or in some weird format. You'll just have to look and dig... when in doubt: download and try to open it in a text editor!
 
+**UPDATE: Finding great data on FTP servers is possible, but takes work. I don't want to make this too difficult, so if you're not having any luck, feel free to grab data from any US federal government website instead. The US Census Bureau would seem a good choice, but getting data from their site is a total pain. I'd suggest NOAA or the USGS.**
+
 Find something else cool? Just ask if there's a way we can use it for this project and we'll talk. Be sure to keep track of where you download your data from (a full path from the main page of the server, like a url) so you can cite it (and find it again) later. It will be easiest to keep track of this in a blank text file, or, for Mac users, in the `Comments` section in the file's `Get Info` pane.
 
 Once you have something that interests you, start looking through it and think about what you want to show from the data. We'll look next week at how to view your data in Excel and do some basic operations on it, then start drafting your finished visualizations, so come with materials you might need to start working.
 
 ### FOR WEDNESDAY, MARCH 21  
-Finish your project, details TBD. (Note that March 14 is spring break, so no class!)
+(Note that March 14 is spring break, so no class! Work on your project over the break, and I'll see you when we get back.)
+
+Over the next two weeks, please create a finished visualization (or sonification, etc) using your data. Think about all the ideas we've talked about so far: data that changes over time or is represented by proportion, ways of digging through complex information to pull out a piece that tells an interesting story, and how you might wrangle your data into a usable form. After break, we'll present your projects to the class and start some programming tutorials to work automatically with data.
+
+**INSTALLING ANACONDA**  
+For the week after break, please also install Anaconda, software that will make working with Python (a programming language) easier. If you already code in Python and would like to use whatever setup you already have, that's totally fine.
+
+* Go to [anaconda.com/download](https://www.anaconda.com/download)  
+* **Download the Python 2.7 version, not Python 3!**  
+* Install it on your computer  
+
+Please do this at least a few days ahead of class, to make sure it works right. Email me if something doesn't work and I can try to help.
 
 ### RESOURCES  
 
