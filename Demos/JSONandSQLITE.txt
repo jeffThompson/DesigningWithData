@@ -1,0 +1,120 @@
+JSON
+- human readable format
+- a "dict" structure
+- item name followed by associated data
+- entries sep by commas
+
+Ex: people and majors
+{
+	"Jeff": "Art",
+	"Jane": "Computer science",
+	"Santa": "Gift studies"
+}
+
+Ex: can include a list of items
+{
+	"food": [
+		{
+			"banana": "fruit",
+			"carrot": "vegetable",
+			"pizza": "delicious"
+		}
+	]
+}
+
+Can nest even further:
+{
+    "art classes": [
+        {
+            "Data Visualization": {
+                "course number": "HAR 250",
+                "prerequisites": "none"
+            },
+            "Design II": {
+                "course number": "HAR 340",
+                "prerequisites": "Data Visualization"
+            }
+        }
+    ]
+}
+
+Messy or problematic JSON can be fixed by "linting"
+http://jsonlint.com/
+
+Also cleans up for reading (like in our next ex)
+
+API (automated programming interface)
+get data from a server
+
+Internet Archive
+https://archive.org/advancedsearch.php#raw
+
+- fields = id, title, year
+- sort by year asc
+- format as JSON (but can try others too!)
+- query "geology"
+
+Note that query is formatted as URL
+- can be changed by you or programatically!
+
+Paste result into JSON Lint
+
+What do you see?
+- an error! JSON can take diff forms, this error we should probably deal with manually
+- 19475 found, but not showing all (start = offset into list!)
+- some header info
+- we could chop this up for easier use (remove header, for ex)
+
+- - - - - - -
+
+SQLITE3
+Non human-readable (stored as binary data)
++ = smaller file sizes (great for big data sets), - = can't read or manually edit
+
+Very powerful searching and sorting functions
+Backbone of many large websites/apps (Skype, Adobe Lightroom, OSX Mail, Dropbox, Windows 10)
+
+Preinstalled on Mac/Linux, Win needs to install from website
+
+Create database:
+cd Desktop
+sqlite3 Example.db
+
+Add table (data within DB):
+CREATE TABLE houses(
+	name TEXT,
+	aninimal TEXT,
+	ghost TEXT,
+	members INT
+);
+
+(not diff data types, incl text, integer, etc)
+
+Check if table was created:
+.tables
+
+Insert some data:
+INSERT INTO houses VALUES ("Gryffindor", "Lion", "Nearly Headless Nick", 100);
+INSERT INTO houses VALUES ("Hufflepuff", "Badger", "Fat Friar", 120);
+INSERT INTO houses VALUES ("Ravenclaw", "Eagle", "Grey Lady", 150);
+INSERT INTO houses VALUES ("Slytherin", "Snake", "Bloody Baron", 666);
+
+Check that we added some data:
+.dump
+
+Let's search some data!
+SELECT animal FROM houses;
+SELECT members FROM houses SORT
+SELECT * FROM houses ORDER BY members;
+
+Exit:
+.quit
+
+
+
+
+
+
+
+
+

@@ -3,7 +3,9 @@
 DATA DIG
 ====
 
-### DUE: WEDNESDAY, MARCH 21  
+### DUE: WEDNESDAY, ~~MARCH 21~~ MARCH 28  
+
+**NOTE! Due to the snow day on March 7, the deadline for the project is pushed back a week. Please work on a draft of your visualization for the week after break. Because of the extra week, I'd like your projects to show more polish and ambition. We'll have an in-progress feedback session, and do the demos planned for this week.**
 
 > "Data in the 21st century is largely ephemeral, because it is so easily produced: a machine creates it, uses it for a few seconds and overwrites it as new data arrives. Some data is never examined at all, such as scientific experiments that collect so much raw data that scientists never look at most of it. Only a fraction ever gets stored on a medium such as a hard drive, tape or sheet of paper, yet even ephemeral data often has 'descendents'-new data based on the old." – Bohn and Short, *How Much Information?*
 
@@ -53,7 +55,7 @@ Find something else cool? Just ask if there's a way we can use it for this proje
 
 Once you have something that interests you, start looking through it and think about what you want to show from the data. We'll look next week at how to view your data in Excel and do some basic operations on it, then start drafting your finished visualizations, so come with materials you might need to start working.
 
-### FOR WEDNESDAY, MARCH 21  
+### FOR WEDNESDAY, ~~MARCH 21~~ MARCH 28  
 (Note that March 14 is spring break, so no class! Work on your project over the break, and I'll see you when we get back.)
 
 Over the next two weeks, please create a finished visualization (or sonification, etc) using your data. Think about all the ideas we've talked about so far: data that changes over time or is represented by proportion, ways of digging through complex information to pull out a piece that tells an interesting story, and how you might wrangle your data into a usable form. After break, we'll present your projects to the class and start some programming tutorials to work automatically with data.
