@@ -149,6 +149,7 @@ Finish [Final Project]()
 
 \- \- \-
 
-### EXAM (TBA): FINAL CRITIQUE  
-Please don’t book travel until the date is set!
+### MAY 15, 1–5: FINAL CRITIQUE  
+**Meet in the VA&T Lab, not the room listed!**
+Please don’t book travel until after this date! We'll have a crit together during the exam period.
 
