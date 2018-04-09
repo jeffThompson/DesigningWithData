@@ -21,6 +21,8 @@ Your finished project should include the following:
  
 * An Are.na channel with research clippings (annotated links, images, etc) with at least 30 sources  
 * An `8.5x11"` version of your project's "question"  
+* Small-group presentation of your project's topic and data  
+* Finished visualization, with documentation uploaded to Canvas  
 
 ### FOR WED, APRIL 18  
 
