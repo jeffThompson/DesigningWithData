@@ -19,7 +19,7 @@ The final output format is up to you: it might be a single infographic shown as 
 ### DELIVERABLES  
 Your finished project should include the following:
  
-* An Are.na channel with research clippings (annotated links, images, etc) with at least 30 sources  
+* An Are.na channel of research clippings (annotated links, images, etc) with at least 30 sources, posted as a link on the assignment on Canvas  
 * An `8.5x11"` version of your project's "question"  
 * Small-group presentation of your project's topic and data  
 * Finished visualization, with documentation uploaded to Canvas  
@@ -30,7 +30,7 @@ Rather than start with a project proposal at this early stage, for this project 
 
 Once you've got an idea what you'd like to work on, start your research. Initial sources like Wikipedia can be helfpul, especially if you follow lots of the links on the page. But also try looking more broadly for information and context. To take notes, we'll use the platform [Are.na](https://www.are.na), which is a sort of bookmarking, annotatation, and note-taking site. Please sign up (it's free), make a "channel" for the project, and add the things you find!
 
-**Please try to get at least 30 sources this week – more is better!**
+**Please try to get at least 30 sources this week – more is better! When you're done, post the URL to your channel as a comment in the assignment on Canvas.**
 
 With all that in hand, formulate your topic into a "question" that you want to ask through the data. This can be open-ended and not have a clear answer, or suggest an obvious methodology, but will guide your data-gathering and next steps.
 
