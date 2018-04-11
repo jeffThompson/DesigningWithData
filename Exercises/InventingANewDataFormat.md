@@ -19,4 +19,4 @@ And the "Seven Principles" outlined in the ACM document:
 
 Discuss which of these challenge(s) your group wants to try to tackle. Together, design a hypothetical data format that attempts to address it. Your format can be based on an existing one (csv, json, xml, etc) or be one of your own invention.
 
-Your goal in the next hour to to create single image or example file that illustrates your proposed format to present to the class. 
+**Your goal in the next hour to to create single image or example file that illustrates your proposed format to present to the class.**
