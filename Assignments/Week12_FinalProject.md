@@ -25,7 +25,6 @@ Your finished project should include the following:
 * Finished visualization, with documentation uploaded to Canvas  
 
 ### FOR WED, APRIL 18  
-
 Rather than start with a project proposal at this early stage, for this project we'll start with a topic and a ton of research. Think about a social issue, a geographic place, an historical event, a sport, a technical challenge, a TV show, or something else that you're super excited about and would want to spend the next month researching and thinking about. It should be something complex enough to gather data on, but if it's really, really huge you might also think about drilling down to a specific part.
 
 Once you've got an idea what you'd like to work on, start your research. Initial sources like Wikipedia can be helfpul, especially if you follow lots of the links on the page. But also try looking more broadly for information and context. To take notes, we'll use the platform [Are.na](https://www.are.na), which is a sort of bookmarking, annotatation, and note-taking site. Please sign up (it's free), make a "channel" for the project, and add the things you find!
@@ -43,21 +42,19 @@ Some examples:
 
 When you figure out your question, design a vertically-oriented `8.5x11"` page using only typography to pose your question. Any font/layout is fine. Print your page on the laser printer and bring it to class next week.
 
+### FOR WED, APRIL 25  
+During the next week, please continue looking for data that you can use, and start digging through it for useful parts. Consider the research and ideation exercises we did in class to help you find sources/directions. If you need to hone your question to be more specific, or add context to it to be more broad, now's the time.
 
+Please also prepare a very short presentation (2-3 mins) on your project topic and approach. This can be as a Powerpoint/Keynote or another format, but should be more polished that a casual "here's kind of what I'm thinking about" – pretend this is a pitch to a client.
 
+Your presentation should address (at least):  
 
+* What is your topic and the question you want to ask?  
+* What are the data sets that you'd like to draw from?  
+* What do you hope to show from the data?  
+* What is at least one interesting thing you've found so far?  
+* What format are you proposing for your visualization?  
+* What is at least one question you want feedback on at this stage?  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+You'll be presenting these to small groups of your peers for feedback during class next week.
 
