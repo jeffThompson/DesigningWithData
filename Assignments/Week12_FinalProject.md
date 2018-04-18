@@ -20,7 +20,7 @@ The final output format is up to you: it might be a single infographic shown as 
 Your finished project should include the following:
  
 * An Are.na channel of research clippings (annotated links, images, etc) with at least 30 sources, posted as a link on the assignment on Canvas  
-* An `8.5x11"` version of your project's "question"  
+* An `8.5x11"` version of your project's "question," printed and uploaded to Canvas  
 * Small-group presentation of your project's topic and data  
 * Finished visualization, with documentation uploaded to Canvas  
 
