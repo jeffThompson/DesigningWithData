@@ -58,3 +58,14 @@ Your presentation should address (at least):
 
 You'll be presenting these to small groups of your peers for feedback during class next week.
 
+### FOR WED, MAY 2  
+For next week, please continue to work on your visualizations. Next week is also our last meeting together before the crit, so it will be good to have enough progress so you can get technical help and feedback. We'll have a work day and individual meetings.
+
+A few things to keep in mind while working this week:  
+
+* Keep thinking about your initial question, it will help drive your decision-making  
+* Who is your audience?  
+* Design decisions should be driven by the above two points, and ways that you can best communicate about your data. Sometimes an amazing idea just isn't the best choice for a particular project  
+
+**REMINDER: While Friday, May 4 is technically a makeup day we won't meet as a class. I'll be on campus 9–5 for drop-in help, so please take advantage!**
+
