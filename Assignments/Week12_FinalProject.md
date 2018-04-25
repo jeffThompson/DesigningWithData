@@ -67,5 +67,5 @@ A few things to keep in mind while working this week:
 * Who is your audience?  
 * Design decisions should be driven by the above two points, and ways that you can best communicate about your data. Sometimes an amazing idea just isn't the best choice for a particular project  
 
-**REMINDER: While Friday, May 4 is technically a makeup day we won't meet as a class. I'll be on campus 9–5 for drop-in help, so please take advantage!**
+**REMINDER: While Friday, May 4 is technically a makeup day we won't meet as a class. I'll be on campus 9–5 for drop-in help, so please take advantage!** (I'll also be available by appointment other times.)
 
