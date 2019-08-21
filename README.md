@@ -32,17 +32,17 @@ Intro and syllabus, what is data visualization
 *Interpreting Visualizations* by Johanna Drucker (in the `Readings` folder)
 
 **Homework:**  
-[Personal Activity]()
+[Everday Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week01_EverydayData.md)
 
 \- \- \-
 
 **LABOR DAY (SEPT 2) – NO CLASS!**  
-This week, please finish the reading and [Personal Activity]() project
+This week, please finish the reading and [Everyday Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week01_EverydayData.md) project
 
 \- \- \-
 
 **WEEK 2: SEPT 9**  
-Critique of Personal Activity, discussion of reading, ideation session
+Critique of Everyday Data, discussion of reading, ideation session
 
 **Homework:**  
 [Two Things]()

@@ -1,4 +1,4 @@
-![A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week01-PersonalData/DearData_Composite.jpg)
+![A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week01-EverydayData/DearData_Composite.jpg)
 
 # PERSONAL ACTIVITY
 
