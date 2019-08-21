@@ -6,7 +6,7 @@ DATA VISUALIZATION
     Office/hours    Morton 208, Tuesdays 2–4pm
 
     Meeting times   Mondays 1–4.50pm
-    Location        Visual Arts & Technology Lab
+    Location        Visual Arts & Technology Studio
 
 What does a day of flight paths in the US look like? What can we learn about NYC by mapping shadows? How can a Twitter bot help us experience the minute details found in census data? How can data, design, and journalism pair to show racial injustice in America? Data visualization is a complex and varied field, found in a range of disciplines where the methodology ranges from scientific (full of stats and academic papers) to infographics found in newspapers and even fine art that uses data as an input. Our focus this semester will be seeing data as a complicated political and technical material charged with aesthetic potential. We'll explore this idea through creative projects that will ask you to think about how we record and represent the world through data, how we can tell stories with information, and to connect this research and creative work with ideas and issues you are excited and passionate about.
 
