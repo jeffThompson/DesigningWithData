@@ -23,7 +23,7 @@ For information about homework, grades, etc, please see `CoursePolicies.md`.
 ---
 
 ## COURSE CALENDAR  
-*May change, so be sure to check Canvas and the Github page regularly!*
+*May change, so be sure to check Canvas and this page regularly!*
 
 **WEEK 1: AUG 26**  
 Intro and syllabus, what is data visualization
