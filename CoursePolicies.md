@@ -39,9 +39,8 @@ This class requires a few basic supplies. Not having the proper materials for cl
 
 * Laptop and charger – bring every week! Needs to be capable of running Illustrator, and have reliable internet access (we’ll be getting nearly all our data online).  
 * Microsoft Excel (free from Stevens).  
-* Adobe Illustrator, either installed on your computer or accessed through the Virtual Learning Environment (VLE).  
-* File Transfer Protocol (FTP) software. We’ll look at free options, or you can use one you’ve already installed.  
-* The Python programming language installed (free). We’ll go through this together in class, if you haven’t installed it yet.  
+* Adobe Illustrator, either installed on your computer, via the Lab machines, or accessed through the Virtual Learning Environment (VLE).  
+* Processing, a free coding platform created for artists and designers.  
 * Notebook or sketchbook and a writing implement. This should be something you’re willing to tear pages out of (or be ready to scan and pay to print) since we’ll use this for ideation in our projects.  
 * Printing as needed throughout the semester. Laser prints are available in the Fab Lab during open hours for a small fee, or can be done at FedEx on River Street. We’ll do one large-scale printed project, which will be printed on the inkjet printer in the Fab Lab (pricing is $3.50 per square foot).  
 
