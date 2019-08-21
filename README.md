@@ -26,7 +26,7 @@ Homework, grades, etc, please see `CoursePolicies.md`.
 ---
 
 ## COURSE CALENDAR  
-May change, so be sure to check Canvas and the Github page regularly!
+*May change, so be sure to check Canvas and the Github page regularly!*
 
 **WEEK 1: AUG 26**  
 Intro and syllabus, what is data visualization
@@ -35,12 +35,12 @@ Intro and syllabus, what is data visualization
 *Interpreting Visualizations* by Johanna Drucker (in the `Readings` folder)
 
 **Homework:**  
-Personal Activity
+[Personal Activity]()
 
 \- \- \-
 
-**SEPT 2: LABOR DAY – NO CLASS!**  
-This week, please finish the reading and Personal Activity project
+**LABOR DAY (SEPT 2) – NO CLASS!**  
+This week, please finish the reading and [Personal Activity]() project
 
 \- \- \-
 
@@ -48,7 +48,7 @@ This week, please finish the reading and Personal Activity project
 Critique of Personal Activity, discussion of reading, ideation session
 
 **Homework:**  
-Two Things
+[Two Things]()
 
 \- \- \-
 
@@ -56,7 +56,7 @@ Two Things
 Critique of Two Things project, Illustrator basics, common data formats
 
 **Homework:**  
-Data Zine: ideation and sample data recording
+[Data Zine](): ideation and sample data recording
 
 \- \- \-
 
@@ -64,7 +64,7 @@ Data Zine: ideation and sample data recording
 Present project ideas, further Illustrator demos, combining data in Excel
 
 **Homework:**  
-Data Zine: gather data
+[Data Zine](): gather data
 
 \- \- \-
 
@@ -72,7 +72,7 @@ Data Zine: gather data
 Documenting and publishing data, further Illustrator demos, folding machine and binding demo, create mockup sketches
 
 **Homework:**  
-Data Zine: mockup
+[Data Zine](): mockup
 
 \- \- \-
 
@@ -87,7 +87,7 @@ Continue working on mockup for next week
 Small-group feedback of mockups, demos as needed, work day
 
 **Homework:**  
-Finish and print Data Zines, install Processing
+Finish and print [Data Zines](), install Processing
 
 \- \- \-
 
@@ -95,7 +95,7 @@ Finish and print Data Zines, install Processing
 Critique of Data Zines, programming basics, loading CSV files, working with USGS data
 
 **Homework:**  
-Earthquake Data: code sketches
+[Earthquake Data](): code sketches
 
 \- \- \-
 
@@ -103,7 +103,7 @@ Earthquake Data: code sketches
 Small-group feedback on code sketches, further Processing demos, work day
 
 **Homework:**  
-Finish Earthquake Data
+Finish [Earthquake Data]()
 
 \- \- \-
 
@@ -111,7 +111,7 @@ Finish Earthquake Data
 Help with final 5% of Earthquake Data project, critique, further Processing demos
 
 **Homework:**  
-Final Project: proposal
+[Final Project](): proposal
 
 \- \- \-
 
@@ -119,7 +119,7 @@ Final Project: proposal
 In-progress feedback session, work day
 
 **Homework:**  
-Final Project: work in progress
+[Final Project](): work in progress
 
 \- \- \-
 
@@ -127,7 +127,7 @@ Final Project: work in progress
 In-progress feedback session, work day
 
 **Homework:**  
-Final Project: work in progress
+[Final Project](): work in progress
 
 \- \- \-
 
@@ -135,12 +135,12 @@ Final Project: work in progress
 In-progress feedback session, work day
 
 **Homework:**  
-Finish Final Project
+Finish [Final Project]()
 
 \- \- \-
 
 **WEEK 14: DEC 2**  
-Critique of Final project
+Critique of [Final project]()
 
 **Homework:**  
 Document your final project and upload to Canvas
