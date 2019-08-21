@@ -1,8 +1,38 @@
+![A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week01-PersonalData/DearData_Composite.jpg)
+
 # PERSONAL ACTIVITY
 
-- what is data vis?
-- what is designing w data?
-* somewhere b/w a pie chart and art
+**DUE MONDAY, SEPT 9 (NO CLASS MONDAY, SEPT 2)**  
+
+Soon we'll be thinking about scientific and social data, and learn to use computers for parsing large datasets and making complex visualizations. But for our first assignment, we'll start a little more simple: your assignment is to collect data about your daily life and find a way of displaying that information visually. You should visually record at least three different daily activities – mundane, personal, and usual activities you do like brushing your teeth. (We'll do an ideation session together in class to get this process started.)
+
+Don't worry about numerical data or making charts (in fact, I *don't* want you to make a chart!) think about how you can keep track visually: evidence, marks, leftovers, etc. As an example, you could make a mark in toothpaste on a sheet of paper every time you brush your teeth, or you could keep every food wrapper for a week and arrange them in a line. Think creatively! How could you record every coffee you drink? Every step you take? Think too about timescale: should you record every meal you eat or every bite in a single meal?
+
+Please also read *Interpreting Visualization, Visualizing Interpretation* from Johanna Drucker's 2014 book *Graphesis*, found in the `Readings` folder. Please write down one question that the reading raises that you'd like to discuss in class and one thing you were surprised or intrigued by. Post your response as a comment on this week's assignment. We'll do a critique of the project and discuss the reading in two weeks.
+
+*Above: A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project*
+
+
+## DELIVERABLES
+
+* Three pieces (images, sculptures, piles of stuff) recording three different activities  
+* A 2-3 sentence description of each activity and how you recorded it, printed with your name at the top  
+* Take photos of your three pieces and upload them to Canvas, with your description as a comment  
+* Reading response (see above) posted to Canvas as a comment on this assignment  
+
+
+## PROJECTS SHOWN  
+
+* Nicholas Felton's [*Annual Reports*](http://feltron.com/index.html)  
+* Georgia Lupi and Stefanie Posavec's [*Dear Data* project](http://www.dear-data.com/all/); read/listen to [more about the project here](http://www.dear-data.com/theproject/)  
+* On Kawara's [*Today* series, aka Date Paintings](https://www.guggenheim.org/arts-curriculum/topic/paintings-today-seriesdate-paintings)  
+* Penelope Umbrico's [*Suns from Sunsets from Flickr*](http://www.penelopeumbrico.net/index.php/project/suns/) (and all her other work too!)  
+* Wafa Bilal's [*3rdi* project](http://wafaabilal.com/thirdi)
+* Hasan Elahi's [*Tracking Transience*](http://elahi.umd.edu/track/)  
+* Kati Hyyppä's [*Bicycle Seismograph*](http://katihyyppa.com/bicycle-seismographs)  
+* Georges Perec's *An Attempt At Exhausting A Place In Paris*, found in this week's `Readings` folder  
+* Kenneth Goldsmith's *Fidget* (also in the `Readings` folder); [hear him read from the book](http://www.writing.upenn.edu/pennsound/x/Goldsmith-Fidget.html)  
+
 
 ## WHAT IS DATA VIS: PROJECTS SHOWN  
 
@@ -23,17 +53,3 @@
 * Jia Zhang's [*@censusAmericans Twitter bot*](https://twitter.com/censusAmericans)  
 * Anna Madeleine's matchstick graphs of maximum daily temperatures (in `Images` folder)  
 
-assignment
-record personal activity
-- think about ways to record that are visual, not numbers
-- think about time period -- one week, 1 minute, etc
-- on kawara
-- dear data
-- feltron reports
-- post it jam, thinking about what we could record
-- evidence of that thing
-* marks
-* leftover
-- just about showing, not about presenting in charts, etc
-
-“There is no way to think up an original and extraordinary design — it can only come as a result of pursuing a given task. In the same way running down a list of words is different from making a narrative.” – Artemy Lebedev (via FlowingData)
