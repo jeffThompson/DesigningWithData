@@ -30,6 +30,7 @@ Once ready, create a visualization in Illustrator that shows the relationship be
 *All found in this week's `Images` folder*  
 
 * Florence Nightingale's *Diagram of the Cuases of Mortality in the Army in the East*  
+* William Playfair's *Exports and Imports to and From Denmark and Norway*  
 * Size comparison of Australia vs Greenland  
 * Treemap (with lots more than two datapoints) showing the exports of Benin  
 * Stacked bar chart showing how famous writers spend their days  
