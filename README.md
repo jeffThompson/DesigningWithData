@@ -42,15 +42,15 @@ This week, please finish the reading and [Everyday Data](https://github.com/jeff
 \- \- \-
 
 **WEEK 2: SEPT 9**  
-Critique of Everyday Data, discussion of reading, ideation session
+Critique of Everyday Data, discussion of reading, Illustrator basics
 
 **Homework:**  
-[Two Things]()
+[Two Things](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week02_TwoThings.md)
 
 \- \- \-
 
 **WEEK 3: SEPT 16**  
-Critique of Two Things project, Illustrator basics, common data formats
+Critique of Two Things project, further Illustrator demos, common data formats
 
 **Homework:**  
 [Data Zine](): ideation and sample data recording
@@ -61,7 +61,7 @@ Critique of Two Things project, Illustrator basics, common data formats
 Present project ideas, further Illustrator demos, combining data in Excel
 
 **Homework:**  
-[Data Zine](): gather data
+[Data Zine](): research and gather data
 
 \- \- \-
 

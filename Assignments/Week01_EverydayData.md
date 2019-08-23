@@ -10,6 +10,8 @@ Don't worry about numerical data or making charts (in fact, I *don't* want you t
 
 Please also read *Interpreting Visualization, Visualizing Interpretation* from Johanna Drucker's 2014 book *Graphesis*, found in the `Readings` folder. Please write down one question that the reading raises that you'd like to discuss in class and one thing you were surprised or intrigued by. Post your response as a comment on this week's assignment. We'll do a critique of the project and discuss the reading in two weeks.
 
+Finally, if you don't already have Adobe Illustrator on your computer, please check you can access it through the [Virtual Learning Environment](http://www.stevens.edu/vle). If not, please message me right away so we can get it sorted out! (You can also [purchase one month of Illustrator access](https://www.adobe.com/creativecloud/plans.html) from Adobe for \~$32, if you'd prefer.)
+
 *Above: A visualization of data about laughter, from Georgia Lupi and Stefanie Posavec's "Dear Data" project*
 
 
@@ -19,6 +21,7 @@ Please also read *Interpreting Visualization, Visualizing Interpretation* from J
 * A 2-3 sentence description of each activity and how you recorded it, printed with your name at the top  
 * Take photos of your three pieces and upload them to Canvas, with your description as a comment  
 * Reading response (see above) posted to Canvas as a comment on this assignment  
+* Access to Adobe Illustrator, either on your computer or through the VLE  
 
 
 ## PROJECTS SHOWN  
