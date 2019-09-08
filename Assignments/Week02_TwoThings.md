@@ -15,15 +15,15 @@ Some ideas to get you started:
 
 This marks the kind of research we'll be doing a lot this semester: exploratory searching, finding something interesting, and building a visual record of that information. Wikipedia is your friend here! Try searches for list pages (such as [Largest Animals](https://en.wikipedia.org/wiki/Largest_organisms)). Take lots of notes in a text file, keeping careful track of the URL where you found your data. For anything outside of Wikipedia, try to find a second source to verify your numbers.
 
-Once ready, create a visualization in Illustrator that shows the relationship between your datapoints. Think about what story you want to tell with your data! (An important idea we'll return to over and over this semester.) When done, save your file as a PDF and upload it to Canvas, and ~print a copy on the laser printer in the Fab Lab or Fed Ex~.
+Once ready, create a visualization in Illustrator that shows the relationship between your datapoints. Think about what story you want to tell with your data (an important idea we'll return to over and over this semester) and use that story to help drive your design decisions. When done, save your file as a PDF and upload it to Canvas, and ~print a copy on the laser printer in the Fab Lab or Fed Ex~.
 
-**Please note! The Fab Lab laser printer is broken – a new one is on it's way but will not be here before the project is due. We'll look at everyone's work digitally instead.**
+**Please note! The Fab Lab laser printer is broken – a new one is on it's way but will not be here before the project is due. We'll look at everyone's work digitally instead, so no need to print anything.**
 
 
 # DELIVERABLES  
 
 * Two datapoints, with sources cited in your visualization  
-* Visualization, sized `8.5x11 inches`, created in Illustrator  
+* Visualization, sized `8.5x11 inches` with `1/2-inch` borders all around, created in Illustrator  
 * File named `LastnameFirstname_TwoDataPoints.pdf`, saved as a PDF, and uploaded to Canvas by the start of class  
 * ~Laser print of your visualization~ (we'll look at your work digitally)  
 
