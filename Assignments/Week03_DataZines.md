@@ -1,4 +1,4 @@
-![A page from Olaf Nicolai's amazing book "Wind Diary"](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/WindDiary_OlafNicholai_2016.jpg)
+![A page from Olaf Nicolai's amazing book "Wind Diary"](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/WindDiary_OlafNicolai_2016.jpg)
 
 # DATA ZINES
 
@@ -8,8 +8,7 @@ Having now made some experimental visualizations exploring personal and numerica
 
 Instead of starting with a dataset, we'll start with the question: "what do I wish I knew?" This is a really generative way of working that doesn't assume prior expertise; instead, you start the project with something you really want to know more about.
 
->"My expertise has always been my ignorance, my admission and acceptance of not knowing... When you can admit that you don't know, you are more likely to ask questions that will enable you to learn."
->– Richard Saul Wurman
+>"My expertise has always been my ignorance, my admission and acceptance of not knowing... When you can admit that you don't know, you are more likely to ask questions that will enable you to learn." — Richard Saul Wurman
 
 Your topic should be either an historical event or a social issue. This will help keep your project grounded and will make your findings relevant to other people. (However, I'm wide open to how you interpret that, so please feel free to pitch weird takes on what an historical event or social issue might be!) You'll research your topic, find related data, develop a story you want to tell, design visualizations, and finally print and bind your zines in a small edition that can be shared with the class.
 
