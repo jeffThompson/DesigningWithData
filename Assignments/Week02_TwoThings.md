@@ -20,7 +20,7 @@ Once ready, create a visualization in Illustrator that shows the relationship be
 **Please note! The Fab Lab laser printer is broken – a new one is on it's way but will not be here before the project is due. We'll look at everyone's work digitally instead, so no need to print anything.**
 
 
-# DELIVERABLES  
+## DELIVERABLES  
 
 * Two datapoints, with sources cited in your visualization  
 * Visualization, sized `8.5x11 inches` with `1/2-inch` borders all around, created in Illustrator  
@@ -28,7 +28,7 @@ Once ready, create a visualization in Illustrator that shows the relationship be
 * ~Laser print of your visualization~ (we'll look at your work digitally)  
 
 
-# PROJECTS SHOWN  
+## PROJECTS SHOWN  
 *All found in this week's `Images` folder*  
 
 * Florence Nightingale's *Diagram of the Cuases of Mortality in the Army in the East*  
