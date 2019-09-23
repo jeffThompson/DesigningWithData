@@ -1,0 +1,5 @@
+src,eqid,version,datetime,lat,lon,magnitude,depth,nst,region
+ci,11034853,0,"Monday, November 21, 2011 01:01:38 UTC",33.1762,-115.6135,3.2,2.30,70,"Southern California"
+ak,10360520,1,"Sunday, November 20, 2011 23:32:28 UTC",59.6523,-154.5378,3.2,194.10,59,"Southern Alaska"
+us,c0006v94,5,"Sunday, November 20, 2011 21:25:40 UTC",5.6169,127.2300,4.7,81.30,30,"Philippine Islands region"
+
