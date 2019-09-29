@@ -21,9 +21,10 @@ Your topic should be either an historical event or a social issue. This will hel
 
 * Project pitch with sample data (presented to the class)  
 * Two data-points/datasets with info about each and how they relate to the "story" of your project  
+* At least six visualizations telling a story or communicating a long-form idea about your topic  
 * Zine mockups (printed)  
 * Dataset published as a Google Doc (or elsewhere), with a link included in the final zine  
-* Final printed and bound zines in an edition of 17  
+* Final printed and bound zines in an edition of ~17~ two  
 
 
 ## PROJECT CALENDAR  
@@ -71,6 +72,24 @@ For next week, please find at least two data-points or datasets you think will b
 * Optional: try a quick visualiztion of the data, either by hand or in Illustrator, and add it to your written summary  
 
 **Please print your two summaries and bring them to class next week.**
+
+
+## FOR TUESDAY, OCTOBER 15  
+**Note! Jeff is out of town Oct 7 so we won't meet. Monday, Oct 14 is fall break and Tuesday is a Monday schedule, so we meet next on Oct 15!**  
+
+For our next class meeting (see note above), please create a mockup of your zine's pages and print each page on a separate sheet of paper. Be sure to include a front and back cover design.
+
+While the format of your zine is up to you and experimentation is definitely encouraged, the basic setup would be to print your zines on `8.5 x 11"` paper, folded in half. You can create an artboard the size of each page in Illustrator:
+
+![Screenshot of how to set up artboard in illustrator](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/IllustratorScreenshots/PageLayout.png)
+
+Then make multiple artboards my typing `Shift + O` to open the artboard editor, then click the little page button to make more artboards:
+
+![Screenshot of multiple artboards in Illustrator](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/IllustratorScreenshots/MultipleArtboards.png)
+
+Remember! If you want to fold your pages, you'll need to have the total number of pages be a multiple of four (since we print two pages per side x two sides per page).
+
+Focus on the visual style and focus on the story you want to tell through your data. You have two weeks to work on this, so your mockups can be work-in-progress but should be pretty close to how you want your final version to look.
 
 
 ## RESOURCES  
