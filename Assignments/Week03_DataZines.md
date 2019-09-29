@@ -95,6 +95,20 @@ A few more details to consider:
 Focus on the visual style and focus on the story you want to tell through your data. You have two weeks to work on this, so your mockups can be work-in-progress but should be pretty close to how you want your final version to look.
 
 
+## FOR MONDAY, OCTOBER 21  
+
+For next week, please finish the design of your zine, then print and bind two copies. You can feel free to use different papers, other materials, and non-traditional formats and binding if you want! The Fab Lab has a pamphlet stapler for binding and a guillotine for trimming your edges (but never cut through a staple!)
+
+Be sure to include:  
+* A title and your name (though it doesn't have to be on the cover)  
+* A link to your dataset online  
+* At least six visualizations in the zine (though some of them may be more elaborate than others)  
+
+If you haven't already, publish your data as a Google Doc/Sheet or somewhere else publicly accessible. This can include more data than you're using in the zine, but should definitely include URLs to where that data came from.
+
+**Bring your printed copies to class and we'll take a look at them together!**
+
+
 ## RESOURCES  
 
 * Lots of examples of infographics in this week's `Images` folder  
