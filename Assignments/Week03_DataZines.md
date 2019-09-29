@@ -81,7 +81,7 @@ For our next class meeting (see note above), please create a mockup of your zine
 
 While the format of your zine is up to you and experimentation is definitely encouraged, the basic setup would be to print your zines on `8.5 x 11"` paper, folded in half. You can create an artboard the size of each page in Illustrator:
 
-![Screenshot of how to set up artboard in illustrator](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/IllustratorScreenshots/PageLayout.png)
+<p align="center"><img alt="Screenshot of artboard setup in Illustrator" src="https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/IllustratorScreenshots/PageLayout.png"></p>
 
 Then make multiple artboards my typing `Shift + O` to open the artboard editor, then click the little page button to make more artboards:
 
