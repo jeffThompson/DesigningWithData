@@ -87,7 +87,10 @@ Then make multiple artboards my typing `Shift + O` to open the artboard editor, 
 
 ![Screenshot of multiple artboards in Illustrator](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week03-DataZines/IllustratorScreenshots/MultipleArtboards.png)
 
-Remember! If you want to fold your pages, you'll need to have the total number of pages be a multiple of four (since we print two pages per side x two sides per page).
+A few more details to consider:  
+* The laserprinter can't print right up to the edge of the paper ("full bleed"), so if you want things printed right up to the edge, give yourself a 1/4" margin and plan to trim your finished booklet with the guillotine.  
+* A full-page spread, where things go across two pages seamlessly, is really tricky with a normal printer like ours – you can try it, but it might not work well.  
+* Remember! If you want to fold your pages, you'll need to have the total number of pages be a multiple of four (since we print two pages per side x two sides per page).
 
 Focus on the visual style and focus on the story you want to tell through your data. You have two weeks to work on this, so your mockups can be work-in-progress but should be pretty close to how you want your final version to look.
 
