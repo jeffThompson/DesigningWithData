@@ -97,7 +97,7 @@ Focus on the visual style and focus on the story you want to tell through your d
 
 ## FOR MONDAY, OCTOBER 21  
 
-For next week, please finish the design of your zine, then print and bind two copies. You can feel free to use different papers, other materials, and non-traditional formats and binding if you want! The Fab Lab has a pamphlet stapler for binding and a guillotine for trimming your edges (but never cut through a staple!)
+For next week, please finish the design of your zine, then **print and bind two copies** (not 17, like we had originally discussed). You can feel free to use different papers, other materials, and non-traditional formats and binding if you want! The Fab Lab has a pamphlet stapler for binding and a guillotine for trimming your edges (but never cut through a staple!)
 
 Be sure to include:  
 * A title and your name (though it doesn't have to be on the cover)  
