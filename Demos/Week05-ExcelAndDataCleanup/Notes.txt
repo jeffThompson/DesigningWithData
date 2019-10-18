@@ -138,7 +138,11 @@ https://reports.collegeboard.org/archive/sat-suite-program-results/2017/detailed
 		- or charter schools (that don't receive state aid)
 		- or missing data
 
-
+5. add title and citation
+	- insert some rows at top
+	- title, byline
+	- urls to all data sources
+	- upload to google sheet or start there first
 
 
 
