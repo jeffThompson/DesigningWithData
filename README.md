@@ -144,6 +144,6 @@ Document your final project and upload to Canvas
 
 \- \- \-
 
-**EXAM PERIOD: DATE TBD**  
+**EXAM PERIOD: DEC 9, 9AM**  
 Documentation due to Canvas, have a great break!
 
