@@ -6,8 +6,12 @@ Jeff Thompson | 2019 | jeffreythompson.org
 Below is a basic template for loading earthquake data from the US
 Geological Survey (USGS) and visualizing it.
 
-Source (with lots of options to download different time periods):
+Data source (with lots of options to download different time periods):
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
+
+Maps:
+https://observablehq.com/@d3/equirectangular
+https://commons.wikimedia.org/wiki/File:BlankMap-World-Equirectangular.svg
 
 */
 
@@ -15,19 +19,19 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
 void setup() {
   
   // set size equal to the map image
-  size(1200,600);
+  size(1000,500);
   background(255);
   
   // load the map (though you can choose whether to show it
   // or not, or use a different map instead)
-  PImage map = loadImage("EquirectangularProjection-1200pxDimmed.png");
-  //image(map, 0,0);
+  PImage map = loadImage("data/Landmass.png");
+  image(map, 0,0);
   
   // load the data!
   // the extra parameters tell Processing this is a CSV file
   // that has a header (which makes it much easier to extract
   // the data later)
-  Table earthquakes = loadTable("Earthquakes-7Days.csv", "header, csv");
+  Table earthquakes = loadTable("data/Earthquakes-7Days.csv", "header, csv");
   
   // "rows" in a CSV file are entries (in this case earthquakes)
   // if we get the number of rows, we can tell how many datapoints

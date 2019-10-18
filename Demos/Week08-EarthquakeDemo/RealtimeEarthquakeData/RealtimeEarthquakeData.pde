@@ -17,7 +17,7 @@ String url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour
 
 
 void setup() {
-  size(1200,600);
+  size(1000,500);
   background(255);
   
   // load the data from a url instead of locally!
