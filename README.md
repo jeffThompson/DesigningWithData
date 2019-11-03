@@ -53,7 +53,7 @@ Critique of Everyday Data, discussion of reading, Illustrator basics
 Critique of Two Things project, further Illustrator demos, common data formats
 
 **Homework:**  
-[Data Zine](): ideation and sample data recording
+[Data Zine](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week03_DataZines.md): ideation and sample data recording
 
 \- \- \-
 
@@ -61,7 +61,7 @@ Critique of Two Things project, further Illustrator demos, common data formats
 Present project ideas, further Illustrator demos, combining data in Excel
 
 **Homework:**  
-[Data Zine](): research and gather data
+[Data Zine](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week03_DataZines.md): research and gather data
 
 \- \- \-
 
@@ -69,7 +69,7 @@ Present project ideas, further Illustrator demos, combining data in Excel
 Documenting and publishing data, further Illustrator demos, folding machine and binding demo, create mockup sketches
 
 **Homework:**  
-[Data Zine](): mockup
+[Data Zine](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week03_DataZines.md): mockup
 
 \- \- \-
 
@@ -84,7 +84,7 @@ Continue working on mockup for next week
 Small-group feedback of mockups, demos as needed, work day
 
 **Homework:**  
-Finish and print [Data Zines](), install Processing
+Finish and print [Data Zines](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week03_DataZines.md), install Processing
 
 \- \- \-
 
@@ -92,7 +92,7 @@ Finish and print [Data Zines](), install Processing
 Critique of Data Zines, programming basics, loading CSV files, working with USGS data
 
 **Homework:**  
-[Earthquake Data](): code sketches
+[Earthquake Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week08_EarthquakeData.md): code sketches
 
 \- \- \-
 
@@ -100,44 +100,47 @@ Critique of Data Zines, programming basics, loading CSV files, working with USGS
 Small-group feedback on code sketches, further Processing demos, work day
 
 **Homework:**  
-Finish [Earthquake Data]()
+Finish [Earthquake Data](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week08_EarthquakeData.md)
 
 \- \- \-
 
 **WEEK 10: NOV 4**  
-Help with final 5% of Earthquake Data project, critique, further Processing demos
+Help with final 5% of Earthquake Data project, critique, design briefs, ideation session
 
 **Homework:**  
-[Final Project](): proposal
+[Final Project](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week10_FinalProject.md): proposal
 
 \- \- \-
 
 **WEEK 11: NOV 11**  
-In-progress feedback session, work day
+In-progress feedback session, further Processing demos, work day
 
 **Homework:**  
-[Final Project](): work in progress
+[Final Project](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week10_FinalProject.md): work in progress
+
+**Reading:**  
+*What Would Feminist Data Visualization Look Like?* by Catherine D'Ignazio (link in the `Final Project` assignment)
 
 \- \- \-
 
 **WEEK 12: Nov 18**  
-In-progress feedback session, work day
+In-progress feedback session, feminist data vis challenges
 
 **Homework:**  
-[Final Project](): work in progress
+[Final Project](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week10_FinalProject.md): work in progress
 
 \- \- \-
 
 **WEEK 13: NOV 25**  
-In-progress feedback session, work day
+In-progress feedback session, work day  
 
 **Homework:**  
-Finish [Final Project]()
+Finish [Final Project](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week10_FinalProject.md)
 
 \- \- \-
 
 **WEEK 14: DEC 2**  
-Critique of [Final project]()
+Critique of [Final project](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week10_FinalProject.md)
 
 **Homework:**  
 Document your final project and upload to Canvas
