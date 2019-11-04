@@ -113,7 +113,7 @@ Help with final 5% of Earthquake Data project, critique, design briefs, ideation
 \- \- \-
 
 **WEEK 11: NOV 11**  
-In-progress feedback session, further Processing demos, work day
+Project idea feedback session, design sprint, further Processing demos
 
 **Homework:**  
 [Final Project](https://github.com/jeffThompson/DataVisualization/blob/master/Assignments/Week10_FinalProject.md): work in progress
