@@ -43,7 +43,7 @@ Work in progress due next week; details TBA.
 
 
 ## FOR MONDAY, DECEMBER 2  
-Final crituqe; details TBA.
+Final critique; details TBA.
 
 
 ## FOR MONDAY, DECEMBER 9 AT 9AM  
