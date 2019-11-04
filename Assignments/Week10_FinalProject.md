@@ -18,7 +18,7 @@ We'll start with an ideation session and a design brief for your project, follow
 
 ## FOR MONDAY, NOVEMBER 11  
 
-For next week, your first step will be to draft a "design brief" for your project. A brief is a document that outlines a project in detail. Usually created for a client), a brief includes a description of the project and a justification of your approach, but also may include user demographics, color schemes, and other research.
+For next week, your first step will be to draft a "design brief" for your project. A brief is a document that outlines a project in detail. Usually created for a client, a brief includes a description of the project and a justification of your approach, but also may include user demographics, color schemes, and other research.
 
 Your brief should include the following:  
 * Project title  
@@ -29,7 +29,7 @@ Your brief should include the following:
 * Who you want this project to reach and why is this topic important to you and/or society? (1–2 paragraphs)  
 * Any other materials you want to include: this might be inspiration images, sample visualizations of your data, annotated color schemes or font options, etc etc  
 
-**Please print your briefs single-sided and bring to class. Remember that craft counts: design your brief carefully and make sure it's not crumpled in your bag. Pretend this is being presented to a client who is considering giving you this job.**
+**Please print your briefs single-sided and bring to class.** Remember that craft counts: design your brief carefully and make sure it's not crumpled in your bag. Pretend this is being presented to a client who is considering giving you this job.
 
 
 ## FOR MONDAY, NOVEMBER 18  
