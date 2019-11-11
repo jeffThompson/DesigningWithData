@@ -67,7 +67,7 @@ Take another sheet of paper and fold it in half in the "hamburger" direction. Us
 
 
 ## 6. VALIDATE  
-Our final step is to test with real users, in this case your fellow students. Next week, you'll get feedback from everyone on your work in progress, helping you improve your project and think about next steps.
+Our final step is to test with real users, in this case your fellow students. Lay out all the documents you created today plus your brief, then talk about your prototypes with the group. This is a great time to get specific feedback from everyone, helping you improve your initial ideas and think about next steps. Next week, we'll look at your work in progress as well: another chance for the validation step.
 
 
 ## RESOURCES  
