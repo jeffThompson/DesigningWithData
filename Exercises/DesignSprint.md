@@ -2,7 +2,7 @@
 
 # DESIGN SPRINT  
 
-Today we'll be running a "design sprint" (or part of one, at least) as a way of generating ideas for your final project. This process, developed at Google for their Google Venture incubator, is about opening a group's mind to new ideas, then coming up with solutions. Design sprints are also about making "evidence based" choices – using observations and testing to determine the best design decisions. While usually run with groups of designers and developers, we'll use the design sprint in class as another tool for design ideation.
+Today we'll be running a ["design sprint"](http://www.gv.com/sprint/) (or part of one, at least) as a way of generating ideas for your final project. This process, developed at Google for their [Google Venture incubator](http://www.gv.com/), is about opening a group's mind to new ideas, then coming up with solutions. Design sprints are also about making "evidence based" choices – using observations and testing to determine the best design decisions. While usually run with groups of designers and developers, we'll use the design sprint in class as another tool for design ideation.
 
 
 ## 0. DEFINE THE PROBLEM  
@@ -12,10 +12,10 @@ The first step happens before the sprint and outlines a "challenge statement." I
 ## 1. UNDERSTAND (THE CHALLENGE)  
 The first step, before thinking about solutions, is to understand the challenge. On your own, quickly and without worrying about how this will be actually implemented later, think about these questions:
 
-* What is foundational to this project? What absolutely must be accomplished?  
+* What is foundational to this project? What absolutely must be accomplished (ie minimum deliverables)?  
 * What is useful and delightful to the viewer?  
-* Think of stories related to the project? What experiences have you had, or would like to have?  
-* Come up with "how might we...?" questions.  
+* Think of stories related to the project? What experiences have you had or would like to have?  
+* Come up with *"How might we...?"* questions.  
 
 Write down as much of this as you can. We'll then take some time for you to synthesize this with your brief, then present your project ideas to your group for some initial feedback.
 
@@ -24,12 +24,11 @@ Write down as much of this as you can. We'll then take some time for you to synt
 With a sense of the challenge, we can now start to think about strategies to pursue. These aren't quite solutions, but more like a set of ideas that define your project further.
 
 **DECISION SLIDERS**  
-Individually, write a list of 4–5 opposites that define choices for your project. 
+Individually, write a list of 4–5 opposites that define choices for your project. These could be things like:  
 
-These could be things like:  
-* Design-related like **Geometric vs Organic** or **Simple vs Complex**  
-* Style like **Tons of Stats vs Single Values** or **Bright Colors vs Muted/Dark**  
-* Format/media like **Illustration vs Graphic** or **Printed vs Animation**  
+* Design-related like `Geometric` vs `Organic` or `Simple` vs `Complex`  
+* Style like `Tons of Stats` vs `Single Values` or `Bright Colors` vs `Muted/Dark`  
+* Format/media like `Illustration` vs `Graphic` or `Printed` vs `Animation`  
 
 When you have your words, draw them as sliders like this:  
 
