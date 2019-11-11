@@ -36,7 +36,7 @@ When you have your words, draw them as sliders like this:
         Geometric --------------|-------------- Organic
     Bright Colors --------------|-------------- Muted/Dark
 
-As a group, you'll place dots along the sliders of your fellow group-mates as a way of "voting" on where you image each project fitting in this context.  
+As a group, you'll place dots along the sliders of your fellow group-mates as a way of "voting" on where you imagine each word-pair fitting into the project's context.
 
 
 ## 3. DIVERGE  
@@ -45,20 +45,18 @@ Normally, the work we've done so far would be done as a group and, at this point
 **CRAZY EIGHTS**  
 For this exercise, fold a piece of paper into eight equal sections. In five minutes, quickly sketch out 6–8 ideas that might apply to the project. These can be big, small, visual, technical, etc – anything goes. Try to make your sketches legible and add labels if necessary, but don't worry about great ideas at this stage; this is just about getting stuff out of your head and on paper. After sketching, we'll do silent dot-voting as a group – everyone gets 3 dots each, so use them wisely! 
 
-For the second round, divide your paper into eight sections again. In each of the squares, take on different point-of-view to approach the project from. 
+For the second round, divide your paper into eight sections again. In each of the squares, write down these "roles" (points of view):
 
-These include:  
+1. Pessimist  
+2. Optimist  
+3. Advocate  
+4. Novice audience  
+5. Expert audience  
+6. Idea generator  
+7. (Bonus: a role not listed above!)  
+8. (Bonus: a role not listed above!)  
 
-* Pessimist  
-* Optimist  
-* Advocate  
-* Novice audience  
-* Expert audience  
-* Idea generator  
-* (Bonus: a role not listed above!)  
-* (Bonus: a role not listed above!)  
-
-After both rounds, start working on some paper prototypes.
+Then, for each square come up with an idea or approach that these roles suggest for your project, like you did above.
 
 
 ## 4. DECIDE and 5. PROTOTYPE  
