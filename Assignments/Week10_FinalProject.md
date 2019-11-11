@@ -34,7 +34,7 @@ Your brief should include the following:
 
 
 ## FOR MONDAY, NOVEMBER 18  
-With feedback on your design brief, please start working on your project. This might include gathering data, exploring it with Excel, or doing prototypes in Illustrator or Processing. Please bring something to class you can show us in a small group feedback session.
+With feedback on your design brief and ideas from our [design sprint](https://github.com/jeffThompson/DataVisualization/blob/master/Exercises/DesignSprint.md), please start working on your project. This might include gathering data, exploring it with Excel, or doing prototypes in Illustrator or Processing. Think about the exercises we did in class and the feedback of your classmates as a way to identify good next steps. Please bring something to class you can show us in a small group feedback session.
 
 Please also read [*What Would Feminist Data Visualization Look Like?*](https://civic.mit.edu/2015/12/01/feminist-data-visualization) by Catherine D'Ignazio. We'll have a group-jam around these ideas next class.
 
