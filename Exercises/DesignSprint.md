@@ -13,9 +13,9 @@ The first step happens before the sprint and outlines a "challenge statement." I
 The first step, before thinking about solutions, is to understand the challenge. On your own, quickly and without worrying about how this will be actually implemented later, think about these questions:
 
 * What is foundational to this project? What absolutely must be accomplished (ie minimum deliverables)?  
-* What is useful and delightful to the viewer?  
+* What might be useful and delightful to the viewer?  
 * Think of stories related to the project? What experiences have you had or would like to have?  
-* Come up with *"How might we...?"* questions.  
+* Come up with *"How might I...?"* questions.  
 
 Write down as much of this as you can. We'll then take some time for you to synthesize this with your brief, then present your project ideas to your group for some initial feedback.
 
@@ -42,7 +42,7 @@ As a group, you'll place dots along the sliders of your fellow group-mates as a 
 Normally, the work we've done so far would be done as a group and, at this point, we'd split into smaller groups or work individually. But we can still use the exercises of a sprint to further come up with ideas for your project.
 
 **CRAZY EIGHTS**  
-For this exercise, fold a piece of paper into eight equal sections. In five minutes, quickly sketch out 6–8 ideas that might apply to the project. These can be big, small, visual, technical, etc – anything goes. Try to make your sketches legible and add labels if necessary, but don't worry about great ideas at this stage; this is just about getting stuff out of your head and on paper. After sketching, we'll do silent dot-voting as a group – everyone gets 3 dots each, so use them wisely! 
+For this exercise, fold a piece of paper into eight equal sections. In five minutes, quickly sketch out 6–8 ideas that might apply to the project. These can be big, small, visual, technical, etc – anything goes. Try to make your sketches legible and add labels if necessary, but don't worry about great ideas at this stage; this is just about getting stuff out of your head and on paper.
 
 For the second round, divide your paper into eight sections again. In each of the squares, write down these "roles" (points of view):
 
@@ -56,6 +56,8 @@ For the second round, divide your paper into eight sections again. In each of th
 8. (Bonus: a role not listed above!)  
 
 Then, for each square come up with an idea or approach that these roles suggest for your project, like you did above.
+
+After sketching, we'll do silent dot-voting as a group – everyone gets 3 dots each, so use them wisely! 
 
 
 ## 4. DECIDE and 5. PROTOTYPE  
