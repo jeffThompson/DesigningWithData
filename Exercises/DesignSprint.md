@@ -1,4 +1,4 @@
-![The flowchart of a design sprint](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week10/DesignSprintFlowchart.png)
+![The flowchart of a design sprint](https://raw.githubusercontent.com/jeffThompson/DataVisualization/master/Images/Week10-FinalProject/DesignSprintFlowchart.png)
 
 # DESIGN SPRINT  
 
