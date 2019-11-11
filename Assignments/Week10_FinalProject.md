@@ -13,6 +13,7 @@ We'll start with an ideation session and a design brief for your project, follow
 * Project "brief" (printed single-sided and brought to class)  
 * Work in progress check-ins (2x)  
 * Final version ready for critique (last regular day of class)  
+* Data sources cited in some way in the project  
 * Project documentation (turned in by the exam period to Canvas)  
 
 
@@ -33,17 +34,17 @@ Your brief should include the following:
 
 
 ## FOR MONDAY, NOVEMBER 18  
-Work in progress due next week; details TBA.
+With feedback on your design brief, please start working on your project. This might include gathering data, exploring it with Excel, or doing prototypes in Illustrator or Processing. Please bring something to class you can show us in a small group feedback session.
 
 Please also read [*What Would Feminist Data Visualization Look Like?*](https://civic.mit.edu/2015/12/01/feminist-data-visualization) by Catherine D'Ignazio. We'll have a group-jam around these ideas next class.
 
 
 ## FOR MONDAY, NOVEMBER 25  
-Work in progress due next week; details TBA.
+Next week is our final class before the critique, so your project should be heading towards something more refined at this point. Please bring in work-in-progress to get feedback on. We'll spend the remainder of the class as a work day for you to get help and input on the last steps.
 
 
 ## FOR MONDAY, DECEMBER 2  
-Final critique; details TBA.
+Our critique of your final projects will be on the last day of class. Your work should be ready to hang/show by the start of class – we will not critique late work. If you'd like to install your project in the hall ahead of time, please let me know and I can set aside some space for you. After the crit, you'll have a week to make revisions and document your project (see details below).
 
 
 ## FOR MONDAY, DECEMBER 9 AT 9AM  

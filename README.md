@@ -123,7 +123,7 @@ Project idea feedback session, design sprint, further Processing demos
 
 \- \- \-
 
-**WEEK 12: Nov 18**  
+**WEEK 12: NOV 18**  
 In-progress feedback session, feminist data vis challenges
 
 **Homework:**  
