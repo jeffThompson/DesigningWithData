@@ -8,7 +8,11 @@ Today, we'll unpack D'Ignazio's post and explore her prompts, not from the stand
 
 ## HOW IS THIS FEMINIST? WHAT ABOUT OTHER GROUPS?  
 
-"Feminist" data vis isn't just concerned with women; as D'Ignazio puts it "feminist standpoint theory would say that the issue is that all knowledge is socially situated and that the perspectives of oppressed groups including women, minorities and others are systematically excluded from 'general' knowledge." In [another post](http://www.kanarinka.com/project/data-feminism/), she points to data science as a form of power, both for good and bad, and that data visualization is a part of that power structure and should be explored and critiqued. This larger view of feminism, coined ["intersectional feminism"](https://en.wikipedia.org/wiki/Intersectionality) by [Kimberlé Williams Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) in 1989, means we can view inequality as overlapping systems of opression and discrimination due to ethnicity, sexuality, and economic background. In our exercise today, I encourage you to think about the myriad ways that people are marginalized, oppressed, invisible, or simply have different experiences.
+"Feminist" data vis isn't just concerned with women; as D'Ignazio puts it "feminist standpoint theory would say that the issue is that all knowledge is socially situated and that the perspectives of oppressed groups including women, minorities and others are systematically excluded from 'general' knowledge." In [another post](http://www.kanarinka.com/project/data-feminism/), she points to data science as a form of power, both for good and bad, and that data visualization is a part of that power structure and should be explored and critiqued. 
+
+This larger view of feminism, coined ["intersectional feminism"](https://en.wikipedia.org/wiki/Intersectionality) by [Kimberlé Williams Crenshaw](https://en.wikipedia.org/wiki/Kimberl%C3%A9_Williams_Crenshaw) in 1989, means we can view inequality as overlapping systems of opression and discrimination due to ethnicity, sexuality, and economic background. 
+
+In our exercise today, I encourage you to think about the myriad ways that people are marginalized, oppressed, invisible, or simply have different experiences.
 
 
 ## YOUR TASK  
@@ -26,7 +30,7 @@ This might take the form of:
 * Project: ideas for a data visualization project  
 * Dataset: data that doesn't exist yet or has major gaps  
 * Best practices: recommendations for visualizers  
-* ???  
+* ???: some other form or approach not listed above  
 
 This process is meant to be open-ended and exploratory; simple ideas can cumulatively make a big difference. Think about the projects we did this semester, D'Ignazio's post and Andy Kirk's talk, and perhaps most importantly your own personal experience.
 
@@ -47,7 +51,7 @@ D'Ignazio also further refines these in her book to [seven principles for data f
 I would also add:  
 
 * Strengthen communities ("Without community, there is no liberation... but community must not mean a shedding of our differences, nor the pathetic pretense that these differences do not exist." — Audre Lorde)  
-* "Build With, Not For" ([Laurenellen McCann](https://www.buildwith.org/work))  
+* "Build with, not for" ([Laurenellen McCann](https://www.buildwith.org/work))  
 
 
 ## RESOURCES  
