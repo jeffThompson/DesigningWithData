@@ -40,7 +40,7 @@ Please also read [*What Would Feminist Data Visualization Look Like?*](https://c
 
 
 ## FOR MONDAY, NOVEMBER 25  
-Next week is our final class before the critique, so your project should be heading towards something more refined at this point. Please bring in work-in-progress to get feedback on. We'll spend the remainder of the class as a work day for you to get help and input on the last steps.
+Next week is our final class before the critique, so your project should be heading towards something more refined at this point: mockups, renders, animatics, etc. Please bring in work-in-progress to get feedback on. We'll spend the remainder of the class as a work day for you to get help and input on the last steps.
 
 
 ## FOR MONDAY, DECEMBER 2  
@@ -48,5 +48,9 @@ Our critique of your final projects will be on the last day of class. Your work 
 
 
 ## FOR MONDAY, DECEMBER 9 AT 9AM  
-Project documentation due by 9:00AM on Canvas; details TBA. 
+Project documentation due by 9:00AM on Canvas. **Note, we will not meet as a class!**
+
+Include files/images and a text description as a comment, briefly explaining your project's dataset(s) and how your finished visualization approaches that data. For digital projects, upload the finished files (PDF, video, etc). For print/physical projects, take photographs of the work. Take your time and get good documentation! Photograph against a clean background, make sure the lighting is even, and your photos are in focus.
+
+If you have any issues uploading, send me a note via email and we can figure out an alternative.
 
