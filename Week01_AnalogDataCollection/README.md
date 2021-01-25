@@ -1,4 +1,4 @@
-![]()
+![A composite of several images from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations of weekly activities for a year](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Week01_AnalogDataCollection/Images/DearData_Composite_DearData_GeorgiaLupiAndStefaniePosavec.jpg)
 
 # ANALOG DATA COLLECTION
 
@@ -14,7 +14,7 @@
 ### ASSIGNMENT  
 
 
-*Above: a*  
+*Above: a composite of several images from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations of weekly activities for a year.*  
 
 
 ### DELIVERABLES  
