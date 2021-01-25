@@ -16,11 +16,11 @@ What does a day of flight paths in the US look like? What can we learn about NYC
 
 >"Getting information from a table is like extracting sunlight from a cucumber." – Arthur and Henry Farquhar
 
-We'll begin by considering a broad idea of what data might be and analog ways of presenting it, starting with a single number and then thinking about creative ways to show really huge numbers. From there, we'll start using Javascript (a programming language the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. Our projects will involve lots of research, finding our own data, and will be framed around contemporary issues: climate change and race in America. We'll also look at ways to clean, parse, and publish our own datasets. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations throughout the last thousand years, read about best practices for artists and designers working with data, and see the varied career paths that designers interested in data can take.
+We'll begin by considering a broad idea of what data might be and analog ways of presenting it, starting with a single number and then thinking about creative ways to show really huge numbers. From there, we'll start using Javascript (a programming language the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. Our projects will involve lots of research, finding our own data, and will be framed around two contemporary issues: climate change and race in America. We'll also look at ways to clean, parse, and publish our own datasets. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations made over the last thousand+ years, talk about best practices for artists and designers working with data, and see the varied career paths that designers interested in data can take.
 
 This class assumes you’ve never worked with data or written code before. If you have, you'll be encouraged to push your work and make more complex projects. Students are encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
-See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course policies, grading, etc.
+See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course format, policies, grading, etc.
 
 
 ### COURSE CALENDAR  
@@ -49,7 +49,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | MARCH 1     | Time Series: Climate Change 2 |
 | :---        | :--- |
 | Demos       | Loading data from file, line styles, scale options, custom labels |
-| Data format | Comma-separated values |
+| Data format | Comma-separated values (CSV) |
 | Homework    | Design variations |
 
 | MAR 8       | Time Series: Climate Change 3 |
