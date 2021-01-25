@@ -38,7 +38,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class    | Crit of `Analog Data Collection` projects |
 | Homework    | `One/Million/Billion Dollars` |
 | Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
-| *NOTE!*     | *Feb 15 is Presidents' Day – NO CLASS! See you in two weeks* |
+| *NOTE!*     | *Feb 15 is Presidents' Day – NO CLASS!* |
 
 | FEB 22      | Time Series: Climate Change 1 |
 | :---        | :--- |
