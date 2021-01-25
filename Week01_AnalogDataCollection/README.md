@@ -22,7 +22,7 @@
 
 
 ### INSPIRATION  
-You can find images of these projects in this weeks' `Images` folder!  
+:warning: Each week, you can find images of these projects in this weeks' `Images` folder!  
 * *Dear Data* project by Georgia Lupi and Stefanie Posavec  
 * *Feltron Annual Report* by Nicholas Felton  
 * *Matchstick Graphs* by Anna Madeleine  
