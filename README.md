@@ -10,7 +10,7 @@
 | Weekly crits   | Mondays 11am–12:30pm EST |  
 | Zoom links     | Links for weekly class meetings on Canvas |  
 
-What does a day of flight paths in the US look like? What can we learn about NYC by mapping shadows? How can a Twitter bot help us experience the minute details found in census data? Data visualization is a complex and varied field, found in a range of disciplines where the methodology ranges from scientific (full of stats and academic papers) to infographics found in newspapers and even fine art that uses data as an input. This semester, we will be exploring through creative research projects the design challenges that data presents, think about how to tell stories with data, and how we record and represent the world through data.
+What does a day of flight paths in the US look like? What can we learn about NYC by mapping shadows? How can a Twitter bot help us experience the minute details found in census data? Data visualization is a complex and varied field, found in a range of disciplines where the methodology ranges from scientific (full of stats and academic papers) to interactive online projects to illustrated infographics found in newspapers and even fine art that uses data as an input. This semester, we will be exploring through creative research projects the design challenges that data presents, think about how to tell stories with data, and how we record and represent the world through data.
 
 >"90% of the data in the world today has been created in the last two years." – IBM report on big data
 
@@ -38,13 +38,14 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class    | Crit of `Analog Data Collection` projects |
 | Homework    | `One/Million/Billion Dollars` |
 | Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
-| **NOTE!**   | Next week is Presidents' Day – NO CLASS! |
+| *NOTE!*     | *Next week is Presidents' Day – NO CLASS!* |
 
 | FEB 22      | Time Series: Climate Change 1 |
 | :---        | :--- |
 | In class    | Crit of `One/Million/Billion Dollars` projects |
 | Demos       | Introduction to `chart.js`, Javascript basics, adding data manually, basic line charts |
 | Homework    | Find data, identify story you want to tell |
+| Reading     | TBA |
 
 | MARCH 1     | Time Series: Climate Change 2 |
 | :---        | :--- |
@@ -63,6 +64,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Demos       | Bar and pie charts, multiple charts |
 | Data format | JSON |
 | Homework    | Contextualization research, find data |
+| Reading     | TBA |
 
 | MAR 22      | Infographics: Race in America 2 |
 | :---        | :--- |
