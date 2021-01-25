@@ -41,7 +41,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Homework    | `Million/Billion Dollars` |
 | Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
 
-**FEB 15: Presidents Day – NO CLASS!**
+| FEB 15 | Presidents Day – NO CLASS! |
 
 | FEB 22      | Time Series: Climate Change 1 |
 | :---        | :--- |
