@@ -8,7 +8,7 @@
 * Due Feb 8 by 11am EST  
 * Upload a photo of your project to Canvas with a comment explaining what your data source was and how you collected it  
 * Read *Why Visualize: From Information to Wisdom* ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879))  
-* Watch *Dear Data* keynote presentation  
+* Watch [*Dear Data* keynote presentation](https://vimeo.com/157474716)  
 
 
 ### ASSIGNMENT  
@@ -24,7 +24,7 @@ Think creatively! How could you record every cup of coffee you drink? Every step
 
 When you're done, take a photo of your piece and upload it to Canvas. Write a comment that explains what you recorded and your methodology – about one paragraph.
 
-Please also read the chapter *Why Visualize: From Information to Wisdom* from the book *The Functional Art* by Alberto Cairo ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879)) and watch the keynote presentation on *Dear Data* by Stefanie Posavec and Georgia Lupi.
+Please also read the chapter *Why Visualize: From Information to Wisdom* from the book *The Functional Art* by Alberto Cairo ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879)) and watch the [keynote presentation on *Dear Data*](https://vimeo.com/157474716) by Stefanie Posavec and Georgia Lupi.
 
 *Above: visualizations of data about a week of laughter from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations for a year.*  
 
