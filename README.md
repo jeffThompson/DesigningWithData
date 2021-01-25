@@ -10,17 +10,15 @@
 | Weekly crits   | Mondays 11am–12:30pm EST |  
 | Zoom links     | Links for weekly class meetings on Canvas |  
 
-What does a day of flight paths in the US look like? What can we learn about NYC by mapping shadows? How can a Twitter bot help us experience the minute details found in census data? How can data, design, and journalism pair to show racial injustice in America? Data visualization is a complex and varied field, found in a range of disciplines where the methodology ranges from scientific (full of stats and academic papers) to infographics found in newspapers and even fine art that uses data as an input. Our focus this semester will be seeing data as a complicated political and technical material charged with aesthetic potential. We'll explore this idea through creative projects that will ask you to think about how we record and represent the world through data, how we can tell stories with information, and to connect this research and creative work with ideas and issues you are excited and passionate about.
+What does a day of flight paths in the US look like? What can we learn about NYC by mapping shadows? How can a Twitter bot help us experience the minute details found in census data? Data visualization is a complex and varied field, found in a range of disciplines where the methodology ranges from scientific (full of stats and academic papers) to infographics found in newspapers and even fine art that uses data as an input. This semester, we will be exploring through creative research projects the design challenges that data presents, think about how to tell stories with data, and how we record and represent the world through data.
 
 >"90% of the data in the world today has been created in the last two years." – IBM report on big data
 
->"Graphical excellence is that which gives to the viewer the greatest number of ideas in the shortest time with the least ink in the smallest space." – Edward Tufte
-
 >"Getting information from a table is like extracting sunlight from a cucumber." – Arthur and Henry Farquhar
 
-We'll begin by considering what can constitute data and analog ways of presenting it, starting with a single number and then thinking about creative ways to show really huge numbers. From there, we'll start using Javascript (a programming language the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. Our projects will involve lots of research, finding our own data, and will be framed around contemporary issues: climate change, the COVID pandemic, and race in America. We'll also look at ways to clean, parse, and publish our own datasets. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations throughout the last 300 years and read about best practices for artists and designers working with data.
+We'll begin by considering a broad idea of what data might be and analog ways of presenting it, starting with a single number and then thinking about creative ways to show really huge numbers. From there, we'll start using Javascript (a programming language the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. Our projects will involve lots of research, finding our own data, and will be framed around contemporary issues: climate change and race in America. We'll also look at ways to clean, parse, and publish our own datasets. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations throughout the last thousand years, read about best practices for artists and designers working with data, and see the varied career paths that designers interested in data can take.
 
-This class assumes you’ve never worked with data or written code before. If you have, you'll be encourage to push your work and make more complex projects. Students are encouraged to use any additional software, materials, and processes that you're familiar with.
+This class assumes you’ve never worked with data or written code before. If you have, you'll be encouraged to push your work and make more complex projects. Students are encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
 See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course policies, grading, etc.
 
@@ -28,23 +26,23 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob
 ### COURSE CALENDAR  
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| FEB 1       | Collections as Data |
+| FEB 1       | What is Data? |
 | :---        | :--- |
 | In class    | Introductions, syllabus, what is data visualization? |
-| Homework    | `Collections as Data` |
+| Homework    | `Analog Data Collection` |
 | Reading     | *Why Visualize: From Information to Wisdom* (Cairo) |
 | Watch       | *Dear Data* keynote (Lupi and Posavec) |
 
-| FEB 8       | Million/Billion Dollars |
+| FEB 8       | Representing (Very Large) Numbers |
 | :---        | :--- |
-| In class    | Crit of `Visualizing Statistics` projects |
-| Homework    | `Million/Billion Dollars` |
+| In class    | Crit of `Analog Data Collection` projects |
+| Homework    | `One/Million/Billion Dollars` |
 | Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
 | **NOTE!**   | Next week is Presidents' Day – NO CLASS! |
 
 | FEB 22      | Time Series: Climate Change 1 |
 | :---        | :--- |
-| In class    | Crit of `Million/Billion Dollars` projects |
+| In class    | Crit of `One/Million/Billion Dollars` projects |
 | Demos       | Introduction to `chart.js`, Javascript basics, adding data manually, basic line charts |
 | Homework    | Find data, identify story you want to tell |
 
