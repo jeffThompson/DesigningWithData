@@ -7,7 +7,7 @@
 * No numbers or charts allowed!
 * Due Feb 8 by 11am EST
 * Upload a photo of your project to Canvas with a comment explaining what your data source was and how you collected it
-* Read *Why Visualize: From Information to Wisdom* ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879))
+* Read the chapter *Why Visualize: From Information to Wisdom* ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879))
 * Watch [*Dear Data* keynote presentation](https://vimeo.com/157474716)
 
 
