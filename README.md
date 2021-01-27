@@ -1,29 +1,29 @@
-# DESIGNING WITH DATA  
+# DESIGNING WITH DATA
 
-**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/DesigningWithData#course-calendar)** 
+**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/DesigningWithData#course-calendar)**
 
-| Instructor     | Prof. Jeff Thompson (please call me Jeff) |  
-| :---           | :--- |  
-| Email          | jeff.thompson@stevens.edu |  
-| Student hours  | On Zoom, Wed 10am–noon EST and by appointment |  
-| Drop-in hours  | Mondays 9–11am EST |  
-| Weekly crits   | Mondays 11am–12:30pm EST |  
-| Zoom links     | Links for weekly class meetings on Canvas |  
+| Instructor     | Prof. Jeff Thompson (please call me Jeff) |
+| :---           | :--- |
+| Email          | jeff.thompson@stevens.edu |
+| Student hours  | Wednesdays 10am–noon EST and by appointment |
+| Drop-in hours  | Mondays 9–10.45am EST |
+| Weekly crits   | Mondays 11am–12:50pm EST |
+| Zoom links     | Links for weekly class meetings on Canvas |
 
-What does a day of flight paths in the US look like? What can we learn about NYC by mapping shadows? How can a Twitter bot help us experience the minute details found in census data? Data visualization is a complex and varied field, found in a range of disciplines where the methodology ranges from scientific (full of stats and academic papers) to interactive online projects to illustrated infographics found in newspapers and even fine art that uses data as an input. This semester, we will be exploring through creative research projects the design challenges that data presents, think about how to tell stories with data, and how we record and represent the world through data.
+What does [a day of flight paths in the US](http://www.aaronkoblin.com/work/flightpatterns) look like? What can we [learn about NYC by mapping shadows](https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html?_r=5)? How can a Twitter bot help us [experience the minute details found in census data](https://twitter.com/censusAmericans)? Data visualization is a complex and varied field, found in many disciplines where the methodology ranges from scientific (full of stats and academic papers) to interactive online projects for governments and non-profits to illustrated infographics found in newspapers and even fine art that uses data as an input. This semester, we will explore the many ways that design and data can intersect. Through a series of creative research projects, we'll think about the design challenges that data presents, how to tell stories with data, and how we record and represent the world through data.
 
 >"90% of the data in the world today has been created in the last two years." – IBM report on big data
 
 >"Getting information from a table is like extracting sunlight from a cucumber." – Arthur and Henry Farquhar
 
-We'll begin by considering a broad idea of what data might be and analog ways of presenting it, starting with a single number and then thinking about creative ways to show really huge numbers. From there, we'll start using Javascript (a programming language the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. Our projects will involve lots of research, finding our own data, and will be framed around two contemporary issues: climate change and race in America. We'll also look at ways to clean, parse, and publish our own datasets. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations made over the last thousand+ years, talk about best practices for artists and designers working with data, and see the varied career paths that designers interested in data can take.
+We'll begin by considering a broad idea of what data might be and analog ways of recording and presenting it. We'll explore really huge numbers and creative ways to show them. After that, we'll start using Javascript (a programming language for the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. These projects will involve lots of research, finding our own data, and will be framed around two pressing contemporary issues: climate change and race in America. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations made over the last thousand+ years; look at ways to clean, parse, and publish our own datasets; and see the varied career paths that designers interested in data can take.
 
-This class assumes you’ve never worked with data or written code before. If you have, you'll be encouraged to push your work and make more complex projects. Students are encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
+This class assumes you’ve never worked with data or written code before. If you have, you'll should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
 See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course format, policies, grading, etc.
 
 
-### COURSE CALENDAR  
+### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
 | FEB 1       | What is Data? |
@@ -74,7 +74,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | MAR 29      | Infographics: Race in America 3 |
 | :---        | :--- |
-| In class    | Share data findings | 
+| In class    | Share data findings |
 | Demos       | Exporting `png` and `svg`, adding images and video, further HTML/CSS |
 | Homework    | Visualization prototype |
 | Watch       | *The Design of Nothing: Null, Zero, Blank* (Kirk) |
