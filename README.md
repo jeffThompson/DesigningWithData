@@ -20,7 +20,7 @@ We'll begin by considering a broad idea of what data might be and analog ways of
 
 This class assumes you’ve never worked with data or written code before. If you have, you'll should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
-See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.pdf) for course format, policies, grading, etc.
+See the [syllabus PDF](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Syllabus.pdf) for course format, policies, grading, etc.
 
 
 ### COURSE CALENDAR
