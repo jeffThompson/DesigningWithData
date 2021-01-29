@@ -8,7 +8,7 @@
 | Student hours  | Wednesdays 10am–noon EST and by appointment |
 | Drop-in hours  | Mondays 9–10.45am EST |
 | Weekly crits   | Mondays 11am–12:50pm EST |
-| Zoom links     | Links for weekly class meetings on Canvas |
+| Zoom           | Links for weekly class meetings on Canvas |
 
 What does [a day of flight paths in the US](http://www.aaronkoblin.com/work/flightpatterns) look like? What can we [learn about NYC by mapping shadows](https://www.nytimes.com/interactive/2016/12/21/upshot/Mapping-the-Shadows-of-New-York-City.html?_r=5)? How can a Twitter bot help us [experience the minute details found in census data](https://twitter.com/censusAmericans)? Data visualization is a complex and varied field, found in many disciplines where the methodology ranges from scientific (full of stats and academic papers) to interactive online projects for governments and non-profits to illustrated infographics found in newspapers and even fine art that uses data as an input. This semester, we will explore the many ways that design and data can intersect. Through a series of creative research projects, we'll think about the design challenges that data presents, how to tell stories with data, and how we record and represent the world through data.
 
