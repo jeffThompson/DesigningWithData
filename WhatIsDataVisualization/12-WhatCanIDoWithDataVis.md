@@ -12,9 +12,18 @@
 ### [DATALANDS](https://datalands.co/)
 * [Instagram](https://www.instagram.com/p/CFunjn6HZXk/)
 
+### [PENTAGRAM](https://www.pentagram.com/search/?query=&sector=&discipline=16&clients=&page=1)
+* [Bulletin of the Atomic Scientists](https://www.pentagram.com/work/bulletin-of-the-atomic-scientists-2)
+* [COVID-19 Charts](https://www.pentagram.com/work/covid-19-charts)
+* [Georgia Lupi & Other Stories](https://www.pentagram.com/work/giorgia-lupi-other-stories)
+
 ### [NFL NEXT GEN STATS](https://nextgenstats.nfl.com/)
 * [Some examples](https://nextgenstats.nfl.com/charts/list/all)
 * [Internships](https://www.nfl.com/careers/students)
+
+### [NASA](https://www.nasa.gov/multimedia/imagegallery/index.html)
+* [How to Shape a Spiral Galaxy](https://www.nasa.gov/feature/how-to-shape-a-spiral-galaxy)
+* [Job openings](https://www.usajobs.gov/search/results?d=NN&p=1)
 
 ### [FIVETHIRTYEIGHT](https://fivethirtyeight.com/)
 * [Comic Books are Still Made By Men, For Men and About Men](https://fivethirtyeight.com/features/women-in-comic-books/)
@@ -28,4 +37,6 @@
 
 ### [RAP RESEARCH LAB](https://www.rapresearchlab.com/)
 * [Hip Hop Word Count](https://dev.hiphopwordcount.com/)
+
+
 
