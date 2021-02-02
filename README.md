@@ -29,15 +29,14 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | FEB 1       | What is Data? |
 | :---        | :--- |
 | In class    | Introductions, syllabus, what is data visualization? |
-| Homework    | `Analog Data Collection` |
+| Homework    | [`Analog Data Collection`](https://github.com/jeffThompson/DesigningWithData/tree/master/Week01_AnalogDataCollection) |
 | Reading     | *Why Visualize: From Information to Wisdom* (Cairo) |
 | Watch       | *Dear Data* keynote (Lupi and Posavec) |
 
 | FEB 8       | Representing (Very Large) Numbers |
 | :---        | :--- |
 | In class    | Crit of `Analog Data Collection` projects |
-| Homework    | `One/Million/Billion Dollars` |
-| Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
+| Homework    | [`One/Million/Billion Dollars`](https://github.com/jeffThompson/DesigningWithData/tree/master/Week02_VeryLargeNumbers-MillionBillionDollars) |
 | *NOTE!*     | *Feb 15 is Presidents' Day – NO CLASS!* |
 
 | FEB 22      | Time Series: Climate Change 1 |
@@ -51,6 +50,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | :---        | :--- |
 | Demos       | Loading data from file, line styles, scale options, custom labels |
 | Data format | Comma-separated values (CSV) |
+| Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
 | Homework    | Design variations |
 
 | MAR 8       | Time Series: Climate Change 3 |
