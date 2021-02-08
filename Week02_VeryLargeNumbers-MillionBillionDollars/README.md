@@ -29,6 +29,8 @@ Then think about how you can show (or have us hear, or otherwise make us underst
 
 But distance is just one measure. What about the area of those bills? Converting them to weight? How large are a billion atoms? Think weird, explore the numbers, and see what interesting ways (video, illustrations, photography, sculpture, collage, music, anything) that you can show the vast differences that a few zeroes can make.
 
+One final thought: in the reading from last week, Cairo talks about *figurative* vs *non-figurative* visualizations. Figurative visualizations have a visual connection with what they are displaying. A map is figurative because it literally shows the landforms; assembly instructions for IKEA furniture show drawings of the parts. Non-figurative visualizations have no visual connection with the things they represent; a chart is a bunch of shapes and colors. For this project, which form makes the most sense? What is gained and lost by either option?
+
 **SOFTWARE FOR NEXT WEEK**
 For next week, please also install the following:
 
