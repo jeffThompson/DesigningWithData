@@ -9,6 +9,7 @@
 * Upload project or URL to Canvas
 * One paragraph description of your approach
 * Due Feb 22 by 11am EST
+* Install a text editor and Firefox or Chrome (see note below)
 
 
 ### ASSIGNMENT
@@ -27,6 +28,14 @@ A good place to start is converting a dollar to another object. For example, in 
 Then think about how you can show (or have us hear, or otherwise make us understand) that difference. In the video, Scott literally goes the distance to make this real for us: he first walks the length of a football field, then gets in his car and drives for over an hour from his home to the ocean. The video goes on and on, no narration just a view out the windshield, but it's that boring duration that makes it so impactful. A simple idea that's really effective.
 
 But distance is just one measure. What about the area of those bills? Converting them to weight? How large are a billion atoms? Think weird, explore the numbers, and see what interesting ways (video, illustrations, photography, sculpture, collage, music, anything) that you can show the vast differences that a few zeroes can make.
+
+**SOFTWARE FOR NEXT WEEK**
+For next week, please also install the following:
+
+* A code editor: [Sublime Text](https://www.sublimetext.com/3) or [Brackets](http://brackets.io) are good, free solutions, but if you have another you already use, that's fine too
+* Either [Firefox](https://www.mozilla.org/en-US/firefox/new) or [Chrome](https://www.google.com/chrome): other browsers may work but I won't be able help you if issues arise
+
+Please make sure they work (ie open them) so you're ready for our demos next week.
 
 *Above: an image from Josh Orter (of the Stupid Calculations blog) showing how big a shape would be made by stacking every iPhone screen into a huge grid. This is from 2013, so imagine what it would be like now...*
 
