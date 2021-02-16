@@ -15,18 +15,14 @@
 
 
 ### ASSIGNMENT
-> “There is no way to think up an original and extraordinary design — it can only come as a result of pursuing a given task. In the same way running down a list of words is different from making a narrative.” – [Artemy Lebedev](https://www.artlebedev.com/mandership/162)  
+> “There is no way to think up an original and extraordinary design — it can only come as a result of pursuing a given task. In the same way running down a list of words is different from making a narrative.” – [Artemy Lebedev](https://www.artlebedev.com/mandership/162)    
 
-> “Philosophically, what [the Jacquard loom] accomplished was to separate the work of weaving from the information of weaving. In a sense, it was the beginning of a long process of information losing its body.” – [Margaret Wertheim and Nicholas Gessler](https://www.cabinetmagazine.org/issues/21/wertheim2.php)  
-
-This project is the first of two assignments that dig deep into complex social and political issues. Climate change has gone from a [fragmented set of ideas in the 1800s](https://history.aip.org/climate/timeline.htm) to a hotly-contested scientific theory in the 20th century and now is considered an [agreed-upon fact by more than 97% of actively publishing climate scientists](https://climate.nasa.gov/scientific-consensus). The goal of this assignment is not to prove climate change is real, nor is it to try to show all the evidence or impacts a warming Earth will have: that would be an impossible task! Instead, in this project you will do exploratory research, find interesting time-based data, and create a visualization using `chart.js` that tells a story.
+This project is the first of two assignments that dig deep into complex social and political issues. Climate change has gone from a [fragmented set of ideas in the 1800s](https://history.aip.org/climate/timeline.htm) to a [hotly-contested scientific theory](https://theconversation.com/30-years-ago-global-warming-became-front-page-news-and-both-republicans-and-democrats-took-it-seriously-97658) in the 20th century and now is considered an [agreed-upon fact by more than 97% of actively publishing climate scientists](https://climate.nasa.gov/scientific-consensus). The goal of this assignment is not to prove climate change is real, nor is it to try to show all the evidence or impacts a warming Earth will have: that would be an impossible task! Instead, in this project you will do exploratory research, find interesting time-based data, and create a refined visualization using `chart.js` that tells part of the complex story of climate change.
 
 Your project will have a few key components:  
 * Use [time-series](https://en.wikipedia.org/wiki/Time_series) data related to climate change (see also [*What About Maps?*](#what-about-maps) below)  
 * A single visualization made with `chart.js` that you have refined  
 * A published dataset with citation to the original source(s)  
-
-Our process here is both progressive (`research → data → visualization`) and iterative (`research → feedback → making → feedback → refinement`).
 
 *Above: .*
 
