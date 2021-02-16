@@ -18,7 +18,7 @@ What does [a day of flight paths in the US](http://www.aaronkoblin.com/work/flig
 
 We'll begin by considering a broad idea of what data might be and analog ways of recording and presenting it. We'll explore really huge numbers and creative ways to show them. After that, we'll start using Javascript (a programming language for the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. These projects will involve lots of research, finding our own data, and will be framed around two pressing contemporary issues: climate change and race in America. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations made over the last thousand+ years; look at ways to clean, parse, and publish our own datasets; and see the varied career paths that designers interested in data can take.
 
-This class assumes you’ve never worked with data or written code before. If you have, you'll should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
+This class assumes you’ve never worked with data or written code before. If you have, you should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
 See the [syllabus PDF](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Syllabus.pdf) for course format, policies, grading, etc.
 
@@ -26,7 +26,7 @@ See the [syllabus PDF](https://raw.githubusercontent.com/jeffThompson/DesigningW
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| FEB 1       | What is Data? |
+| FEB 1       | What is Data Visualization? |
 | :---        | :--- |
 | In class    | Introductions, syllabus, what is data visualization? |
 | Homework    | [`Analog Data Collection`](https://github.com/jeffThompson/DesigningWithData/tree/master/Week01_AnalogDataCollection) |
@@ -85,32 +85,32 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Demos       | Animating charts |
 | Homework    | Finish `Race in America`, start thinking about `Final Project` ideas |
 
-| APRIL 12    | FINAL PROJECT 1 |
+| APRIL 12    | Final Project 1 |
 | :---        | :--- |
 | In class    | Crit of `Race in America` projects |
 | Homework    | Find data for `Final Project`, project pitches |
 
-| APRIL 19    | FINAL PROJECT 2 |
+| APRIL 19    | Final Project 2 |
 | :---        | :--- |
 | In class    | Crit of remaining `Race in America` projects |
 | Homework    | Sketches for `Final Project` |
 
-| APRIL 26    | FINAL PROJECT 3 |
+| APRIL 26    | Final Project 3 |
 | :---        | :--- |
 | In class    | Small group feedback on sketches, work day, demos as needed |
 | Homework    | Variations for `Final Project` |
 
-| May 3       | FINAL PROJECT 4 |
+| May 3       | Final Project 4 |
 | :---        | :--- |
 | In class    | Small group feedback on variations, work day, demos as needed |
 | Homework    | `Final Project` work in progress |
 
-| MAY 10      | FINAL PROJECT 5 |
+| MAY 10      | Final Project 5 |
 | :---        | :--- |
 | In class    | Small group feedback on WIP, work day, demos as needed |
 | Homework    | Finish `Final Project` |
 
-| EXAM PERIOD | DATE/TIME TBA |
+| EXAM PERIOD | Date/time TBA |
 | :---        | :--- |
 | In class    | Critique of `Final Projects` |
 
