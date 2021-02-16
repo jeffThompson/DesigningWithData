@@ -85,32 +85,32 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | Demos       | Animating charts |
 | Homework    | Finish `Race in America`, start thinking about `Final Project` ideas |
 
-| APRIL 12    | FINAL PROJECT 1 |
+| APRIL 12    | Final Project 1 |
 | :---        | :--- |
 | In class    | Crit of `Race in America` projects |
 | Homework    | Find data for `Final Project`, project pitches |
 
-| APRIL 19    | FINAL PROJECT 2 |
+| APRIL 19    | Final Project 2 |
 | :---        | :--- |
 | In class    | Crit of remaining `Race in America` projects |
 | Homework    | Sketches for `Final Project` |
 
-| APRIL 26    | FINAL PROJECT 3 |
+| APRIL 26    | Final Project 3 |
 | :---        | :--- |
 | In class    | Small group feedback on sketches, work day, demos as needed |
 | Homework    | Variations for `Final Project` |
 
-| May 3       | FINAL PROJECT 4 |
+| May 3       | Final Project 4 |
 | :---        | :--- |
 | In class    | Small group feedback on variations, work day, demos as needed |
 | Homework    | `Final Project` work in progress |
 
-| MAY 10      | FINAL PROJECT 5 |
+| MAY 10      | Final Project 5 |
 | :---        | :--- |
 | In class    | Small group feedback on WIP, work day, demos as needed |
 | Homework    | Finish `Final Project` |
 
-| EXAM PERIOD | DATE/TIME TBA |
+| EXAM PERIOD | Date/time TBA |
 | :---        | :--- |
 | In class    | Critique of `Final Projects` |
 
