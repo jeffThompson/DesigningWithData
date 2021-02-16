@@ -18,7 +18,7 @@ What does [a day of flight paths in the US](http://www.aaronkoblin.com/work/flig
 
 We'll begin by considering a broad idea of what data might be and analog ways of recording and presenting it. We'll explore really huge numbers and creative ways to show them. After that, we'll start using Javascript (a programming language for the web) and a library called `chart.js` which allows us to quickly load and tweak visualizations. These projects will involve lots of research, finding our own data, and will be framed around two pressing contemporary issues: climate change and race in America. The last third of the semester will be spent on a large-scale, open-ended visualization project of your choosing. Along the way, we'll also take a look at lots of visualizations made over the last thousand+ years; look at ways to clean, parse, and publish our own datasets; and see the varied career paths that designers interested in data can take.
 
-This class assumes you’ve never worked with data or written code before. If you have, you'll should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
+This class assumes you’ve never worked with data or written code before. If you have, you should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
 See the [syllabus PDF](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Syllabus.pdf) for course format, policies, grading, etc.
 
