@@ -26,7 +26,7 @@ See the [syllabus PDF](https://raw.githubusercontent.com/jeffThompson/DesigningW
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| FEB 1       | What is Data? |
+| FEB 1       | What is Data Visualization? |
 | :---        | :--- |
 | In class    | Introductions, syllabus, what is data visualization? |
 | Homework    | [`Analog Data Collection`](https://github.com/jeffThompson/DesigningWithData/tree/master/Week01_AnalogDataCollection) |
