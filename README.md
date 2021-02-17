@@ -50,7 +50,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | :---        | :--- |
 | Demos       | Loading data from file, line styles, scale options, custom labels |
 | Data format | Comma-separated values (CSV) |
-| Reading     | *Interpreting Visualization, Visualizing Interpretation* (Drucker) |
+| Reading     | *Continue, Pivot, or Put It Down* (Thomas) |
 | Homework    | Design variations |
 
 | MAR 8       | Time Series: Climate Change 3 |

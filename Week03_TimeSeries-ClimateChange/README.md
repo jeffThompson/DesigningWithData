@@ -2,16 +2,19 @@
 
 # TIME SERIES: CLIMATE CHANGE
 
-### TLDR
+### TLDR  
+* Visualize time-series data about climate change using `chart.js`  
 * For March 1:  
-  
+  * Read *asdf*  
   * Find data you'd like to work with  
   * Identify story you want to tell  
 * For March 8:  
-  * Read *Continue, Pivot, or Put It Down*  
+  * Read [*Continue, Pivot, or Put It Down*](https://pudding.cool/process/pivot-continue-down)  
   * Design variations  
 * For March 15:  
   * Finish project  
+
+⚠️ Since this is a multi-week project, details for each week are in separate files here! ⚠️ 
 
 
 ### ASSIGNMENT
@@ -27,34 +30,40 @@ Your project will have a few key components:
 *Above: .*
 
 
-### DELIVERABLES
-*   
-
-### FOR MONDAY, MARCH 1  
-To kick off the project, this week you should do three things:
-
-**Read `asdf`**  
-
-**Find data to work with**  
-
-**Identify a story (or stories) you want to tell**  
-
-
-
-### FOR MONDAY, MARCH 8  
-Coming soon!
-
-
-### FOR MONDAY, MARCH 15  
-Coming soon!
+### INSPIRATION  
+* [*#ShowYourStripes*](https://showyourstripes.info/) by Ed Hawkins (see also [this interesting article](https://www.cbsnews.com/news/climate-change-2000-years-of-earths-temperatures-in-one-simple-chart-and-copycat-misinformation) on the project and misleading knockoffs)  
+* [*Every Country Has Its Own Climate Risks. What's Yours?*](https://www.nytimes.com/interactive/2021/01/28/opinion/climate-change-risks-by-country.html) from the New York Times  
+* [*United States of Climate Change*](https://features.weather.com/us-climate-change/minnesota/) by Chris Dolce and Rebecca Pollack (The Weather Channel)  
+* [*2ºC: Beyong the Limit*](https://www.washingtonpost.com/graphics/2019/national/climate-environment/climate-change-america/) by Steven Mufson, Chris Mooney, Juliet Eilperin, and John Muyskens (Washington Post)  
+* [*Visualizing the Warmest August in 136 Years*](https://earthobservatory.nasa.gov/blogs/earthmatters/2016/09/12/heres-how-the-warmest-august-in-136-years-looks-in-chart-form/) by Leslie McCarthy and Michael Cabbage (NASA Earth Observatory)  
+* [*A Checkup for Carbon*](https://earthobservatory.nasa.gov/blogs/earthmatters/category/climate/) by Adam Voiland (NASA Earth Observatory)  
+* [*A Timeline of Earth's Average Temperature*](https://xkcd.com/1732/) by xkcd  
+* A [fascinating project using a satellite to accurately measure sea levels](https://www.jpl.nasa.gov/news/nasa-us-and-european-partner-satellite-returns-first-sea-level-measurements) from NASA's Jet Propulsion Laboratory  
+* [*What's Really Warming the World?*](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/) by Eric Roston and Blacki Migliozzi (Bloomberg Businessweek)  
+* [*Cape Cod Coastline Change*](https://earthobservatory.nasa.gov/world-of-change/CapeCod) from NASA Earth Observatory (part of their [*World of Change*](https://earthobservatory.nasa.gov/world-of-change) project)  
+* [*Climate Change: Featured Indicators*](https://data.worldbank.org/topic/climate-change) from The World Bank  
+* [*CO2 Emissions vs Vulnerability to Climate Change, by Nation*](https://onlinepublichealth.gwu.edu/resources/climate-change-emissions-data/) from Milken Institute School of Public Health (George Washington University)  
+* [*Carbon Dioxide Emissions*](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions) by FedericaFragapane  
+* *Stability Landscape of Earth* by Will Steffan, et al  
 
 
-### INSPIRATION
-* 
+### RESOURCES  
+* [*A Brief History of Climate Change*](https://www.bbc.com/news/science-environment-15874560) from the BBC  
+* [*History of Climate Change Science*](https://en.wikipedia.org/wiki/History_of_climate_change_science) from Wikipedia  
+* [*The Discovery of Global Warming: Timeline*](https://history.aip.org/climate/timeline.htm) from *The Discovery of Global Warming* by Spencer Weart (lots more great stuff on that site too)  
 
 
-### RESOURCES
-* 
+### DATA SOURCES  
+Looking for data can be challenging – below are some places to start but I encourage you to go beyond these sources!  
+* [Kaggle.com](https://www.kaggle.com/datasets?search=climate+change)  
+* [Google dataset search](https://datasetsearch.research.google.com/search?query=climate%20change&docid=3v1OQpCvlxa6n5lOAAAAAA%3D%3D)  
+* [Datahub.io](https://datahub.io/collections/climate-change)  
+* [The World Bank](https://data.worldbank.org/topic/climate-change) (look for the download links on the right)  
+* [NOAA climate data](https://www.climate.gov/maps-data/datasets) (see also their [*Climate Data Primer*](https://www.climate.gov/maps-data/primer/climate-data-primer))  
+* [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) (has lots of charts, but there's a [download link at the top for the data](https://github.com/owid/co2-data))  
+* [Data.gov](https://www.data.gov/climate/) from the U.S. federal government (kind of a mess, but *lots* of data)  
+* [Intergovernmental Panel on Climate Change](http://www.ipcc-data.org/)  
+
 
 ### WHAT ABOUT MAPS?  
 When thinking about climate change, maps immediately come to mind. They allow us to see changes in temperature over time, location of unprecedented weather events, and impacts of sea-level rise in a spatial format that is familiar. So why aren't we making maps for this project?
