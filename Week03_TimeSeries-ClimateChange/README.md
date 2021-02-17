@@ -38,7 +38,7 @@ Your project will have a few key components:
 * [*Climate Change: Featured Indicators*](https://data.worldbank.org/topic/climate-change) from The World Bank  
 * [*CO2 Emissions vs Vulnerability to Climate Change, by Nation*](https://onlinepublichealth.gwu.edu/resources/climate-change-emissions-data/) from Milken Institute School of Public Health (George Washington University)  
 * [*Carbon Dioxide Emissions*](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions) by FedericaFragapane  
-* *Stability Landscape of Earth* by Will Steffan, et al  
+* Lots more in the `Images` folder  
 
 
 ### RESOURCES  
