@@ -15,6 +15,16 @@ Organization is boring but so important for projects like these. You'll end up w
 
 Keep careful track of *everything* you find! Inspiration images, graphics you find, screenshots, etc can go in a subfolder. Add URLs to where stuff came from in your notes file and annotate so you can quickly scan it later and find what you want!
 
+My preferred structure:  
+
+* Folder with project title  
+* `_Notes.txt` file (the `_` at the start of the filename ensures it's at the top of the folder for easy access!)  
+* `Images` folder (I use Apple's `Get Info > Comments` for storing image URLs)  
+* `Data` folder (keep it all, you never know!)  
+* Subfolders as the project progresses with clear file naming  
+
+(Google Docs/Drive can be great but I find the login/search process to be way too slow and their permanence can be an issue for large projects. On the other hand, for collaborative projects a shared Dropbox folder works great and ensures everyone has access!)
+
 
 ### Read `asdf`  
 Finding a single reading to introduce a topic as wide-randing as climate change is impossible. Instead, I've tried to pick something
@@ -23,21 +33,34 @@ Keep your notes file open while reading and add sources, thoughts, or areas you 
 
 
 ### Find data to work with  
-Most data vis projects start with finding data. Sometimes this can be a hunt for elusive data buried deep on a website or even creating your own datasets when they don't yet exist! But data for climate change will be quite the opposite: a deluge of data to choose from.
+Most data vis projects start with finding data and this will be your main work this week. Sometimes this can be a hunt for elusive data buried deep on a website or even creating your own datasets when they don't yet exist! But data for climate change will be quite the opposite: a deluge of data to choose from.
 
-Start by thinking about the broad areas of climate change and pick one that's interesting to you. You can use some of the sites listed in the `Data Sources` section in the main assignment or use the #1 data visualization tool: Google! (Second would probably be Wikipedia.) Finding the right data can be time-consuming but you can also find interesting things you weren't looking for, so dig deep and wide.
+Start by identifying the broad areas of climate change. These might include but are definitely not limited to:
+
+* Historical temperature recordings  
+* Change in average high temperatures  
+* Record temperatures  
+* Sea level rise  
+* Ocean temperatures  
+* Ice melt/glacial retreat
+* Extreme weather events  
+* Impact on poor and minority communities  
+* Increased droughts, heat waves, and hurricanes  
+* Causes of global warming (greenhouse gases, fossil fuels, deforestation, fertilizer use, etc)  
+
+Pick one (or the intersection of more than one) that's interesting to you. You can use some of the sites listed in the `Data Sources` section in the main assignment or use the number one data visualization tool: Google! (Second would probably be Wikipedia.) Finding the right data can be time-consuming but you can also find interesting things you weren't looking for, so dig deep and wide.
 
 A few requirements for your data:  
 * Be time-based  
-* In comma-separated values (`csv`) or spreadsheet format (`xlsx`, Google Sheets, etc)  
+* In comma-separated values (`csv`) or spreadsheet format (`xlsx`, Google Sheets, etc) – other formats like `json` won't work for this project without complex conversion  
 
 If your dataset is huge or has extra stuff you don't need, we can trim that later. When you find something interesting, be sure to add it to the notes file in your project folder.
 
-When you've found at least one source you're excited about, write up a paragraph that includes:  
+When you've found at least one source you're excited about, write up 1–2 paragraphs that includes:  
 
 * What does the data record?  
 * Who created this dataset?  
-* Who published it? (If different than the creator of the data)  
+* Who published it (if different than the creator of the data)?  
 * URL to the data  
 * Why this intrigues you  
 * A guess as to what this data might show or stories you think it might tell when visualized (make an educated guess – it's ok if this turns out to be wrong!)  
