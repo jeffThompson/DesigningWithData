@@ -4,7 +4,7 @@
 
 ### TLDR  
 * Visualize time-series data about climate change using `chart.js`  
-* [For March 1](Part1-ResearchAndFindingData.md): project setup, * find data you'd like to work with, read *asdf*    
+* [For March 1](Part1-ResearchAndFindingData.md): project setup, find data you'd like to work with, read *asdf*    
 * For March 8: design variations, read [*Continue, Pivot, or Put It Down*](https://pudding.cool/process/pivot-continue-down)  
 * For March 15: finish project  
 
@@ -64,7 +64,7 @@ When thinking about climate change, maps immediately come to mind. They allow us
 
 The reason is two-fold. First, maps can be deeply complex to make: their data is often in a [weird format](https://en.wikipedia.org/wiki/Geographic_information_system) and choices in how a map is displayed are [not just technical but political](https://www.carnegiecouncil.org/publications/ethics_online/politics-and-cartography-the-power-of-deception-through-distortion). (For a fun example, see the amazing project [*The True Size Of*](https://thetruesize.com).) Jumping into maps only a few weeks into the semester would be really challenging.
 
-This brings us to the other reason. Time-series data is readily available and does a great job of showing a key idea in understanding this topic: that the global climate has changed! Time-series data also comes in a much easier format to work with, which allows you to incrementally add new technologies to your projects and focus more on making something that tells a story visually.
+This brings us to the other reason. Time-series data is readily available and does a great job of showing a key idea in understanding this topic: that the global climate has changed and will have major impacts beyond just temperature. Time-series data also comes in a much easier format to work with, which allows you to incrementally add new technologies to your projects and focus more on making something that tells a story visually.
 
 We'll definitely be looking at a lot of maps this semester. They are some of the earliest forms of data visualization, plus maps can be just stunning to look at! If you want more maps in your life, it could be something to consider for your final project. Or take *Visualizing Society* with Prof. Alex Wellerstein here at Stevens for lots of maps!
 
