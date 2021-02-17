@@ -43,7 +43,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | :---        | :--- |
 | In class    | Crit of `One/Million/Billion Dollars` projects |
 | Demos       | Introduction to `chart.js`, Javascript basics, adding data manually, basic line charts |
-| Homework    | Find data, identify story you want to tell |
+| Homework    | Find data, project setup |
 | Reading     | TBA |
 
 | MARCH 1     | Time Series: Climate Change 2 |

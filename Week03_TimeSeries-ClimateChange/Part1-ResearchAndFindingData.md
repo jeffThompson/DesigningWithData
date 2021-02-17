@@ -2,13 +2,13 @@
 
 ### TLDR  
 * ⚠️ Due Monday, March 1 by 11am EST ⚠️   
-* [Create a folder with a notes file](#create-a-project-folder)  
+* [Create a project folder with a notes file](#create-a-project-folder)  
 * [Read `asdf`]()  
 * [Find data to work with](#find-data-to-work-with)  
 * [Submit annotated list of sources to Canvas](#turning-everything-in)  
 
 
-To kick off the project, this week you should do three things:
+To kick off the project, this week we'll start with some research:
 
 ### Create a project folder  
 Organization is boring but so important for projects like these. You'll end up with tons of files, variations on your project, and lots of notes. Create a folder for your project and create a notes file inside. I really like `.txt` files for this because they load super quick, but you can use any format you want.
@@ -19,8 +19,8 @@ My preferred structure:
 
 * Folder with project title  
 * `_Notes.txt` file (the `_` at the start of the filename ensures it's at the top of the folder for easy access!)  
-* `Images` folder (I use Apple's `Get Info > Comments` for storing image URLs)  
-* `Data` folder (keep it all, you never know!)  
+* `Images` folder (I use Apple's `Get Info → Comments` for storing image URLs)  
+* `Data` folder (keep everything you find, you never know!)  
 * Subfolders as the project progresses with clear file naming  
 
 (Google Docs/Drive can be great but I find the login/search process to be way too slow and their permanence can be an issue for large projects. On the other hand, for collaborative projects a shared Dropbox folder works great and ensures everyone has access!)
