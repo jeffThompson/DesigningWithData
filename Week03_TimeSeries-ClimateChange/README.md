@@ -1,10 +1,10 @@
-![]()
+![Infographic of carbon dioxide emissions by Federica Fragapane](Images/CarbonDioxideEmissions-FedericaFragapane.jpg)
 
 # TIME SERIES: CLIMATE CHANGE
 
 ### TLDR  
 * Visualize time-series data about climate change using `chart.js`  
-* For March 1:  
+* [For March 1](Part1-ResearchAndFindingData.md):  
   * Read *asdf*  
   * Find data you'd like to work with  
   * Identify story you want to tell  
@@ -27,7 +27,7 @@ Your project will have a few key components:
 * A single visualization made with `chart.js` that you have refined  
 * A published dataset with citation to the original source(s)  
 
-*Above: .*
+*Above: a really beautiful infographic of carbon dioxide emissions by Federica Fragapane ([detail images here](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions))*
 
 
 ### INSPIRATION  
