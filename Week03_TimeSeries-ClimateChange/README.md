@@ -37,14 +37,14 @@ Your project will have a few key components:
 * [*Cape Cod Coastline Change*](https://earthobservatory.nasa.gov/world-of-change/CapeCod) from NASA Earth Observatory (part of their [*World of Change*](https://earthobservatory.nasa.gov/world-of-change) project)  
 * [*Climate Change: Featured Indicators*](https://data.worldbank.org/topic/climate-change) from The World Bank  
 * [*CO2 Emissions vs Vulnerability to Climate Change, by Nation*](https://onlinepublichealth.gwu.edu/resources/climate-change-emissions-data/) from Milken Institute School of Public Health (George Washington University)  
-* [*Carbon Dioxide Emissions*](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions) by FedericaFragapane  
-* Lots more in the `Images` folder  
+* [*Carbon Dioxide Emissions*](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions) by Federica Fragapane  
+* Lots more in the `Images` folder!  
 
 
 ### RESOURCES  
 * [*A Brief History of Climate Change*](https://www.bbc.com/news/science-environment-15874560) from the BBC  
 * [*History of Climate Change Science*](https://en.wikipedia.org/wiki/History_of_climate_change_science) from Wikipedia  
-* [*The Discovery of Global Warming: Timeline*](https://history.aip.org/climate/timeline.htm) from *The Discovery of Global Warming* by Spencer Weart (lots more great stuff on that site too)  
+* [*The Discovery of Global Warming: Timeline*](https://history.aip.org/climate/timeline.htm) by Spencer Weart (lots more great stuff on that site too)  
 
 
 ### DATA SOURCES  
@@ -62,7 +62,7 @@ Looking for data can be challenging – below are some places to start but I enc
 ### WHAT ABOUT MAPS?  
 When thinking about climate change, maps immediately come to mind. They allow us to see changes in temperature over time, location of unprecedented weather events, and impacts of sea-level rise in a spatial format that is familiar. So why aren't we making maps for this project?
 
-The reason is two-fold. First, maps can be deeply complex to make: their data is often in a [weird format](https://en.wikipedia.org/wiki/Geographic_information_system) and choices in how a map is displayed are [not just technical but political](https://www.carnegiecouncil.org/publications/ethics_online/politics-and-cartography-the-power-of-deception-through-distortion). (For a fun example, see the amazing project [*The True Size Of*](https://thetruesize.com).) Jumping into maps only a few weeks into the semester would be really challenging.
+The reason is two-fold. First, maps can be deeply complex to make: their data is often in a [weird format](https://en.wikipedia.org/wiki/Geographic_information_system) and choices in how a map is displayed are not just technical but are [socially and politically complicated](https://www.carnegiecouncil.org/publications/ethics_online/politics-and-cartography-the-power-of-deception-through-distortion). (For a fun example, see the amazing project [*The True Size Of*](https://thetruesize.com).) Jumping into maps only a few weeks into the semester would be really challenging and take us away from the focus of data.
 
 This brings us to the other reason. Time-series data is readily available and does a great job of showing a key idea in understanding this topic: that the global climate has changed and will have major impacts beyond just temperature. Time-series data also comes in a much easier format to work with, which allows you to incrementally add new technologies to your projects and focus more on making something that tells a story visually.
 
