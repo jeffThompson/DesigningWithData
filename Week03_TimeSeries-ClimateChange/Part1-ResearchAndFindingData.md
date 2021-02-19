@@ -3,13 +3,11 @@
 ### TLDR  
 * ⚠️ Due Monday, March 1 by 11am EST ⚠️   
 * [Create a project folder with a notes file](#create-a-project-folder)  
-* [Contextual readings](#contextual-readings)  
 * [Watch `chart.js` tutorials](#watch-chartjs-tutorials)  
+* [Contextual readings](#contextual-readings)  
 * [Find data to work with](#find-data-to-work-with)  
 * [Submit annotated list of sources to Canvas](#turning-everything-in)  
 
-
-To kick off the project, this week we'll start with some research:
 
 ### Create a project folder  
 Organization is (kinda) boring but so important for projects like these. Create a folder for your project and a notes file inside. I really like `.txt` files for this because they load super quick, but you can use any format you want.
@@ -27,6 +25,17 @@ My preferred structure:
 (Google Docs/Drive can be great but I find the login/file-hunting process to be way too slow and permanence can be an issue for large projects. On the other hand, for collaborative projects a shared Dropbox folder works great and ensures everyone has access!)
 
 
+### Watch `chart.js` tutorials  
+Our main tool this semester will be creating web-based graphics using the Javascript library `chart.js`. Some weeks we'll be doing code demos as a group, but they will also be available as code examples you can run and as videos.
+
+This week, please take a look at these examples:  
+* Video tutorials (coming soon)  
+* [Code examples](https://editor.p5js.org/jeffThompson/collections/ciM6Ipx1Q)  
+* [`chart.js` documentation](https://www.chartjs.org/docs/latest), which includes lots more info on options!  
+
+Try running the examples in the browser and feel free to modify and experiment with them! We'll build on these demos next week by loading your data from a file automatically and add some extra functionality!
+
+
 ### Contextual readings  
 Finding a single reading to introduce a topic as wide-randing as climate change is impossible. Instead, I've tried to pick a few short pieces that can help give some context to a topic we all know something about:
 
@@ -41,16 +50,6 @@ Optional readings:
 * Study from earlier this year on [global temperature over the last 10,000 years](https://phys.org/news/2021-01-holocene-temperature-affirms-role-greenhouse.html)  
 
 Keep your notes file open while reading and add sources, thoughts, or areas you might want to research. The readings don't cover every possible take on the topic of climate change, so this is just a starting point.
-
-
-### Watch `chart.js` tutorials  
-Our main tool this semester will be creating web-based graphics using the Javascript library `chart.js`. Some weeks we'll be doing code demos as a group, but they will also be available as code examples you can run and as videos.
-
-This week, please watch the videos in this playlist: [coming soon]()
-
-You can find the code examples used here: [coming soon]()
-
-We'll build on these demos next week by loading your data from a file automatically and add some extra functionality!
 
 
 ### Find data to work with  
