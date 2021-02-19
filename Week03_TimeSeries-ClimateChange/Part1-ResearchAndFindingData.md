@@ -3,7 +3,7 @@
 ### TLDR  
 * ⚠️ Due Monday, March 1 by 11am EST ⚠️   
 * [Create a project folder with a notes file](#create-a-project-folder)  
-* [Read `asdf`]()  
+* [Contextual readings](#contextual-readings)  
 * [Watch `chart.js` tutorials](#watch-chartjs-tutorials)  
 * [Find data to work with](#find-data-to-work-with)  
 * [Submit annotated list of sources to Canvas](#turning-everything-in)  
@@ -27,8 +27,18 @@ My preferred structure:
 (Google Docs/Drive can be great but I find the login/file-hunting process to be way too slow and permanence can be an issue for large projects. On the other hand, for collaborative projects a shared Dropbox folder works great and ensures everyone has access!)
 
 
-### Read `asdf`  
-Finding a single reading to introduce a topic as wide-randing as climate change is impossible. Instead, I've tried to pick something
+### Contextual readings  
+Finding a single reading to introduce a topic as wide-randing as climate change is impossible. Instead, I've tried to pick a few short pieces that can help give some context to a topic we all know something about:
+
+* [*Climate Change Evidence: How Do We Know?*](https://climate.nasa.gov/evidence) from NASA – a great introduction to the evidence for, and impacts from, climate change  
+* [*A Brief History of Climate Change*](https://www.bbc.com/news/science-environment-15874560) from the BBC – traces the some of the early research that pointed towards human influence on climate and the mid- to late-20th-century controversy  
+* [*No, Climate Action Can't Be Separated From Social Justice*](https://www.theguardian.com/commentisfree/2019/jun/10/no-climate-action-cant-be-separated-from-social-justice) from the Guardian – a great piece showing that the effects of climate change (and trying to prevent it) can have disparate effects on communities of color, poorer countries, etc
+
+Optional readings:  
+* The Poetry Foundation's [list of poems related to the environment](https://www.poetryfoundation.org/collections/146462/poetry-and-the-environment)  
+* [*The Discory of Global Warming*](https://history.aip.org/climate/index.htm#contents), an extensive online book by Spencer Weart  
+* Wikipedia article on the [history of climate change science](https://en.wikipedia.org/wiki/History_of_climate_change_science)  
+* Study from earlier this year on [global temperature over the last 10,000 years](https://phys.org/news/2021-01-holocene-temperature-affirms-role-greenhouse.html)  
 
 Keep your notes file open while reading and add sources, thoughts, or areas you might want to research. The readings don't cover every possible take on the topic of climate change, so this is just a starting point.
 
@@ -37,6 +47,8 @@ Keep your notes file open while reading and add sources, thoughts, or areas you 
 Our main tool this semester will be creating web-based graphics using the Javascript library `chart.js`. Some weeks we'll be doing code demos as a group, but they will also be available as code examples you can run and as videos.
 
 This week, please watch the videos in this playlist: [coming soon]()
+
+You can find the code examples used here: [coming soon]()
 
 We'll build on these demos next week by loading your data from a file automatically and add some extra functionality!
 

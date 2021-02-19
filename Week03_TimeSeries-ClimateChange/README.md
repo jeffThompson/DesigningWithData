@@ -4,7 +4,7 @@
 
 ### TLDR  
 * Visualize time-series data about climate change using `chart.js`  
-* [For March 1](Part1-ResearchAndFindingData.md): project setup, find data you'd like to work with, read *asdf*    
+* [For March 1](Part1-ResearchAndFindingData.md): project setup, find data you'd like to work with, contextual readings    
 * For March 8: design variations, read [*Continue, Pivot, or Put It Down*](https://pudding.cool/process/pivot-continue-down)  
 * For March 15: finish project  
 
@@ -38,6 +38,7 @@ Your project will have a few key components:
 * [*Climate Change: Featured Indicators*](https://data.worldbank.org/topic/climate-change) from The World Bank  
 * [*CO2 Emissions vs Vulnerability to Climate Change, by Nation*](https://onlinepublichealth.gwu.edu/resources/climate-change-emissions-data/) from Milken Institute School of Public Health (George Washington University)  
 * [*Carbon Dioxide Emissions*](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions) by Federica Fragapane  
+* [A collection of charts and infographics](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html#link-4531c5a) related to climate change from the *New York Times*  
 * Lots more in the `Images` folder!  
 
 
