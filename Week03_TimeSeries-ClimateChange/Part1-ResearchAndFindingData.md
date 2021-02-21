@@ -29,7 +29,7 @@ My preferred structure:
 Our main tool this semester will be creating web-based graphics using the Javascript library `chart.js`. Some weeks we'll be doing code demos as a group, but they will also be available as code examples you can run and as videos.
 
 This week, please take a look at these examples:  
-* Video tutorials (coming soon)  
+* [Video tutorials](https://www.youtube.com/playlist?list=PLsGCUnpinsDn93L5F0BxBxILZoF5nyeLz)  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/ciM6Ipx1Q)  
 * [`chart.js` documentation](https://www.chartjs.org/docs/latest), which includes lots more info on options!  
 

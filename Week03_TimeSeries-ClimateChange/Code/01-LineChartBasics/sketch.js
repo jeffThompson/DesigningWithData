@@ -60,7 +60,7 @@ let options = {
       // the data we want to graph, defined at the top
       data: data,
     }]
-  },
+  }
 }
 
 // with all our options complete, we can create the chart!
