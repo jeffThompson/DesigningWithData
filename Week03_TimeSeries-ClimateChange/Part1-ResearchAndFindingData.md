@@ -8,6 +8,7 @@
 * [Find data to work with](#find-data-to-work-with)  
 * [Submit annotated list of sources to Canvas](#turning-everything-in)  
 
+***  
 
 ### Create a project folder  
 Organization is (kinda) boring but so important for projects like these. Create a folder for your project and a notes file inside. I really like `.txt` files for this because they load super quick, but you can use any format you want.
@@ -24,6 +25,7 @@ My preferred structure:
 
 (Google Docs/Drive can be great but I find the login/file-hunting process to be way too slow and permanence can be an issue for large projects. On the other hand, for collaborative projects a shared Dropbox folder works great and ensures everyone has access!)
 
+***  
 
 ### Watch `chart.js` tutorials  
 Our main tool this semester will be creating web-based graphics using the Javascript library `chart.js`. Some weeks we'll be doing code demos as a group, but they will also be available as code examples you can run and as videos.
@@ -35,6 +37,7 @@ This week, please take a look at these examples:
 
 Try running the examples in the browser and feel free to modify and experiment with them! We'll build on these demos next week by loading your data from a file automatically and add some extra functionality!
 
+***  
 
 ### Contextual readings  
 Finding a single reading to introduce a topic as wide-randing as climate change is impossible. Instead, I've tried to pick a few short pieces that can help give some context to a topic we all know something about:
@@ -51,6 +54,7 @@ Optional readings:
 
 Keep your notes file open while reading and add sources, thoughts, or areas you might want to research. The readings don't cover every possible take on the topic of climate change, so this is just a starting point.
 
+***  
 
 ### Find data to work with  
 Most data vis projects start with finding data and this will be your main work this week. Sometimes this can be a hunt for elusive data buried deep on a website or even creating your own datasets when they don't yet exist! But data for climate change will be quite the opposite: a deluge to choose from.
@@ -88,6 +92,7 @@ When you've found at least one source you're excited about, write up 1–2 parag
 
 (Aside: lots of times you'll find a site that you know has data but it is impossible to figure out how to access it! As an example, the Intergovernmental Panel on Climate Change has a [data page](https://www.ipcc.ch/data) but the links to actual data are buried in tons of text. Sadly, this happens a lot. [The real data is here](http://www.ipcc-data.org) on a totally different site!)
 
+***  
 
 ### Turning everything in  
 When you've found data you want to work with, paste the paragraphs about your data into Canvas for this week.
