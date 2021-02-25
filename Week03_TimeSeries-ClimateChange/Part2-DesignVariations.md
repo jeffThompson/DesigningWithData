@@ -1,7 +1,7 @@
 # PART 2: DESIGN VARIATIONS
 
 ### TLDR  
-* ⚠️ Due Monday, March 8 by 11am EST ⚠️   
+* ⚠️ Due Monday, March 8 by 11am EST ⚠️  
 * [Watch tutorials on loading data](#watch-tutorials-on-loading-data)  
 * [Clean up your data (if necessary)](#clean-up-your-data-if-necessary)  
 * [Create three variations on your visualization](#create-three-variations-on-your-visualization)  
