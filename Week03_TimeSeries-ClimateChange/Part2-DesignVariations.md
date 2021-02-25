@@ -8,6 +8,7 @@
 * [Turn in screenshots of your designs to Canvas](#turning-everything-in)  
 * [Having trouble with your code?](#having-trouble-with-your-code)  
 
+***  
 
 ### Watch tutorials on loading data  
 Just a few videos this week, mostly on `csv` data and how to load it into your sketch.
@@ -16,19 +17,21 @@ Just a few videos this week, mostly on `csv` data and how to load it into your s
 * [Code examples]()  
 * [Template project]()  
 
+***  
 
 ### Clean up your data (if necessary)  
-Data is rarely in the exact format we need and often contains gaps or othe problems. We'll look at ways of manipulating and working with your data throughout the semester, but for now just clean up your data so that it can be loaded into `chart.js`. You can use Excel or Google Sheets for this.
+Data is rarely in the exact format we need and often contains gaps or othe problems. We'll look at ways of manipulating and working with your data throughout the semester, but for now just clean it up so that it can be loaded into `chart.js`. You can use Excel or Google Sheets for this.
 
 Some things to consider:  
 * Adding headers in the first row to label the data  
 * Removing columns that don't apply to your visualization  
 * Cutting entries that you don't want to include (ex: date ranges that aren't important to the story you want to tell) or that are missing key data  
 
-**But most important: save a copy!** You always want to preserve your original data. If you want to make changes, I like to duplicate my file first, that way I don't accidentally overwrite something important (ask me how I know).
+**But most important: save a copy!** You always want to preserve your original data. If I'm going to make changes, I like to duplicate my file first, that way I don't accidentally overwrite something important (ask me how I know).
 
 If you're working in Excel/Google Sheets, export your data as a `csv` file so you can load it into your code.
 
+***  
 
 ### Create three variations on your visualization  
 With your data ready, upload it to the `assets` folder in the [code template](). You should then be able to plug the data into `chart.js`.
@@ -37,6 +40,7 @@ Start in an exploratory way, seeing what the data looks like and thinking about 
 
 When you find something you like, duplicate your sketch and work on two more variations. This kind of exploration is really helpful to try things out and get useful feedback.
 
+***  
 
 ### Turning everything in  
 With your design variations complete, take a screenshot of them – ideally, cropped just to the visualization. Upload them to Canvas. We'll take a look next time in small groups for feedback.
