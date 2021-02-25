@@ -5,7 +5,7 @@
 ### TLDR  
 * Visualize time-series data about climate change using `chart.js`  
 * [For March 1](Part1-ResearchAndFindingData.md): project setup, find data you'd like to work with, contextual readings    
-* For March 8: design variations, read [*Continue, Pivot, or Put It Down*](https://pudding.cool/process/pivot-continue-down)  
+* [For March 8](Part2-DesignVariations.md): design variations, read [*Continue, Pivot, or Put It Down*](https://pudding.cool/process/pivot-continue-down)  
 * For March 15: finish project  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
