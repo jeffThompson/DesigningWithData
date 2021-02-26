@@ -31,7 +31,14 @@ My preferred structure:
 Our main tool this semester will be creating web-based graphics using the Javascript library `chart.js`. Some weeks we'll be doing code demos as a group, but they will also be available as code examples you can run and as videos.
 
 This week, please take a look at these examples:  
-* [Video tutorials](https://www.youtube.com/playlist?list=PLsGCUnpinsDn93L5F0BxBxILZoF5nyeLz)  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDn93L5F0BxBxILZoF5nyeLz):  
+  * Introducing chart.js  
+  * Setting Up a Project  
+  * Line Chart Basics  
+  * Adding Line Chart Options  
+  * Multiple Datasets  
+  * Splitting Line Charts  
+  * Homework video, with examples  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/ciM6Ipx1Q)  
 * [`chart.js` documentation](https://www.chartjs.org/docs/latest), which includes lots more info on options!  
 

@@ -13,7 +13,7 @@
 ### Watch tutorials on loading data  
 Just a few additional videos this week, mostly on `csv` data and how to load it into your sketch – see the list of new videos below:
 
-* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDn93L5F0BxBxILZoF5nyeLz)
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDn93L5F0BxBxILZoF5nyeLz):  
   * Comma-Separated Values (CSV)  
   * Loading CSV Files into chart.js  
   * Two Columns from CSV 
