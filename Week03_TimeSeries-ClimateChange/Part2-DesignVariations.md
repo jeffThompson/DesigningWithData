@@ -28,7 +28,10 @@ Data is rarely in the exact format we need and often contains gaps or othe probl
 
 Some things to consider:  
 * Adding headers in the first row to label the data  
-* Removing columns that don't apply to your visualization  
+* Tidying up headers:  
+  * No spaces between commas (ex: `year, maxTemp` &rarr; `year,maxTemp`)  
+  * Remove spaces in header names (ex: `max temp` &rarr; `max_temp` or `maxTemp`)  
+* Removing columns of data that don't apply to your visualization or merging with another dataset  
 * Cutting entries that you don't want to include (ex: date ranges that aren't important to the story you want to tell) or that are missing key data  
 
 **But most important: save a copy!** You always want to preserve your original data. If I'm going to make changes, I like to duplicate my file first, that way I don't accidentally overwrite something important (ask me how I know).
