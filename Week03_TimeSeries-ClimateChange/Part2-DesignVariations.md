@@ -15,7 +15,7 @@ Just a few additional videos this week, mostly on `csv` data and how to load it 
 
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDn93L5F0BxBxILZoF5nyeLz):  
   * Comma-Separated Values (CSV)  
-  * Loading CSV Files into chart.js  
+  * Loading CSV Files into `chart.js`  
   * Two Columns from CSV 
   * Merging CSV Files  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/ciM6Ipx1Q)  
