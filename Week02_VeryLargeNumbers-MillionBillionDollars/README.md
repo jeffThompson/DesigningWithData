@@ -11,6 +11,7 @@
 * Due Feb 22 by 11am EST
 * Install a text editor and Firefox or Chrome (see note below)
 
+***
 
 ### ASSIGNMENT
 This week, we'll start thinking about the ways that we can visually encode numbers. There are lots of premade formats, some familiar ([pie charts](https://datavizproject.com/data-type/pie-chart), [line graphs](https://datavizproject.com/data-type/line-chart)) and some less so ([radar diagrams](https://datavizproject.com/data-type/radar-diagram), [violin plots](https://datavizproject.com/data-type/violin-plot)). But while very useful for distilling lots of numbers into a meaningful whole, these formats can lack creativity and visual impact when trying to show just a few numbers.
@@ -41,12 +42,14 @@ Please make sure they work (ie open them) so you're ready for our demos next wee
 
 *Above: an image from Josh Orter (of the Stupid Calculations blog) showing how big a shape would be made by stacking every iPhone screen into a huge grid. This is from 2013, so imagine what it would be like now...*
 
+***
 
 ### DELIVERABLES
 * Visualization (in any media/format) that shows the difference between $1, $1M, and $1B
 * Upload finished piece (or URL, if it's too big or is better that way) to Canvas
 * Include 1-paragraph description of your approach to the project as a comment
 
+***
 
 ### INSPIRATION
 *Some of these examples are in the `Images` folder for this week, others are links*
@@ -60,6 +63,7 @@ Please make sure they work (ie open them) so you're ready for our demos next wee
 * A screenshot of a tweet from Paul Franz that converts 1M and 1B into time
 * An old but excellent video from Veritasium titled [*How Far Away is the Moon? (The Scale of the Universe)*](https://www.youtube.com/watch?v=Bz9D6xba9Og)
 
+***
 
 ### RESOURCES
 * If you need to convert one unit to another, you can just type it into Google (or, if you're on a Mac, into Spotlight!). For example, if you search for `0.55mm to inches` it will give you the answer – easy!

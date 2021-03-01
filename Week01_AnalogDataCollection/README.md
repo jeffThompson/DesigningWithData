@@ -10,6 +10,7 @@
 * Read the chapter *Why Visualize: From Information to Wisdom* ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879))
 * Watch [*Dear Data* keynote presentation](https://vimeo.com/157474716)
 
+***
 
 ### ASSIGNMENT
 Soon we'll be thinking about numbers, how to store and organize data, and ways we can use code to parse large datasets. But for our first assignment, we'll start more simple and experimental: your assignment is to identify something in your daily life and create a visual record of that activity. This can be something mundane, a part of your routine, something unusual that you do, etc. Don't worry about numerical data or making charts – in fact, I'm asking you *not* to think about numbers or make charts for this project! Instead, think about how you can keep track visually: evidence, marks, leftovers, etc.
@@ -27,6 +28,7 @@ Please also read the chapter *Why Visualize: From Information to Wisdom* from th
 
 *Above: visualizations of data about a week of laughter from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations for a year.*
 
+***
 
 ### PHOTO GUIDELINES
 To ensure the photo of your piece looks its best, use these guidelines:
@@ -36,6 +38,7 @@ To ensure the photo of your piece looks its best, use these guidelines:
 * Set exposure and focus manually, if your phone allows
 * Take a few images and pick the best one
 
+***
 
 ### INSPIRATION
 :warning: Each week, you can find images of these projects in this weeks' `Images` folder!

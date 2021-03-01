@@ -10,6 +10,7 @@
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
+***
 
 ### ASSIGNMENT
 > “There is no way to think up an original and extraordinary design — it can only come as a result of pursuing a given task. In the same way running down a list of words is different from making a narrative.” – [Artemy Lebedev](https://www.artlebedev.com/mandership/162)    
@@ -23,6 +24,7 @@ Your project will have a few key components:
 
 *Above: a really beautiful infographic of carbon dioxide emissions by Federica Fragapane ([detail images here](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions))*
 
+***
 
 ### INSPIRATION  
 * [*#ShowYourStripes*](https://showyourstripes.info/) by Ed Hawkins (see also [this interesting article](https://www.cbsnews.com/news/climate-change-2000-years-of-earths-temperatures-in-one-simple-chart-and-copycat-misinformation) on the project and misleading knockoffs)  
@@ -41,12 +43,14 @@ Your project will have a few key components:
 * [A collection of charts and infographics](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html#link-4531c5a) related to climate change from the *New York Times*  
 * Lots more in the `Images` folder!  
 
+***
 
 ### RESOURCES  
 * [*A Brief History of Climate Change*](https://www.bbc.com/news/science-environment-15874560) from the BBC  
 * [*History of Climate Change Science*](https://en.wikipedia.org/wiki/History_of_climate_change_science) from Wikipedia  
 * [*The Discovery of Global Warming: Timeline*](https://history.aip.org/climate/timeline.htm) by Spencer Weart (lots more great stuff on that site too)  
 
+***
 
 ### DATA SOURCES  
 Looking for data can be challenging – below are some places to start but I encourage you to go beyond these sources!  
@@ -59,6 +63,7 @@ Looking for data can be challenging – below are some places to start but I enc
 * [Data.gov](https://www.data.gov/climate/) from the U.S. federal government (kind of a mess, but *lots* of data)  
 * [Intergovernmental Panel on Climate Change](http://www.ipcc-data.org/)  
 
+***
 
 ### WHAT ABOUT MAPS?  
 When thinking about climate change, maps immediately come to mind. They allow us to see changes in temperature over time, location of unprecedented weather events, and impacts of sea-level rise in a spatial format that is familiar. So why aren't we making maps for this project?
