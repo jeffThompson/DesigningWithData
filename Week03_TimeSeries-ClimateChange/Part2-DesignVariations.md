@@ -50,8 +50,9 @@ When you find something you like, duplicate your sketch and work on two more var
 ***  
 
 ### Turning everything in  
-With your design variations complete, take a screenshot of them – ideally, cropped just to the visualization. Upload them to Canvas. We'll take a look next time in small groups for feedback.
+With your design variations complete, take a screenshot of them – ideally, cropped just to the visualization, but don't sweat it if you don't know how to do that. Upload them to Canvas. We'll take a look next time in small groups for feedback.
 
+***
 
 ### Having trouble with your code?  
 Code and data visualization can be confusing and frustrating at times, even if you've been doing this a long time! A few resources to look at:  
