@@ -22,6 +22,7 @@ This class assumes you’ve never worked with data or written code before. If yo
 
 See the [syllabus PDF](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Syllabus.pdf) for course format, policies, grading, etc.
 
+***
 
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
@@ -44,18 +45,18 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class    | Crit of `One/Million/Billion Dollars` projects |
 | Demos       | Introduction to `chart.js`, Javascript basics, adding data manually, basic line charts |
 | Homework    | Find data, project setup |
-| Reading     | TBA |
+| Reading     | Contextual readings on climate change |
 
 | MARCH 1     | Time Series: Climate Change 2 |
 | :---        | :--- |
-| Demos       | Loading data from file, line styles, scale options, custom labels |
+| Demos       | Loading data from file, line styles, scale options |
 | Data format | Comma-separated values (CSV) |
 | Reading     | *Continue, Pivot, or Put It Down* (Thomas) |
 | Homework    | Design variations |
 
 | MAR 8       | Time Series: Climate Change 3 |
 | :---        | :--- |
-| Demos       | Cleaning and processing CSV data, publishing datasets |
+| Demos       | Cleaning and processing CSV data, publishing datasets, custom labels |
 | Homework    | Finish `Climate Change` |
 
 | MAR 15      | Infographics: Race in America 1 |
