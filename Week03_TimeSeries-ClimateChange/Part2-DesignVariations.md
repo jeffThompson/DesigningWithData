@@ -30,7 +30,7 @@ Some things to consider:
 * Adding headers in the first row to label the data  
 * Tidying up headers:  
   * No spaces between commas (ex: `year, maxTemp` &rarr; `year,maxTemp`)  
-  * Remove spaces in header names (ex: `max temp` &rarr; `max_temp` or `maxTemp`)  
+  * Remove spaces in header names (ex: `max temp` &rarr; `max_temp` (replace with underscore) or `maxTemp` ([camel-case](https://en.wikipedia.org/wiki/Camel_case)), don't use dashes, periods, or other characters!)  
 * Removing columns of data that don't apply to your visualization or merging with another dataset  
 * Cutting entries that you don't want to include (ex: date ranges that aren't important to the story you want to tell) or that are missing key data  
 
