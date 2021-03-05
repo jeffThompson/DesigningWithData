@@ -10,12 +10,12 @@
 ***  
 
 ### Refine visualization and finish project  
-Your main task this week is to incorporate the feedback you got in class and refine your visualization. This version should be as carefully refined as you can using the tools we've covered so far. Think about what story your data tells and how best to show us it. If you need additional data or want to learn more about a feature of `chart.js` that will help, go for it!
+Your main task this week is to incorporate the feedback you got in class and refine your visualization. This version should be as carefully refined as you can using the tools we've covered so far. Think about what story your data tells and how best to show us it. If you need additional data or want to learn more about a feature of `chart.js` that will make your visualization better, go for it!
 
 ***
 
 ### Publish data as a Google Sheet  
-When your visualization is done, the other main task this week is to publish your data online. It's very likely that you've modified the original data in some way: removing columns, renaming things in the header, or even merging multiple datasets. By publishing our data for everyone to see, we accomplish a few things: people can trace and audit our work, and they can use your data in their own projects (making your hard work pay off in a way that extends beyond your own project). 
+When your visualization is done, the other main task this week is to publish your data online. It's very likely that you've modified the original data in some way: removing columns, renaming things in the header, or even merging multiple datasets. By publishing our data for everyone to see, we accomplish a few things: people can trace and audit our work, and they can use your data in their own projects (making your hard work pay off in a way that extends beyond your own visualization). 
 
 📈 [See an example dataset with info tab here](https://docs.google.com/spreadsheets/d/1kFYcBnjcvPd6R6EJ3te4vVXbzAAJHQUZbq2_0YPEVBY/edit?usp=sharing) 📉
 
@@ -24,12 +24,12 @@ As a platform, we'll use [Google Sheets](https://docs.google.com/spreadsheets) �
 Add your data to the spreadsheet:  
 1. Create a new spreadsheet  
 2. Add your data...  
-  - `File > Import → Upload...` and upload your CSV file (or copy/paste your data from Excel)  
-  - Let Sheets automatically convert everything (unless you see it creates errors)  
+  * `File > Import → Upload...` and upload your CSV file (or copy/paste your data from Excel)  
+  * Let Sheets automatically convert everything (unless you see it creates errors)  
 3. Clean up formatting, such as:  
-  - Font and font size  
-  - Column layout (manual or right-click column &rarr; `Resize column → Fit to data`)  
-  - Remove extra data or columns  
+  * Font and font size  
+  * Column layout (manual or right-click column → `Resize column → Fit to data`)  
+  * Remove extra data or columns  
 4. Rename spreadsheet to something clear  
 5. Click the tab at the bottom (probably the filename you imported) and rename to something like `Data`  
 
@@ -53,7 +53,7 @@ If you want to see some examples of how folks have published their own data, che
 * [The Pudding](https://github.com/the-pudding/data)  
 * [Information is Beautiful](https://informationisbeautiful.net/data/)  
 * [Five Thirty-Eight](https://github.com/fivethirtyeight/data)  
-* Miriam Posner's [*Reconstructing Early African American Film History Database*](https://github.com/miriamposner/af-am-film-data)  
+* [*Reconstructing Early African American Film History Database*](https://github.com/miriamposner/af-am-film-data)  
 
 (Note: most of these are hosted on Github, which is a lot harder to use than Google Sheets. If you'd prefer to use Github, go for it! Just make sure your repository is public.)
 
