@@ -15,18 +15,21 @@ Your main task this week is to incorporate the feedback you got in class and ref
 ***
 
 ### Publish data as a Google Sheet  
-When your visualization is done, the other main task this week is to publish your data online. It's very likely that you've modified the original data in some way: removing columns, renaming things in the header, or even merging multiple datasets. By publishing our data for everyone to see, we accomplish a few things: people can trace and audit our work, and they can use your data in their own projects (making your hard work pay off in a way that extends beyond your own project). As a platform, we'll use Google Sheets – it's essentially the same as Excel, so it works great for `csv` data but makes sharing easy.
+When your visualization is done, the other main task this week is to publish your data online. It's very likely that you've modified the original data in some way: removing columns, renaming things in the header, or even merging multiple datasets. By publishing our data for everyone to see, we accomplish a few things: people can trace and audit our work, and they can use your data in their own projects (making your hard work pay off in a way that extends beyond your own project). 
 
 📈 [See an example dataset with info tab here](https://docs.google.com/spreadsheets/d/1kFYcBnjcvPd6R6EJ3te4vVXbzAAJHQUZbq2_0YPEVBY/edit?usp=sharing) 📉
 
+As a platform, we'll use [Google Sheets](https://docs.google.com/spreadsheets) – it's essentially the same as Excel, so it works great for `csv` data but makes sharing easy.
+
+Add your data to the spreadsheet:  
 1. Create a new spreadsheet  
 2. Add your data...  
-  1. `File > Import → Upload...` and upload your CSV file (or copy/paste your data from Excel)  
-  2. Let Sheets automatically convert everything (unless you see it creates errors)  
+  - `File > Import → Upload...` and upload your CSV file (or copy/paste your data from Excel)  
+  - Let Sheets automatically convert everything (unless you see it creates errors)  
 3. Clean up formatting, such as:  
-  * Font and font size  
-  * Column layout (manual or right-click column &rarr; `Resize column → Fit to data`)  
-  * Remove extra data or columns  
+  - Font and font size  
+  - Column layout (manual or right-click column &rarr; `Resize column → Fit to data`)  
+  - Remove extra data or columns  
 4. Rename spreadsheet to something clear  
 5. Click the tab at the bottom (probably the filename you imported) and rename to something like `Data`  
 
