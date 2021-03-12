@@ -1,4 +1,4 @@
-![]()
+![A grid of hand-drawn visualizations by W.E.B. Du Bois from his series "Data Portraits"](Images/WEBDuBois-VariousVisualizations-ca1900.png)
 
 # INFOGRAPHICS: RACE IN AMERICA
 
@@ -30,7 +30,7 @@ Your project will have a few key components:
 * Include at least three separate visualizations as well as text, quotes, images, video, etc that weave a story about your topic  
 * A published dataset with citation to the original source(s)  
 
-*Above: an image of W.E.B. Du Bois' "Data Portraits"*
+*Above: a collection of some of the hand-drawn visualizations by W.E.B. Du Bois from his "Data Portraits" project, circa 1900*
 
 ***
 
@@ -50,13 +50,14 @@ If at any point in our conversations you need to take a beat or mute our Zoom co
   * [*U.S. Gun Deaths*](https://guns.periscopic.com) by Periscopic  
   * [*Fatal Force*](https://www.washingtonpost.com/graphics/2018/national/police-shootings-2018/?utm_term=.3126be797490) from the Washington Post  
   * [*Mapping Police Violence*](https://mappingpoliceviolence.org) by Samuel Singyangwe, DeRay McKesson, and Johnetta Elzie  
-  * [*Gun Deaths in America*] by Ben Casselman, Matthew Conlen, and Reuben Fischer-Baum  
+  * [*Gun Deaths in America*](https://fivethirtyeight.com/features/gun-deaths) by Ben Casselman, Matthew Conlen, and Reuben Fischer-Baum  
   * [*1.5 Million Missing Black Men*](https://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html) by Justin Wolfers, David Leonhardt, and Kevin Quealy  
 * [Simple, effective graphic](https://twitter.com/melissaforpa/status/1353349448403976192?s=11) from Melissa Shusterman on Kamala Harris as vice president  
 * [*Transatlantic Slave Trade in Two Minutes*](https://www.openculture.com/2016/06/the-atlantic-slave-trade-visualized-in-two-minutes.html) by Stephanie Nicole  
 * [Visualization of a speech by Martin Luther King Jr](https://www.brainpickings.org/2013/08/28/nancy-duarte-mlk-speech) by Nancy Duarte  
 * Lots of visualizations from the exhibition [*Who We Are: New York City by the Numbers*](https://www.mcny.org/story/art-data) ([more on the show](https://www.mcny.org/exhibition/who-we-are))  
 * [*16 Maps That Americans Don't Like To Talk About*](https://www.vox.com/2015/5/27/8618261/america-maps-truths) from Vox  
+* [Amazing collection of "persuasive maps"](https://digital.library.cornell.edu/?f%5Bcollection_tesim%5D%5B%5D=Persuasive+Maps%3A+PJ+Mode+Collection&per_page=50&sort=latest_date_isi+asc%2C+title_tesi+asc&view=gallery) from Cornell University  
 
 ***
 
@@ -70,11 +71,13 @@ If at any point in our conversations you need to take a beat or mute our Zoom co
 ***
 
 ### DATA SOURCES  
-* [Tons of datasets](https://www.pewresearch.org/download-datasets) from the Pew Research Center
+* [Tons of datasets](https://www.pewresearch.org/download-datasets) from the Pew Research Center  
+* [US Census Bureau data](https://data.census.gov/cedsci) (more [here too](https://www.census.gov/data/tables.html))  
 * [Police use of force in New Jersey](https://www.nj.com/news/2018/11/see_how_often_nj_police_punch_kick_or_use_other_fo.html)  
 * [Names of 1.8-million emancipated slaves](https://www.openculture.com/2020/01/the-names-of-1-8-million-emancipated-slaves-are-now-searchable-in-the-worlds-largest-genealogical-database-helping-african-americans-find-lost-ancestors.html)  
 * [Library of Congress' historical American newspapers collection](https://chroniclingamerica.loc.gov/about/api)  
-* [Impact of COVID-19 on Black Communities](https://d4bl.org/covid19-data.html) from Data for Black Lives  
+* [Impact of COVID-19 on Black communities](https://d4bl.org/covid19-data.html) from Data for Black Lives  
 * [Historical lynching data](https://plaintalkhistory.com/monroeandflorencework/extras/download.html) collected by Monroe and Florence Work  
 * Many of the projects listed above also have links to their data and sources  
+* And lots of the data sources listed in the previous assignment will have data too!
 
