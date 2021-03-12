@@ -30,6 +30,8 @@ If you have time, here are some additional readings (and other media) that will 
 * [Amanda Gorman reading *The Hill We Climb*](https://www.cnn.com/2021/01/20/politics/amanda-gorman-inaugural-poem-transcript/index.html) at the Biden/Harris inauguration\*  
 * [*The U.S. Has a Long-Standing History of Vilifying Minority Groups During Times of Crisis*](https://fivethirtyeight.com/features/covid-19-has-led-to-an-uptick-in-anti-asian-racism) by Alex Samuels  
 * [*Lynch Mobs Killed Latinos Across the West. The Fight to Remember These Atrocities is Just Starting*](https://www.nytimes.com/2019/03/02/us/porvenir-massacre-texas-mexicans.html) by Simon Romero/NYT  
+* [*A History of Anti-Hispanic Bigotry in the United States*](https://www.washingtonpost.com/outlook/a-history-of-anti-hispanic-bigotry-in-the-united-states/2019/08/09/5ceaacba-b9f2-11e9-b3b4-2bb69e8c4e39_story.html) by Marie Arana/Washington Post  
+* [*"Model Minority" Myth Again Used as a Racial Wedge Between Asians and Blacks*](https://www.npr.org/sections/codeswitch/2017/04/19/524571669/model-minority-myth-again-used-as-a-racial-wedge-between-asians-and-blacks) Kat Chow/NPR Code Switch  
 
 *\*Suggested by Prof. Lindsey Swindall – thanks!*
 
