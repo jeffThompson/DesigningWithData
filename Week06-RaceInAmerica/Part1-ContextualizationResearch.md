@@ -36,7 +36,7 @@ If you have time, here are some additional readings (and other media) that will 
 ***
 
 ### Find a research rabbit hole  
-From your reading notes, identify a few of your "things I want to know more about" questions that are particularly interesting and spend some time online researching them. It may be helpful to connect this with your personal experience, with a historical period or event, or a specific community. This isn't about coming to a definitive answer but instead about following rabbit holes: research that leads you from a known starting point down meandering pathways to topics and stories you never expected. Follow links in articles, look for citations, open *lots* of tabs! (&larr; like seriously, 30+ tabs is totally reasonable here)
+From your reading notes, identify a few of your "things I want to know more about" questions that are particularly interesting and spend some time online researching them. It may be helpful to connect this with your personal experience, with a historical period or event, or a specific community. This isn't about coming to a definitive answer but instead about following rabbit holes: research that leads you from a known starting point down meandering pathways to topics and stories you never expected. Follow links in articles, look for citations, open *lots* of tabs! &larr; like seriously, 30+ tabs is totally reasonable here 
 
 This kind of research should be open-ended and not results oriented. You don't need to walk away from this with a clear plan but (kind of like our readings) a sense of part of this topic, new things you didn't know about before, and more questions you want to ask.
 
