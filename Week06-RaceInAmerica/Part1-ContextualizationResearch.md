@@ -1,4 +1,4 @@
-# PART 1: CONTEXUALIZATION READING AND RESEARCH RABBIT HOLE  
+# PART 1: CONTEXUALIZATION RESEARCH  
 
 ### TLDR  
 * ⚠️ Due Monday, March 22 by 11am EST ⚠️  
@@ -42,5 +42,5 @@ From your reading notes, identify a few of your "things I want to know more abou
 
 This kind of research should be open-ended and not results oriented. You don't need to walk away from this with a clear plan but (kind of like our readings) a sense of part of this topic, new things you didn't know about before, and more questions you want to ask.
 
-Take lots of notes, keep track of images and (if you find some) data.
+Take lots of notes, keep track of images and, if you find some, data too.
 
