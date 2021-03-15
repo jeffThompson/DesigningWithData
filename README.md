@@ -62,21 +62,20 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | MAR 15      | Infographics: Race in America 1 |
 | :---        | :--- |
 | In class    | Crit of `Climate Change` projects |
-| Demos       | Bar and pie charts, multiple charts |
-| Data format | JSON |
-| Homework    | Contextualization research, find data |
-| Reading     | TBA |
+| Homework    | Contextualization research, research rabbit hole |
+| Reading     | *Historical Foundations of Race* (Roediger), *Letter to My Son* (Coates) |
 
 | MAR 22      | Infographics: Race in America 2 |
 | :---        | :--- |
-| In class    | Ideation session |
-| Demos       | Adding HTML and CSS |
-| Homework    | Narrow topic, further research and data-gathering, sketches |
+| In class    | Finish crit of `Climate Change` projects, ideation session |
+| Demos       | Bar and pie charts, multiple charts, adding images and text |
+| Data format | JSON |
+| Homework    | Narrow topic, further research and data-gathering, wireframe sketches |
 
 | MAR 29      | Infographics: Race in America 3 |
 | :---        | :--- |
 | In class    | Share data findings |
-| Demos       | Exporting `png` and `svg`, adding images and video, further HTML/CSS |
+| Demos       | Exporting `png` and `svg`, further HTML/CSS |
 | Homework    | Visualization prototype |
 | Watch       | *The Design of Nothing: Null, Zero, Blank* (Kirk) |
 
