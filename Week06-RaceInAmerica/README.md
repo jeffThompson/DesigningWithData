@@ -5,8 +5,8 @@
 ### TLDR  
 * Create at least three visualizations investigating the topic of race in America  
 * Should include contextual information like text, quotes, images, etc  
-* [For March 22](Part1-ContextualizationResearch.md): contextualization research, find data  
-* For March 29: narrow topic, further research, sketches  
+* [For March 22](Part1-ContextualizationResearch.md): contextualization reading and research rabbit hole  
+* For March 29: narrow topic, find data, sketches  
 * For April 5: prototypes, watch *The Design of Nothing: Null, Zero, Blank*  
 * For April 12: finish project, start thinking about `Final Project` ideas  
 
