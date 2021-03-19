@@ -1,0 +1,126 @@
+
+CSV CLEANUP AND CALCULATION
+----------------------------
+
+raw example: 
+https://docs.google.com/spreadsheets/d/1iW431-iGAFGhl_ozA3xYnDDQB7ioywTeWgmIrG_ngGM/edit#gid=0
+
+cleaned example: 
+https://docs.google.com/spreadsheets/d/1jdDQMdSQB_7xHeMlqIdYc-X-H963l0Lf5gnj55jyNA4/edit#gid=0
+
+
+0. grab your data
+
+https://www.nj.com/education/2018/03/heres_how_every_nj_high_school_fared_on_the_sat.html#incart_2box_nj-homepage-featured
+
+  - open in excel
+  - copy > paste into sheets
+  - (or import right to sheets)
+
+2. column width
+  - select column headers
+  - right click
+  - resize > fit to data...
+
+3. headers
+  - note: headers and data messy
+  - mix of all caps
+  - rename to make clearer
+  - could bold too
+
+  - get rid of some columns too
+
+4. school and district names
+  - some all caps, some not
+  - make em all caps
+  - select column > insert right
+  - =UPPER()
+  - run auto-fill as suggested!
+
+  then...
+  - copy column
+  - select orig col
+  - edit > paste special > values...
+  - delete formula col
+
+5. explore data
+  - data > create filter
+  - sort by various cols
+
+6. ask a question:
+  - what's the average score?
+
+  - random cell...
+    - =AVERAGE([col])
+    - do for total, math, and reading
+    - number format
+
+  - compare w SIT
+    - reading: 640–710
+    - math: 700–780
+    - =(low+high) / 2
+
+7. ask another question:
+  - how does each school compare with
+    the national average?
+
+https://reports.collegeboard.org/archive/sat-suite-program-results/2019/class-2019-results
+
+  - nation-wide mean scores are...
+    - reading/writing: 531
+    - math: 528
+    - total: 1059
+
+  - add in col next to total
+  - select cell...
+  - double-click little box to copy down
+
+  - new column
+  - =[state mean] - [us mean]
+  - divergence from us mean
+  - + means higher, - means lower
+
+  - data > turn off filter
+  - do it again, sort by divergence
+
+8. and another question
+  - how many schools are better at
+    reading than math?
+
+  - new column > "better at reading"
+  - =IF([reading] > [math], "YES", "NO")
+  - paste down
+
+  - how many for each?
+  - in random cell...
+    - =COUNTIF([range], "YES")
+    - same for no
+  - % of all nj schools...
+    - 399 schools
+    - =([count] / 399)
+    - will be 0–1
+    - format to %
+
+9. how much aid does each district get?
+
+https://www.nj.gov/education/stateaid/1617/
+
+  - total aid given
+    - new cell
+    - =SUM('Aid by County'!C:C)
+    - format as $
+
+  - super fancy: aid by district
+    - new column...
+    - =INDEX('Aid by County'!C:C, MATCH(C2, 'Aid by County'!B:B, 0))
+    - paste down
+
+  - what is that formula?!
+    - gives us the value from the aid sheet
+    - compares with all district names
+    - 0 = first match only
+    - note some #N/A values!
+      - means dist wasn't found...
+      - possibly spelled wrong
+      - or charter schools that don't get state aid
+      - or missing data
