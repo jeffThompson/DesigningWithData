@@ -11,35 +11,37 @@
 ***
 
 ### Watch tutorial videos  
-This week, please check out these tutorials on using Google Sheets, other visualization formats:
+This week, please check out these tutorials on using Google Sheets and other visualization formats with `chart.js`:
 
 * [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDnRq3Bj8tv0RXj8lTjD2iNt)  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/JCZu66jDK)  
-* [Sample spreadsheet to work with](https://docs.google.com/spreadsheets/d/1iW431-iGAFGhl_ozA3xYnDDQB7ioywTeWgmIrG_ngGM/edit#gid=0)
-* [And the same data, all cleaned up](https://docs.google.com/spreadsheets/d/1iW431-iGAFGhl_ozA3xYnDDQB7ioywTeWgmIrG_ngGM/edit#gid=0)  
+* Spreadsheets from the Sheets tutorial:  
+  * [Unprocessed data](https://docs.google.com/spreadsheets/d/1iW431-iGAFGhl_ozA3xYnDDQB7ioywTeWgmIrG_ngGM/edit#gid=0) (for you to practice with)  
+  * [...and the same data, all cleaned up](https://docs.google.com/spreadsheets/d/1iW431-iGAFGhl_ozA3xYnDDQB7ioywTeWgmIrG_ngGM/edit#gid=0)  
 
-Next week, we'll have some demos on adding images, etc to our pages as well as some additional features of `chart.js`.
+The Sheets video is a bit longer than usual so feel free to stop after the first half, which shows you basics for manipulating data and some common formulas. Next week, we'll have some demos on adding images, etc to our pages as well as some additional features of `chart.js`.
 
 ***
 
 ### Narrow your topic  
-Last week, you spent time following research rabbit holes, hopefully ending up somewhere unexpected and interesting. This week, you should think about what you found and narrow your topic. You'll want to end up with something broad enough that you have room to explore and change direction but specific enough so you have an idea where to start.
+Last week, you spent time following research rabbit holes, hopefully ending up somewhere unexpected and interesting. This week, you should think about what you found and narrow your topic. You'll want to end up with something broad enough that you have room to explore and change direction but specific enough so you can get started.
 
 Some ways to think about this that might be helpful:  
 * Look at the "what do I want to know more about" questions you came up with  
 * Is there a specific story, person, or experience you can focus on?  
-* If you found historical topics, is there a connection you can draw with today? Something that has changed over time (or hasn't)?  
+* If you found historical topics, is there a connection you can draw between that time and today? Something that has changed over time (or hasn't)?  
+* Pick a decade and view your topic through that lens  
 
-Write up a one-sentence pitch for your project: what will you be looking at and what's a key takeaway. Keep it tight, declarative, and specific!
+Write up a one-sentence pitch for your project: what will you be looking at and what's a key takeaway. Keep it tight, declarative, and specific! Imagine you're pitching this to an editor or client.
 
 ***
 
 ### Find data  
-With a more refined focus for your project, your main work this week will be finding data to work with. While `csv` data will still be most common and easy to work with, `json` data will also be possible (we'll take a look at `json` next week). 
+With a more refined focus for your project, your main work this week will be finding data to work with. While `csv` data will still be most common and easy to work with, `json` data will also be possible (we'll take a look at how to work with data in this format next week). If you find data in another format, feel free to reach out and we can talk about whether you'll be able to use it!
 
 For this project, you'll be making three separate visualizations. A single dataset might be interesting enough on its own (or can be broken up into sub-datasets) but you might also want to find complementary data too.
 
-If you want, try putting it into `chart.js` (or do a quick-and-dirty visualization with Sheets/Excel) and see how it looks. As before, keep careful track of your sources for publishing your data at the end.
+If you want, try putting your data into `chart.js` (or do a quick-and-dirty visualization with Sheets/Excel) and see how it looks. As before, keep careful track of your sources for publishing your data at the end.
 
 ***
 
