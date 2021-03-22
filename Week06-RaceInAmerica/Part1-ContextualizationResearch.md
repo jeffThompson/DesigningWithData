@@ -5,6 +5,7 @@
 * [Contextual readings, "what do I want to know more about" questions](#contextual-readings)  
 * [Optional readings](#optional-readings)  
 * [Find a research rabbit hole](#find-a-research-rabbit-hole)  
+* No need to turn anything in, come ready to discuss  
 
 ***
 
