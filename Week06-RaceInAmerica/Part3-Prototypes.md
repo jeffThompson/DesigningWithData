@@ -26,14 +26,6 @@ Your main work this week will be prototyping the three visualizations that you'l
 
 Another useful way to frame this work is using *Seven Stages of Creating a Data Visualization* by Ben Fry (co-creator of the Processing language and head of [Fathom Information Design](https://fathom.info)):  
 
-| **Acquire** | Formulate a question, find your sources and gather data |
-| **Parse** | What's in the data? What ideas does the data suggest? |
-| **Filter** | Determine which data-points/correlations are most interesting, remove "noise" from dataset |
-| **Mine** | Extract data for your visualization, double-check results |
-| **Represent** | Correlate data into meaningful forms, create initial representations of data in visual form |
-| **Refine** | Evaluate the results of early representations, iteratively refine the representation and question |
-| **Interact** | View the results, look for interesting stories, add value or meaning through additions/features |
-
 * **Acquire:** Formulate a question, find your sources and gather data  
 * **Parse:** What's in the data? What ideas does the data suggest?  
 * **Filter:** Determine which data-points/correlations are most interesting, remove "noise" from dataset  
