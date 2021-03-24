@@ -1,7 +1,7 @@
 # PART 3: PROTOTYPES  
 
 ### TLDR  
-* ⚠️ Due Monday, April 12 by 11am EST ⚠️  
+* ⚠️ Due Monday, April 5 by 11am EST ⚠️  
 * [Watch tutorial videos](#watch-tutorial-videos)  
 * [Prototype your visualizations](#prototype-your-visualizations)  
 * [Watch *The Design of Nothing* by Andy Kirk](#watch-the-design-of-nothing)  

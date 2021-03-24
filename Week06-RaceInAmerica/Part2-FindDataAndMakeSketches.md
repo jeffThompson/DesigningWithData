@@ -1,7 +1,7 @@
 # PART 2: FIND DATA, WIREFRAME SKETCHES  
 
 ### TLDR  
-* ⚠️ Due Monday, April 5 by 11am EST ⚠️  
+* ⚠️ Due Monday, March 29 by 11am EST ⚠️  
 * [Watch tutorial videos](#watch-tutorial-videos)  
 * [Narrow your topic, write a 1-sentence description](#narrow-your-topic)  
 * [Find data](#find-data)  
