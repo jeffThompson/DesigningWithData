@@ -15,12 +15,37 @@ This week, we have some tutorials on how to customize your chart's tooltips, how
 * [Video tutorials for this week]()  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/mmAJdCA44)  
 
+You can also find the `json`, `kml`, and other data files shown in the `Demos` folder here.
+
 ***
 
 ### Prototype your visualizations  
 Your main work this week will be prototyping the three visualizations that you'll include in your project. These don't need to be perfect yet: instead, focus on getting the data loaded (and tidied up, if necessary) and that the visualizations clearly communicate the information.
 
 "Storytelling" is a key idea here: you don't have to do everything in a single visualization, so how do you lead us through the story you're trying to tell? What is important for us to see first: the whole dataset, an important part?
+
+Another useful way to frame this work is using *Seven Stages of Creating a Data Visualization* by Ben Fry (co-creator of the Processing language and head of [Fathom Information Design](https://fathom.info)):  
+
+* **Acquire**  
+  * Formulate a question   
+  * Find your sources and gather data  
+* **Parse**  
+  * What's in the data? What ideas does the data suggest?  
+* **Filter**  
+  * Determine which data-points/correlations are most interesting  
+  * Remove "noise" from dataset  
+* **Mine**  
+  * Extract data for your visualization  
+  * Double-check results  
+* **Represent**  
+  * Correlate data into meaningful forms  
+  * Create initial representations of data in visual form  
+* **Refine**  
+  * Evaluate the results of early representations  
+  * Iteratively refine the representation and question  
+* **Interact**  
+  * View the results, look for interesting stories  
+  * Add value or meaning through additions/features  
 
 If you have time, you can also start adding additional elements to your page such as text and images.
 
