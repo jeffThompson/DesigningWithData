@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<earthquake>
+	<eqid>11034853</eqid>
+	<src>ci</src>
+	<version>0</version>
+	<datetime>Monday November 21, 2011 01:01:38 UTC</datetime>
+	<lat>33.1762</lat>
+	<lon>-115.6135</lon>
+	<magnitude>3.2</magnitude>
+	<depth>2.30</depth>
+	<nst>70</nst>
+	<region>Southern California</region>
+</earthquake>
+
+<earthquake>
+	<eqid>10360520</eqid>
+	<src>ak</src>
+	<version>1</version>
+	<datetime>Sunday November 20, 2011 23:32:28 UTC</datetime>
+	<lat>59.6523</lat>
+	<lon>-154.5378</lon>
+	<magnitude>3.2</magnitude>
+	<depth>194.10</depth>
+	<nst>59</nst>
+	<region>Southern Alaska</region>
+</earthquake>
+
+<earthquake>
+	<eqid>c0006v94</eqid>
+	<src>us</src>
+	<version>5</version>
+	<datetime>Sunday November 20, 2011 21:25:40 UTC</datetime>
+	<lat>5.6169</lat>
+	<lon>127.2300</lon>
+	<magnitude>4.7</magnitude>
+	<depth>81.30</depth>
+	<nst>30</nst>
+	<region>Philippine Islands region</region>
+</earthquake>
+

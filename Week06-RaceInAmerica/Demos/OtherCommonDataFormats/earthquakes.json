@@ -1,0 +1,36 @@
+{
+	"11034853": {
+		"src": "ci",
+		"version": 0,
+		"datetime": "Monday, November 21, 2011 01:01:38 UTC",
+		"lat": 33.1762,
+		"lon": -115.6135,
+		"magnitude": 3.2,
+		"depth": 2.30,
+		"nst": 70,
+		"region": "Southern California"
+	},
+	"10360520": {
+		"src": "ak",
+		"version": 1,
+		"datetime": "Sunday, November 20, 2011 23:32:28 UTC",
+		"lat": 59.6523,
+		"lon": -154.5378,
+		"magnitude": 3.2,
+		"depth": 194.10,
+		"nst": 59,
+		"region": "Southern Alaska"
+	},	
+	"c0006v94": {
+		"src": "us",
+		"version": 5,
+		"datetime": "Sunday, November 20, 2011 21:25:40 UTC",
+		"lat": 5.6169,
+		"lon": 127.2300,
+		"magnitude": 4.7,
+		"depth": 81.30,
+		"nst": 30,
+		"region": "Philippine Islands region"
+	}
+}
+
