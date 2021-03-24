@@ -12,7 +12,7 @@
 ### Watch tutorial videos  
 This week, we have some tutorials on how to customize your chart's tooltips, how to create more than one visualization on a page, and an introduction to adding text, images, and other elements to your project's page too.
 
-* [Video tutorials for this week]()  
+* [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDkzLls8TCm0BtDUMfH2poqU)  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/mmAJdCA44)  
 
 You can also find the `json`, `kml`, and other data files shown in the `Demos` folder here.
