@@ -14,6 +14,7 @@ This week, we have some tutorials on how to customize your chart's tooltips, how
 
 * [Video tutorials for this week](https://youtube.com/playlist?list=PLsGCUnpinsDkzLls8TCm0BtDUMfH2poqU)  
 * [Code examples](https://editor.p5js.org/jeffThompson/collections/mmAJdCA44)  
+* [Blank project template](https://editor.p5js.org/jeffThompson/sketches/tmeI1zkgp) (includes all the HTML and CSS so you can add items to your project)  
 
 You can also find the `json`, `kml`, and other data files shown in the `Demos` folder here.
 
