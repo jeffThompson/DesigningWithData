@@ -1,0 +1,88 @@
+/*
+This file changes the position, size, color,
+behavior, etc of all elements on the web-page
+where our chart is displayed. You won't need
+to modify this unless you want to, but I've 
+annotated a few things that you might want 
+to change.
+
+*/
+
+*, html, body {
+  margin:  0;
+  padding: 0;
+  
+  /* font to use */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size:   14px;
+}
+
+/* images */
+img {
+  width:         100%;
+  border:        1px solid rgb(200,200,200);
+  margin-bottom: 1em;
+}
+
+/* canvas element (which displays
+   your charts) */
+canvas {
+  display: block;
+  margin:  2em 0 1em 0;
+}
+
+/* overall container for everything */
+#wrapper {
+  width:  90%;
+  margin: 2em auto 4em auto;
+}
+
+/* sections on your page */
+#header {
+  text-align:     center;
+  margin-bottom:  2em;
+}
+#header p {
+  font-style:    italic;
+}
+#main {
+  /* nothing here right now! */
+}
+#footer {
+  margin-top:  1em;
+  padding-top: 1em;
+  border-top:  2px solid rgb(200,200,200);
+}
+
+/* text types: headlines, paragraphs, captions,
+   and lists */
+h1 {
+  font-size:     2em;
+  margin-bottom: 0.1em;
+}
+h2 {
+  font-size:     1em;
+  margin-bottom: 0.3em;
+}
+p {
+  font-size:     1em;
+  line-height:   1.3em;
+  margin-bottom: 1em;
+}
+figcaption {
+  text-align:    center;
+  font-style:    italic;
+  margin-bottom: 1.6em;
+}
+ul {
+  margin: -0.6em 0 0 1em;
+}
+
+/* links */
+a, a:visited {
+  color: rgb(100,100,100);
+}
+a:active, a:hover {
+  color: rgb(0,150,255);
+}
+
