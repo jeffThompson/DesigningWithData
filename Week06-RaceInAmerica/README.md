@@ -8,7 +8,7 @@
 * [For March 22](Part1-ContextualizationResearch.md): contextualization readings and research rabbit hole  
 * [For March 29](Part2-FindDataAndMakeSketches.md): narrow topic, find data, sketches  
 * [For April 5](Part3-Prototypes.md): prototypes, watch *The Design of Nothing: Null, Zero, Blank*  
-* [For April 12](Part4-FinishProject): finish project, start thinking about `Final Project` ideas  
+* [For April 12](Part4-FinishProject.md): finish project, start thinking about `Final Project` ideas  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
