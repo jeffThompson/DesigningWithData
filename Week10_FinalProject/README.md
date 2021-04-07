@@ -1,4 +1,4 @@
-![Map of the US distored to show volume of votes for Clinton/Trump in the 2016 presidential election](Images/USPresidentialElectionBenjaminHennig-2016.png)
+![Map of the US distored to show volume of votes for Clinton/Trump in the 2016 presidential election](Images/BenjaminHennig-USPresidentialElection-2016.png)
 
 # FINAL PROJECT
 
