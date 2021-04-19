@@ -110,7 +110,8 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class    | Small group feedback on WIP, work day, demos as needed |
 | Homework    | Finish `Final Project` |
 
-| EXAM PERIOD | Date/time TBA |
+| EXAM PERIOD | Final critique |
 | :---        | :--- |
+| **Date/time**   | **May 12, 8–11am EST** |
 | In class    | Critique of `Final Projects` |
 
