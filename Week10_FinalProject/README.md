@@ -5,7 +5,7 @@
 ### TLDR  
 * Create a project that visualizes data using any media and approach  
 * [For April 19](Part1-ProjectPitches.md): project pitches  
-* For April 26: find data, exploratory visualizations  
+* [For April 26](Part2-FindDataAndExploratoryVisualizations.md): find data, exploratory visualizations  
 * For May 3: work in progress  
 * For May 10: further work in progress  
 * For exam period (date TBA): finish project  
