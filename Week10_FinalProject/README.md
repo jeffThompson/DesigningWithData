@@ -8,7 +8,7 @@
 * [For April 26](Part2-FindDataAndExploratoryVisualizations.md): find data, exploratory visualizations  
 * [For May 3](Part3And4-WorkInProgress.md): work in progress  
 * [For May 10](Part3And4-WorkInProgress.md): further work in progress  
-* For May 12, 8–11am EST (exam period): finish project, final critique  
+* [For May 12, 8–11am EST (exam period)](Part5-FinishYourProject.md): finish project, final critique  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
