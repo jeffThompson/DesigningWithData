@@ -23,7 +23,7 @@ Please come to the critique caffinated and ready to share your work!
 ### TURNING EVERYTHING IN  
 Since everyone's projects vary in format, please use one of the following options to turn in your work on Canvas:  
 
-* Code-based projects: submit a link to your project in the `p5.js` web editor  
+* Code-based projects: submit a link to your project in the `p5.js` web editor or hosted elsewhere online  
 * Video/animation: submit a link to your piece on YouTube, Vimeo, etc  
 * Print/screen: upload your project to Canvas (PDF is preferred)  
 * Other formats: chat with me about what's the best way to turn in your project!  
