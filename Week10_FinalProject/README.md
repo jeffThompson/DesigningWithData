@@ -6,9 +6,9 @@
 * Create a project that visualizes data using any media and approach  
 * [For April 19](Part1-ProjectPitches.md): project pitches  
 * [For April 26](Part2-FindDataAndExploratoryVisualizations.md): find data, exploratory visualizations  
-* For May 3: work in progress  
-* For May 10: further work in progress  
-* For exam period (date TBA): finish project  
+* [For May 3](Part3And4-WorkInProgress.md): work in progress  
+* [For May 10](Part3And4-WorkInProgress.md): further work in progress  
+* For May 12, 8–11am EST (exam period): finish project, final critique  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
