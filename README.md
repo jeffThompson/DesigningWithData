@@ -1,10 +1,10 @@
+**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/DesigningWithData#course-calendar)**
+
 >"90% of the data in the world today has been created in the last two years." – IBM report on big data
 
 >"Getting information from a table is like extracting sunlight from a cucumber." – Arthur and Henry Farquhar
 
 # DESIGNING WITH DATA
-
-**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/DesigningWithData#course-calendar)**
 
 | Instructor     | Prof. Jeff Thompson (please call me Jeff) |
 | :---           | :--- |
