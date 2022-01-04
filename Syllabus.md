@@ -1,18 +1,22 @@
 # COURSE POLICIES  
 
 * [Required materials](#format)
-* [Homework ](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#homework) 
-* [Grading](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#grading)  
-* [Learning accommodations](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#learning-accommodations)  
-* [Pronouns](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#pronouns)  
-* [Inclusion statement](https://github.com/jeffThompson/CreativeProgramming2/blob/master/Syllabus.md#inclusion-statement)  
+* [Homework ](#homework) 
+* [Grading](#grading)  
+* [Learning accommodations](#learning-accommodations)  
+* [Pronouns](#pronouns)  
+* [Inclusion statement](#inclusion-statement)  
 
 ***
 
 ### REQUIRED MATERIALS
 Required and suggested readings will be provided as PDFs on GitHub – there is no required textbook. However, all students will need:
 
-* A reliable webcam, either built into your computer or an external one. You may want to consider purchasing an external webcam for class projects anyway. I suggest the [Logitech C920](https://www.logitech.com/en-us/products/webcams/c920s-pro-hd-webcam.960-001257.html) (though at $80 it’s kinda spendy). Logitech also offers their [BRIO camera](https://www.logitech.com/en-us/products/webcams/brio-4k-hdr-webcam.960-001105.html), which does 4k video (but is $200). For a barebones but manual focus model, the [ELP camera](https://www.amazon.com/ELP-Camera-Megapixel-Windows-Android/dp/B00KA7WSSU) is a good choice though the picture quality is not as good.
+* DuckBills for laser and inkjet printing in the VA&T Fab Lab  
+* Up-to-date version of Firefox or Chrome  
+* Text editor (Sublime Text and Brackets are free and super, but feel free to use another if you prefer)  
+* Google Docs account (for working with and sharing data)  
+• Adobe Creative Cloud, either installed on your computer or using the Lab computers  
 * A notebook or sketchbook for taking notes, figuring things out, and ideation. Find (or make!) one you really like. I particularly love [Moleskine sketchbooks with gridded paper](https://www.amazon.com/Moleskine-Classic-Notebook-Cover-Squared/dp/8883701135) but use whatever makes you want to draw in it!  
 
 ***
