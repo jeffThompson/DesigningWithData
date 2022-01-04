@@ -18,7 +18,7 @@ We'll begin by considering a broad idea of what data might be and different ways
 
 This class assumes you’ve never worked with data before but does assume you've written at least a little code; if you've done lots of this before, you should leverage that experience to push your work and make more complex projects. You're also encouraged to combine what we do with any additional software, materials, and processes that you're familiar with and/or excited about.
 
-See the [syllabus]() for course format, policies, grading, etc.
+See the [syllabus](https://github.com/jeffThompson/DesigningWithData/blob/master/Syllabus.md) for course format, policies, grading, etc.
 
 ***
 
@@ -33,9 +33,9 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * Feb 24: Time Series (Climate Change 3)  
 * Mar 3: Infographics (Race in America 1)  
 * Mar 10: Infographics (Race in America 2)  
-* Mar 17: **Spring break, no class!**  
+* **Mar 17: Spring break, no class!**  
 * Mar 24: Infographics (Race in America 3)  
-* Mar 31: Infographics (Race in America 4)  
+* Mar 31: Beautiful Data
 * Apr 7: Final Project 1  
 * Apr 14: Final Project 2  
 * Apr 21: Final Project 3  
