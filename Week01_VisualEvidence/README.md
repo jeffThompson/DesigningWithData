@@ -13,14 +13,13 @@
 ***
 
 ### ASSIGNMENT
-Soon we'll be thinking about numbers, how to store and organize data, and ways we can use code to parse large datasets. But for our first project, we'll start more simple and experimental: your assignment is to identify something in your daily life and create a visual record of that activity. This can be something mundane, a part of your routine, something unusual that you do, etc. Don't worry about numerical data or making charts – in fact, I'm asking you *not* to think about numbers or make charts for this project! Instead, think about how you can keep track visually: evidence, marks, leftovers, etc.
+Soon we'll be thinking about numbers, how to store and organize data, and ways we can use code to parse large datasets. But for our first project, we'll start more simple and experimental: your assignment is to identify something in your daily life and create a visual record of that activity. This can be something mundane, a part of your routine, something unusual that you do, etc. Don't worry about numerical data or making charts – in fact, I'm asking you *not* to think about numbers or make charts for this project! Instead, think about how you can keep track visually: evidence, marks, leftovers, etc. Think creatively and don't be afraid to experiment!
 
 How might you record...
 * Every time you brush your teeth?  
 * Every walk you take? Every step?  
-* Everything you eat?
-
-Think creatively! And think about timescale too: should you record every meal for a week, every bite in a single meal, or every chew-motion in a single bite?
+* Everything you eat?  
+* Think about timescale too: should you record every meal for a week, every bite in a single meal, or every chew-motion in a single bite?
 
 When you're done, take a photo of your piece and upload it to Canvas. Write a comment that explains what you recorded and your methodology – about one paragraph.
 
