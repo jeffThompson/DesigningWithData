@@ -25,7 +25,7 @@ See the [syllabus](https://github.com/jeffThompson/DesigningWithData/blob/master
 ### COURSE CALENDAR
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly.
 
-* Jan 20: [Analog Data Collection](https://github.com/jeffThompson/DesigningWithData/tree/master/Week01_AnalogDataCollection)  
+* Jan 20: [Visual Evidence](https://github.com/jeffThompson/DesigningWithData/tree/master/Week01_VisualEvidence)  
 * Jan 27: Representing Numbers  
 * Feb 3: Representing (Very Large) Numbers  
 * Feb 10: Time Series (Climate Change 1)  

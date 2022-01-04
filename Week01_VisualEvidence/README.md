@@ -1,19 +1,18 @@
 ![Visualizations of data about a week of laughter from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations for a year](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Week01_AnalogDataCollection/Images/DearData-Composite-GeorgiaLupiAndStefaniePosavec.jpg)
 
-# ANALOG DATA COLLECTION
+# VISUAL EVIDENCE
 
-### TLDR
-* Find an analog way to record some aspect of your daily life
+### TLDR  
+* Due January 27 by the start of class  
+* Find an analog way to record evidence of some aspect of your daily life
 * No numbers or charts allowed!
-* Due Feb 8 by 11am EST
-* Upload a photo of your project to Canvas with a comment explaining what your data source was and how you collected it
-* Read the chapter *Why Visualize: From Information to Wisdom* ([available through the Stevens library](https://stevens.on.worldcat.org/oclc/826866879))
+* Upload a photo of your project to Canvas with a comment explaining what your data source was and how you collected it  
 * Watch [*Dear Data* keynote presentation](https://vimeo.com/157474716)
 
 ***
 
 ### ASSIGNMENT
-Soon we'll be thinking about numbers, how to store and organize data, and ways we can use code to parse large datasets. But for our first assignment, we'll start more simple and experimental: your assignment is to identify something in your daily life and create a visual record of that activity. This can be something mundane, a part of your routine, something unusual that you do, etc. Don't worry about numerical data or making charts – in fact, I'm asking you *not* to think about numbers or make charts for this project! Instead, think about how you can keep track visually: evidence, marks, leftovers, etc.
+Soon we'll be thinking about numbers, how to store and organize data, and ways we can use code to parse large datasets. But for our first project, we'll start more simple and experimental: your assignment is to identify something in your daily life and create a visual record of that activity. This can be something mundane, a part of your routine, something unusual that you do, etc. Don't worry about numerical data or making charts – in fact, I'm asking you *not* to think about numbers or make charts for this project! Instead, think about how you can keep track visually: evidence, marks, leftovers, etc.
 
 Some examples:
 * Make a mark with toothpaste on a sheet of black paper every time you brush your teeth
@@ -41,7 +40,7 @@ To ensure the photo of your piece looks its best, use these guidelines:
 ***
 
 ### INSPIRATION
-:warning: Each week, you can find images of these projects in this weeks' `Images` folder!
+:warning: Each week, you can find images of these projects in this week's `Images` folder!
 
 * *Dear Data* project by Georgia Lupi and Stefanie Posavec – [see the full set of visualizations here](http://www.dear-data.com/all)
 * [*Feltron Annual Report*](http://feltron.com) by Nicholas Felton
