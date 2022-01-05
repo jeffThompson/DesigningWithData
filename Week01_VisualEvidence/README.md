@@ -21,7 +21,7 @@ How might you record...
 * Everything you eat?  
 * Think about timescale too: should you record every meal for a week, every bite in a single meal, or every chew-motion in a single bite?
 
-When you're done, take a photo of your piece and upload it to Canvas. Write a comment that explains what you recorded and your methodology – about one paragraph.
+When you're done, take a photo of your piece and upload it to Canvas. Write a comment (about one paragraph) that explains what you recorded and how you captured it.
 
 Please also watch the [keynote presentation on *Dear Data*](https://vimeo.com/157474716) by Stefanie Posavec and Georgia Lupi.
 
