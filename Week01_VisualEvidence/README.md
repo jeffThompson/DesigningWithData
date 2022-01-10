@@ -7,7 +7,7 @@
 * Find an analog way to record evidence of some aspect of your daily life
 * No numbers or charts allowed!
 * Upload a photo of your project to Canvas with a comment explaining what your data source was and how you collected it  
-* Bring your finished project to class next week  
+* ~Bring your finished project to class next week~ I'll share my screen and we'll look at your projects together on Zoom next week    
 * Watch [*Dear Data* keynote presentation](https://vimeo.com/157474716)
 
 ***
