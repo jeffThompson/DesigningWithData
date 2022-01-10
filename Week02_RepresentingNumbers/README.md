@@ -7,7 +7,7 @@
 * Create a visualization for the NY Times on animal sleep duration
 * Show at least two and no more than five data-points  
 * Use any media and format you want  
-* Bring your finished proejct to class next week  
+* Bring your finished project to class next week  
 
 ***
 
