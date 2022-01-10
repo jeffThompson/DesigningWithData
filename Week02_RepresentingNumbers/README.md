@@ -22,7 +22,7 @@ Start with some research (see `Possible Data Sources` below for starting points)
 
 Note: be sure to keep track of where you got your data from! Later this semester, we'll be including that information in our visualizations and even publishing our own datasets. You can add that now if you like, but either way it's a good habit to start keeping track of everything as you're working.
 
-*Above: .*
+*Above: [Sara Piccolomini's](https://sarapiccolomini.com/#project) infographic showing data about the Titanic and its sinking.*
 
 ***
 
