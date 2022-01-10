@@ -14,7 +14,7 @@
 ### ASSIGNMENT
 This week, we'll start thinking about the ways that we can visually encode numbers. There are lots of existing formats for displaying data, some familiar ([pie charts](https://datavizproject.com/data-type/pie-chart), [line graphs](https://datavizproject.com/data-type/line-chart)) and some less so ([radar diagrams](https://datavizproject.com/data-type/radar-diagram), [violin plots](https://datavizproject.com/data-type/violin-plot)). But while they can be very useful for distilling lots of numbers into a meaningful whole, these formats can lack creativity and visual impact when trying to show just a few numbers.
 
-You've been asked by the New York Times to create an illustration showing how long different animals sleep. You can use any media and format you like, so long as you *don't* use charts of any kind! Your illustration should include two (or more) data-points.
+As a way to ease into the more complex work we'll do later, you've been asked by the New York Times to create an illustration showing how long different animals sleep. You can use any media and format you like, so long as you *don't* use charts of any kind! Your illustration should include two (or more) data-points.
 
 > A "data point" is a single value. It may be part of a set of values (what we'd call "data" or a "data set") or on its own (like a statistic).
 
