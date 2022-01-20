@@ -8,7 +8,7 @@
 * No numbers or charts allowed!
 * Upload a photo of your project to Canvas with a comment explaining what your data source was and how you collected it  
 * ~Bring your finished project to class next week~ I'll share my screen and we'll look at your projects together on Zoom next week    
-* Watch [*Dear Data* keynote presentation](https://vimeo.com/157474716)
+* Watch [*Dear Data* keynote presentation](https://vimeo.com/133608605)
 
 ***
 
@@ -23,7 +23,7 @@ How might you record...
 
 When you're done, take a photo of your piece and upload it to Canvas. Write a comment (about one paragraph) that explains what you recorded and how you captured it.
 
-Please also watch the [keynote presentation on *Dear Data*](https://vimeo.com/157474716) by Stefanie Posavec and Georgia Lupi.
+Please also watch the [keynote presentation on *Dear Data*](https://vimeo.com/133608605) by Stefanie Posavec and Georgia Lupi.
 
 *Above: visualizations of data about a week of laughter from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations for a year.*
 
