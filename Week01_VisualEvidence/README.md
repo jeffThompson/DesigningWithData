@@ -1,4 +1,4 @@
-![Visualizations of data about a week of laughter from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations for a year](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Week01_VisualEvidence/Images/DearData-Composite-GeorgiaLupiAndStefaniePosavec.jpg)
+![Visualizations of data about a week of laughter from Georgia Lupi and Stefanie Posavec's "Dear Data" project, where they exchanged postcards with hand-drawn visualizations for a year](Images/DearData-Composite-GeorgiaLupiAndStefaniePosavec.jpg)
 
 # VISUAL EVIDENCE
 
