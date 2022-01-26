@@ -3,7 +3,7 @@
 # ONE/MILLION/BILLION DOLLARS
 
 ### TLDR
-* Due Feb 9 at the start of class  
+* Due Feb 10 at the start of class  
 * Make a visualization showing the difference between $1, $1M, and $1B
 * Any media, any format
 * Upload project or URL to Canvas
