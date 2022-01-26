@@ -1,4 +1,4 @@
-![An image from Josh Orter (of the Stupid Calculations blog) showing how big a shape would be made by stacking every iPhone screen into a huge grid](https://raw.githubusercontent.com/jeffThompson/DesigningWithData/master/Week02_VeryLargeNumbers-MillionBillionDollars/Images/EveryiPhoneScreen-JoshOrter-2013-1.jpg)
+![An image from Josh Orter (of the Stupid Calculations blog) showing how big a shape would be made by stacking every iPhone screen into a huge grid](Images/EveryiPhoneScreen-JoshOrter-2013-1.jpg)
 
 # ONE/MILLION/BILLION DOLLARS
 
