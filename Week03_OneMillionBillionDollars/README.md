@@ -51,6 +51,7 @@ In his chapter *What We Talk About When We Talk About Visualization* (in the `Re
 * [*1/10,000th Scale World*](https://xkcd.com/2411/) by xkcd, featuring giant people walking around the Earth
 * A screenshot of a tweet from Paul Franz that converts 1M and 1B into time
 * An old but excellent video from Veritasium titled [*How Far Away is the Moon? (The Scale of the Universe)*](https://www.youtube.com/watch?v=Bz9D6xba9Og)
+* Computer programming pioneer [Grace Hopper's "nanoseconds"](https://americanhistory.si.edu/collections/search/object/nmah_692464#coa-21290)  
 
 ***
 
