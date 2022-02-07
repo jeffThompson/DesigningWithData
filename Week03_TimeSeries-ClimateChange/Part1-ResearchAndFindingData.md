@@ -22,7 +22,7 @@ My preferred structure:
 * `Data` folder (keep everything you find, you never know!)  
 * Subfolders as the project progresses with clear file naming  
 
-(Google Docs/Drive can be great but I find the login/file-hunting process to be way too slow and permanence can be an issue for large projects. On the other hand, for collaborative projects a shared Dropbox folder works great and ensures everyone has access!)
+Google Docs/Drive can be great but I find the login/file-hunting process to be way too slow and permanence can be an issue for large projects. For collaborative projects, a shared Dropbox folder works great and ensures everyone has access. On the other hand, Google Docs/Drive is awesome for publishing data once it's cleaned up!
 
 ***  
 
