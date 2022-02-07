@@ -5,7 +5,6 @@
 ### TLDR  
 * Due March 3  
 * Visualize time-series data about climate change using Adobe Illustrator  
-  * Feel free to add extra visualizations, illustrations, etc to your infographic too!  
 * [For Feb 17](Part1-ResearchAndFindingData.md): find data you'd like to work with, contextual readings  
 * [For Feb 24](Part2-DesignVariations.md): design variations  
 * [For March 3](Part3-FinishProjectAndPublishData.md): finish project and publish data  
@@ -24,6 +23,7 @@ This project is the first of two assignments that dig deep into complex social a
 Your project will have a few key components:  
 * Use [time-series](https://en.wikipedia.org/wiki/Time_series) data related to climate change (see also [*What About Maps?*](#what-about-maps) below)  
 * A finished visualization made with Adobe Illustrator that you have refined  
+  * Feel free to add extra visualizations, illustrations, etc to your infographic too!  
 * A published dataset with citation to the original source(s)  
 
 *Above: a really beautiful infographic of carbon dioxide emissions by Federica Fragapane ([detail images here](https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions))*
