@@ -4,10 +4,10 @@
 
 ### TLDR  
 * Due March 3  
-* Visualize time-series data about climate change using Adobe Illustrator  
-* [For Feb 17](Part1-ResearchAndFindingData.md): find data you'd like to work with, contextual readings  
-* [For Feb 24](Part2-DesignVariations.md): design variations  
-* [For March 3](Part3-FinishProjectAndPublishData.md): finish project and publish data  
+  * [For Feb 17](Part1-ResearchAndFindingData.md): find data you'd like to work with, contextual readings  
+  * [For Feb 24](Part2-DesignVariations.md): design variations  
+  * [For March 3](Part3-FinishProjectAndPublishData.md): finish project and publish data 
+* Visualize time-series data about climate change using Adobe Illustrator   
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
