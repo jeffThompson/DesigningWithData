@@ -3,8 +3,8 @@
 ### TLDR  
 * Due Feb 24  
 * [Clean up your data (if necessary)](#clean-up-your-data-if-necessary)  
-* [Create a visualization in Sheets](#create-a-visualization-in-sheets)  
-* [Make 2–3 variations on your design in Illustrator](#make-2-3-variations)  
+* [Make a rough visualization in Sheets](#rough-visualization-in-sheets)  
+* [Create 2–3 variations on your design in Illustrator](#create-23-variations-in-illustrator)  
 * Upload variations to Canvas  
 * [Having trouble?](#having-trouble)  
 
@@ -16,6 +16,7 @@ Data is rarely in the exact format we need and often contains gaps or othe probl
 Some things to consider:  
 * Add headers in the first row to label the data   
 * Remove columns of data that don't apply to your visualization  
+* Convert data from one unit to another (ºC to ºF, percent, etc)  
 * Merge your dataset with another  
 * Cut entries that you don't want to include (ex: date ranges that aren't important to the story you want to tell) or that are missing key data  
 
@@ -23,14 +24,14 @@ Some things to consider:
 
 ***
 
-### CREATE A VISUALIZATION IN SHEETS  
+### ROUGH VISUALIZATION IN SHEETS  
 The visualizations Sheets makes aren't amazing, but they are super fast and that makes them perfect for prototyping. Use this as a chance to explore the data, extending our work in class. What parts of the data are most interesting? What data should be assigned to which axes in your chart?
 
 The results will definitely *not* be finished, but the goal here is a good starting point to work from in Illustrator. Once you have something you're happy, export the chart as an `pdf` format and open it in Illustrator.
 
 ***
 
-### MAKE 2–3 VARIATIONS  
+### CREATE 2–3 VARIATIONS IN ILLUSTRATOR  
 In Illustrator, place the PDF file and start playing with it. To access all it's parts, you may need to:
 
 * Ungroup (right-click &rarr; ungroup...)  
