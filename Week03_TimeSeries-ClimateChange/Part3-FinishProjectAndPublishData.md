@@ -52,8 +52,8 @@ If you want to see some examples of how folks have published their own data, che
 ***
 
 ### Turn everything in  
-When finished, please submit two URLs to Canvas:  
+When finished, please submit to Canvas:  
 
-* The link to your visualization code in the `p5.js` web editor  
 * The link to your published dataset on Google Sheets  
+* Your Illustrator file as a PDF (we'll do this in class together)
 
