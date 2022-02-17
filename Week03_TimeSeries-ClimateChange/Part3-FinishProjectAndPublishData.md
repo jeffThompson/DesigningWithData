@@ -2,7 +2,6 @@
 
 ### TLDR  
 * Due March 3  
-* We'll be having a crit next week with students from Creighton University in Omaha!  
 * [Refine your visualization, finish the project](#refine-visualization-and-finish-project)  
 * [Publish data as a Google Sheet](#publish-data-as-a-google-sheet)  
 * Turning everything in  
