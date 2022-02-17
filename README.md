@@ -30,9 +30,9 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * Jan 20: [Visual Evidence](Week01_VisualEvidence)  
 * Jan 27: [Representing Numbers](Week02_RepresentingNumbers)  
 * Feb 3: [One/Million/Billion Dollars](Week03_OneMillionBillionDollars)  
-* Feb 10: Time Series (Climate Change 1)  
-* Feb 17: Time Series (Climate Change 2)  
-* Feb 24: Time Series (Climate Change 3)  
+* Feb 10: [Time Series (Climate Change 1)](Week03_TimeSeries-ClimateChange)  
+* Feb 17: [Time Series (Climate Change 2)](Week03_TimeSeries-ClimateChange)  
+* Feb 24: [Time Series (Climate Change 3)](Week03_TimeSeries-ClimateChange)  
 * Mar 3: Infographics (Race in America 1)  
 * Mar 10: Infographics (Race in America 2)  
 * **Mar 17: Spring break, no class!**  
