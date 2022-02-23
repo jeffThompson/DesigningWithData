@@ -55,5 +55,5 @@ If you want to see some examples of how folks have published their own data, che
 When finished, please submit to Canvas:  
 
 * The link to your published dataset on Google Sheets  
-* Your Illustrator file as a PDF (we'll do this in class together)
+* Your Illustrator file as a PDF (we'll do this in class together next week)
 
