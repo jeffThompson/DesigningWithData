@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<Document>
+	<Placemark>
+		<name>11034853</name>
+		<Point>
+			<coordinates>33.1762,-115.6135,0</coordinates>
+		</Point>
+
+		<src>ci</src>
+		<version>0</version>
+		<datetime>Monday November 21, 2011 01:01:38 UTC</datetime>
+		<magnitude>3.2</magnitude>
+		<depth>2.30</depth>
+		<nst>70</nst>
+		<region>Southern California</region>
+	</Placemark>
+
+	<Placemark>
+		<name>10360520</name>
+		<Point>
+			<coordinates>59.6523,-154.5378,0</coordinates>
+		</Point>
+
+		<src>ak</src>
+		<version>1</version>
+		<datetime>Sunday November 20, 2011 23:32:28 UTC</datetime>
+		<magnitude>3.2</magnitude>
+		<depth>194.10</depth>
+		<nst>59</nst>
+		<region>Southern Alaska</region>
+	</Placemark>
+	
+	<Placemark>
+		<name>c0006v94</name>
+		<Point>
+			<coordinates>5.6169,127.2300,0</coordinates>
+		</Point>
+
+		<src>us</src>
+		<version>5</version>
+		<datetime>Sunday November 20, 2011 21:25:40 UTC</datetime>
+		<magnitude>4.7</magnitude>
+		<depth>81.30</depth>
+		<nst>30</nst>
+		<region>Philippine Islands region</region>
+	</Placemark>
+</Document>
+</kml>
+
