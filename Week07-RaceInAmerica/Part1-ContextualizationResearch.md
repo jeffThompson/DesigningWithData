@@ -23,7 +23,7 @@ Like many aspects of this this project, these readings can be emotionally draini
 ### FIND A RESEARCH RABBIT HOLE  
 Use your reading notes as a jumping off point for some initial, broad, and exploratory research. It may be helpful to connect with your personal experience, a historical period or event, or a specific community. But this isn't about coming to a definitive answer or even topic yet, but instead about following rabbit holes: research that leads you from a known starting point down meandering pathways to topics and stories you never expected.
 
-Your research should be open-ended and not results oriented. You don't need to walk away from this with a clear plan but (kind of like our readings) a sense of part of this topic, new things you didn't know about before, and more questions you want to ask. Follow links in articles, look for citations, open *lots* of tabs! &larr; like seriously, 30+ tabs is totally reasonable here.
+Your research should be open-ended and not results oriented. You don't need to walk away from this with a clear plan but (kind of like our readings) a sense of part of this topic, new things you didn't know about before, and more questions you want to ask. Follow links in articles, look for citations, open *lots* of tabs! &larr; (Like seriously, 30+ tabs is totally reasonable here.)
 
 Take lots of notes too, and keep track of sources, images, and any data you find. You'll be adding elements like text, quotes, images, and video to your project, so keeping track of that stuff now will be really helpful later.
 
