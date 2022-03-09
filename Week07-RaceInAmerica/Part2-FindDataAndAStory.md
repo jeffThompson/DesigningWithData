@@ -36,7 +36,7 @@ The dataset should connect as closely to your topic as possible, though it may a
 
 You should also find a story about or by a person or people involved in your topic. This doesn't have to be super long or in depth but the idea is to weave in first-person accounts and experiences. (This is a new addition to this assignment: I want you to try hard to find something, but if you come up empty let me know.)
 
-> While `csv` data will still be the easiest to work with (and the most commong), other formats like `json` will also be possible. If you find data in a format other than these, feel free to reach out and we can talk about whether you'll be able to use it!
+> While `csv` data will still be the easiest to work with (and the most common), other formats like `json` will also be possible. If you find data in a format other than these, feel free to reach out and we can talk about whether you'll be able to use it!
 
 If you want, try putting your data into Sheets/Excel for a quick-and-dirty visualization, that's greate but not required, though it may help you understand your data better. As before, keep careful track of your sources for publishing your data at the end.
 
