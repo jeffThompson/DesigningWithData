@@ -36,7 +36,7 @@ What not to worry about yet:
 **BRAIN-WRITING**  
 For our next step, we'll share ideas from the individual ideation exercise then add further thoughts to them using a process called *brain-writing* (which is a variation on [this process](https://en.wikipedia.org/wiki/6-3-5_Brainwriting)).
 
-[Go to this page](https://docs.google.com/spreadsheets/d/1BhFMav_MIDX_cNq62j22I2BsDK1VL6teymh-f4GOTCk/edit?usp=sharing) and we'll talk about what comes next!
+[Go to this page](https://docs.google.com/spreadsheets/d/1GDo203sPzFkDA4DioVRNuSXdsDSyNBrUYP4aeaN18k8/edit?usp=sharing) and we'll talk about what comes next!
 
 ***
 
