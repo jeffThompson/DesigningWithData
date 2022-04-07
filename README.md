@@ -36,12 +36,12 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 * **Mar 17: Spring break, no class!**  
 * Mar 24: [Infographics (Race in America 3)](Week07-RaceInAmerica)  
 * Mar 31: [Infographics (Race in America 4)](Week07-RaceInAmerica)  
-* Apr 7: Final Project 1  
-  * In class: Beautiful Data 1  
-* Apr 14: Final Project 2  
-  * In class: Beautiful Data 2  
-* Apr 21: Final Project 3  
+* Apr 7: [Infographics (Race in America 5)](Week07-RaceInAmerica) / Final Project 1  
   * In class: `chart.js` demos  
+* Apr 14: Final Project 2  
+  * In class: `chart.js` demos  
+* Apr 21: Final Project 3  
+  * In class: Beautiful Data  
 * Apr 28: Final Project 4  
 * Exam period (May 11, 9–11am): Final crit  
 
