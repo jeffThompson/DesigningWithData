@@ -1,0 +1,26 @@
+/*
+This file changes the position, size, color,
+behavior, etc of all elements on the web-page
+where our chart is displayed. You won't need
+to modify this unless you want to!
+
+The styles listed below are mostly just to
+ensure your chart looks nice and is centered
+on the page.
+
+*/
+
+*, html, body {
+  margin:  0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#wrapper {
+  width:  90%;
+  margin: 2em auto 0 auto;
+}
+
