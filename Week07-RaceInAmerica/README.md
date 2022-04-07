@@ -7,9 +7,9 @@
   * For March 10: [contextualization readings, research rabbit hole](Part1-ContextualizationResearch.md)  
   * **March 17: spring break, no class!**  
   * For March 24: [narrow topic, find at least one dataset and one human story, read *Continue, Pivot, or Put It Down*](Part2-FindDataAndAStory.md)  
-  * [For March 31](Part3-Prototypes.md): prototypes  
-  * [For April 7](Part4-RefinedPrototypes.md): refined prototypes  
-  * [For April 14](Part5-FinishProject.md): finish project, start thinking about `Final Project` ideas  
+  * For March 31: [prototypes](Part3-Prototypes.md)  
+  * For April 7: [refined prototypes](Part4-RefinedPrototypes.md)  
+  * For April 14: [finish project](Part5-FinishProject.md), start thinking about `Final Project` ideas  
 * Create a printed zine that includes at least three visualizations on the topic of race in America  
 * Should include contextual information like text, quotes, images, illustrations, too  
 
