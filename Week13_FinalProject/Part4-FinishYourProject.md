@@ -4,7 +4,7 @@
 * Due May 11  
   * We'll have our critique from 9–11am in the regular classroom (not what's listed online)  
 * Finish your project for the final critique  
-* Turning everything in  
+* Turn in documentation of your project to Canvas (see below for details)  
 
 ***
 
