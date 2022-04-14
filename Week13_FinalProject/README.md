@@ -6,8 +6,8 @@
 * Create a project that visualizes data using any media and approach  
 * For April 14: [project pitches](Part1-ProjectPitches.md) (and finish your zine)  
 * For April 21: [find data, exploratory visualizations](Part2-FindDataAndExploratoryVisualizations.md)  
-* For April 28: work in progress  
-* For May 11, 9–11am: finish project, final critique  
+* For April 28: [work in progress](Part3-WorkInProgress.md)  
+* For May 11, 9–11am: [finish project](Part4-FinishYourProject.md), final critique  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
