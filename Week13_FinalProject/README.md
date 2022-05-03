@@ -8,6 +8,7 @@
 * For April 21: [find data, exploratory visualizations](Part2-FindDataAndExploratoryVisualizations.md)  
 * For April 28: [work in progress](Part3-WorkInProgress.md)  
 * For May 11, 9–11am: [finish project](Part4-FinishYourProject.md), final critique  
+* See Canvas for drop-in help hours ahead of our final crit!  
 
 ⚠️ Since this is a multi-week project, details for each week are in separate files! Links in the `TLDR` section above ⚠️ 
 
